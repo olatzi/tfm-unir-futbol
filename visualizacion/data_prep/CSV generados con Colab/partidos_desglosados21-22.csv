@@ -1,0 +1,761 @@
+MatchID,Date,Team,Goals,TeamLocation,OpposingTeam,FullTimeResult,HalfTimeResult,HalfTimeGoals,ShotsOnTarget,Corners,FoulsCommitted,YellowCards,RedCards,Season
+1,13/08/2021,Valencia,1,Local,Getafe,Victoria,Victoria,1,2,1,24,6,1,21-22
+1,13/08/2021,Getafe,0,Visitante,Valencia,Derrota,Derrota,0,4,9,15,3,1,21-22
+2,14/08/2021,Cadiz,1,Local,Levante,Empate,Derrota,0,2,2,10,1,0,21-22
+2,14/08/2021,Levante,1,Visitante,Cadiz,Empate,Victoria,1,3,4,16,5,0,21-22
+3,14/08/2021,Mallorca,1,Local,Betis,Empate,Victoria,1,2,4,12,1,0,21-22
+3,14/08/2021,Betis,1,Visitante,Mallorca,Empate,Derrota,0,1,3,18,3,0,21-22
+4,14/08/2021,Alaves,1,Local,Real Madrid,Derrota,Empate,0,4,0,14,1,0,21-22
+4,14/08/2021,Real Madrid,4,Visitante,Alaves,Victoria,Empate,0,7,4,10,2,0,21-22
+5,14/08/2021,Osasuna,0,Local,Espanol,Empate,Empate,0,1,4,18,3,0,21-22
+5,14/08/2021,Espanol,0,Visitante,Osasuna,Empate,Empate,0,3,6,12,3,0,21-22
+6,15/08/2021,Celta,1,Local,Ath Madrid,Derrota,Derrota,0,2,2,11,4,1,21-22
+6,15/08/2021,Ath Madrid,2,Visitante,Celta,Victoria,Victoria,1,4,5,9,5,1,21-22
+7,15/08/2021,Barcelona,4,Local,Sociedad,Victoria,Victoria,2,8,5,11,2,0,21-22
+7,15/08/2021,Sociedad,2,Visitante,Barcelona,Derrota,Derrota,0,3,3,18,4,0,21-22
+8,15/08/2021,Sevilla,3,Local,Vallecano,Victoria,Victoria,1,8,4,14,1,0,21-22
+8,15/08/2021,Vallecano,0,Visitante,Sevilla,Derrota,Derrota,0,3,0,7,0,1,21-22
+9,16/08/2021,Villarreal,0,Local,Granada,Empate,Empate,0,4,6,19,5,1,21-22
+9,16/08/2021,Granada,0,Visitante,Villarreal,Empate,Empate,0,1,2,21,1,0,21-22
+10,16/08/2021,Elche,0,Local,Ath Bilbao,Empate,Empate,0,2,6,13,2,0,21-22
+10,16/08/2021,Ath Bilbao,0,Visitante,Elche,Empate,Empate,0,3,8,19,2,0,21-22
+11,20/08/2021,Betis,1,Local,Cadiz,Empate,Empate,1,7,4,12,4,0,21-22
+11,20/08/2021,Cadiz,1,Visitante,Betis,Empate,Empate,1,3,5,10,0,0,21-22
+12,21/08/2021,Alaves,0,Local,Mallorca,Derrota,Empate,0,4,1,14,3,1,21-22
+12,21/08/2021,Mallorca,1,Visitante,Alaves,Victoria,Empate,0,2,8,15,3,0,21-22
+13,21/08/2021,Espanol,0,Local,Villarreal,Empate,Empate,0,3,9,10,3,0,21-22
+13,21/08/2021,Villarreal,0,Visitante,Espanol,Empate,Empate,0,2,7,10,4,0,21-22
+14,21/08/2021,Granada,1,Local,Valencia,Empate,Victoria,1,2,2,14,4,0,21-22
+14,21/08/2021,Valencia,1,Visitante,Granada,Empate,Derrota,0,7,6,12,2,0,21-22
+15,21/08/2021,Ath Bilbao,1,Local,Barcelona,Empate,Empate,0,7,13,15,1,0,21-22
+15,21/08/2021,Barcelona,1,Visitante,Ath Bilbao,Empate,Empate,0,3,2,10,2,1,21-22
+16,22/08/2021,Sociedad,1,Local,Vallecano,Victoria,Empate,0,8,5,19,3,0,21-22
+16,22/08/2021,Vallecano,0,Visitante,Sociedad,Derrota,Empate,0,1,4,15,4,0,21-22
+17,22/08/2021,Ath Madrid,1,Local,Elche,Victoria,Victoria,1,4,2,16,2,0,21-22
+17,22/08/2021,Elche,0,Visitante,Ath Madrid,Derrota,Derrota,0,2,1,10,2,0,21-22
+18,22/08/2021,Levante,3,Local,Real Madrid,Empate,Derrota,0,4,4,17,3,1,21-22
+18,22/08/2021,Real Madrid,3,Visitante,Levante,Empate,Victoria,1,5,6,7,2,0,21-22
+19,23/08/2021,Getafe,0,Local,Sevilla,Derrota,Empate,0,0,5,18,2,0,21-22
+19,23/08/2021,Sevilla,1,Visitante,Getafe,Victoria,Empate,0,3,4,10,2,0,21-22
+20,23/08/2021,Osasuna,0,Local,Celta,Empate,Empate,0,7,1,19,4,0,21-22
+20,23/08/2021,Celta,0,Visitante,Osasuna,Empate,Empate,0,0,2,8,3,0,21-22
+21,27/08/2021,Mallorca,1,Local,Espanol,Victoria,Victoria,1,6,3,16,4,0,21-22
+21,27/08/2021,Espanol,0,Visitante,Mallorca,Derrota,Derrota,0,3,2,17,3,1,21-22
+22,27/08/2021,Valencia,3,Local,Alaves,Victoria,Victoria,2,4,4,20,1,0,21-22
+22,27/08/2021,Alaves,0,Visitante,Valencia,Derrota,Derrota,0,3,4,15,4,0,21-22
+23,28/08/2021,Celta,0,Local,Ath Bilbao,Derrota,Derrota,0,0,5,12,2,0,21-22
+23,28/08/2021,Ath Bilbao,1,Visitante,Celta,Victoria,Victoria,1,2,4,11,1,0,21-22
+24,28/08/2021,Elche,1,Local,Sevilla,Empate,Empate,1,4,5,6,2,0,21-22
+24,28/08/2021,Sevilla,1,Visitante,Elche,Empate,Empate,1,5,3,9,0,0,21-22
+25,28/08/2021,Sociedad,1,Local,Levante,Victoria,Victoria,1,2,2,17,1,0,21-22
+25,28/08/2021,Levante,0,Visitante,Sociedad,Derrota,Derrota,0,0,2,13,1,0,21-22
+26,28/08/2021,Betis,0,Local,Real Madrid,Derrota,Empate,0,6,3,15,5,0,21-22
+26,28/08/2021,Real Madrid,1,Visitante,Betis,Victoria,Empate,0,3,7,13,3,0,21-22
+27,29/08/2021,Barcelona,2,Local,Getafe,Victoria,Victoria,2,3,3,16,3,0,21-22
+27,29/08/2021,Getafe,1,Visitante,Barcelona,Derrota,Derrota,1,3,2,22,1,0,21-22
+28,29/08/2021,Cadiz,2,Local,Osasuna,Derrota,Victoria,1,3,4,9,4,0,21-22
+28,29/08/2021,Osasuna,3,Visitante,Cadiz,Victoria,Derrota,0,4,11,6,0,0,21-22
+29,29/08/2021,Vallecano,4,Local,Granada,Victoria,Victoria,3,6,5,19,1,0,21-22
+29,29/08/2021,Granada,0,Visitante,Vallecano,Derrota,Derrota,0,3,6,14,4,0,21-22
+30,29/08/2021,Ath Madrid,2,Local,Villarreal,Empate,Empate,0,5,16,11,4,0,21-22
+30,29/08/2021,Villarreal,2,Visitante,Ath Madrid,Empate,Empate,0,2,0,6,2,0,21-22
+31,11/09/2021,Levante,1,Local,Vallecano,Empate,Victoria,1,2,2,14,3,0,21-22
+31,11/09/2021,Vallecano,1,Visitante,Levante,Empate,Derrota,0,6,5,16,4,0,21-22
+32,11/09/2021,Ath Bilbao,2,Local,Mallorca,Victoria,Empate,0,5,7,7,1,0,21-22
+32,11/09/2021,Mallorca,0,Visitante,Ath Bilbao,Derrota,Empate,0,1,2,13,2,0,21-22
+33,12/09/2021,Espanol,1,Local,Ath Madrid,Derrota,Victoria,1,3,6,10,1,0,21-22
+33,12/09/2021,Ath Madrid,2,Visitante,Espanol,Victoria,Derrota,0,3,3,11,4,0,21-22
+34,12/09/2021,Osasuna,1,Local,Valencia,Derrota,Empate,1,2,4,20,4,0,21-22
+34,12/09/2021,Valencia,4,Visitante,Osasuna,Victoria,Empate,1,4,4,14,2,0,21-22
+35,12/09/2021,Cadiz,0,Local,Sociedad,Derrota,Empate,0,1,2,10,4,1,21-22
+35,12/09/2021,Sociedad,2,Visitante,Cadiz,Victoria,Empate,0,4,8,9,0,0,21-22
+36,12/09/2021,Real Madrid,5,Local,Celta,Victoria,Derrota,1,11,7,8,2,0,21-22
+36,12/09/2021,Celta,2,Visitante,Real Madrid,Derrota,Victoria,2,4,3,16,3,0,21-22
+37,13/09/2021,Getafe,0,Local,Elche,Derrota,Empate,0,1,8,6,2,0,21-22
+37,13/09/2021,Elche,1,Visitante,Getafe,Victoria,Empate,0,3,2,14,3,0,21-22
+38,13/09/2021,Granada,1,Local,Betis,Derrota,Derrota,0,2,6,7,1,0,21-22
+38,13/09/2021,Betis,2,Visitante,Granada,Victoria,Victoria,1,9,8,14,2,0,21-22
+39,17/09/2021,Celta,1,Local,Cadiz,Derrota,Derrota,0,4,7,8,3,0,21-22
+39,17/09/2021,Cadiz,2,Visitante,Celta,Victoria,Victoria,2,3,1,8,3,0,21-22
+40,18/09/2021,Vallecano,3,Local,Getafe,Victoria,Victoria,1,5,5,20,6,0,21-22
+40,18/09/2021,Getafe,0,Visitante,Vallecano,Derrota,Derrota,0,3,3,16,7,0,21-22
+41,18/09/2021,Ath Madrid,0,Local,Ath Bilbao,Empate,Empate,0,2,5,10,6,1,21-22
+41,18/09/2021,Ath Bilbao,0,Visitante,Ath Madrid,Empate,Empate,0,0,5,13,2,0,21-22
+42,18/09/2021,Elche,1,Local,Levante,Empate,Victoria,1,2,4,10,2,0,21-22
+42,18/09/2021,Levante,1,Visitante,Elche,Empate,Derrota,0,6,7,14,2,0,21-22
+43,18/09/2021,Alaves,0,Local,Osasuna,Derrota,Derrota,0,3,2,11,4,0,21-22
+43,18/09/2021,Osasuna,2,Visitante,Alaves,Victoria,Victoria,2,5,8,14,3,0,21-22
+44,19/09/2021,Mallorca,0,Local,Villarreal,Empate,Empate,0,1,3,11,2,0,21-22
+44,19/09/2021,Villarreal,0,Visitante,Mallorca,Empate,Empate,0,3,1,16,3,0,21-22
+45,19/09/2021,Sociedad,0,Local,Sevilla,Empate,Empate,0,4,5,16,2,0,21-22
+45,19/09/2021,Sevilla,0,Visitante,Sociedad,Empate,Empate,0,4,6,11,3,0,21-22
+46,19/09/2021,Betis,2,Local,Espanol,Empate,Victoria,2,9,10,13,4,1,21-22
+46,19/09/2021,Espanol,2,Visitante,Betis,Empate,Derrota,1,4,4,9,4,0,21-22
+47,19/09/2021,Valencia,1,Local,Real Madrid,Derrota,Empate,0,4,2,14,1,0,21-22
+47,19/09/2021,Real Madrid,2,Visitante,Valencia,Victoria,Empate,0,10,5,14,5,0,21-22
+48,20/09/2021,Barcelona,1,Local,Granada,Empate,Derrota,0,6,12,15,3,0,21-22
+48,20/09/2021,Granada,1,Visitante,Barcelona,Empate,Victoria,1,2,4,20,6,0,21-22
+49,21/09/2021,Getafe,1,Local,Ath Madrid,Derrota,Victoria,1,2,2,15,4,1,21-22
+49,21/09/2021,Ath Madrid,2,Visitante,Getafe,Victoria,Derrota,0,4,5,11,5,0,21-22
+50,21/09/2021,Ath Bilbao,1,Local,Vallecano,Derrota,Empate,1,1,2,16,3,0,21-22
+50,21/09/2021,Vallecano,2,Visitante,Ath Bilbao,Victoria,Empate,1,3,1,20,3,0,21-22
+51,21/09/2021,Levante,0,Local,Celta,Derrota,Empate,0,2,2,16,3,0,21-22
+51,21/09/2021,Celta,2,Visitante,Levante,Victoria,Empate,0,2,4,12,2,0,21-22
+52,22/09/2021,Espanol,1,Local,Alaves,Victoria,Empate,0,2,4,14,2,0,21-22
+52,22/09/2021,Alaves,0,Visitante,Espanol,Derrota,Empate,0,2,8,18,1,0,21-22
+53,22/09/2021,Sevilla,3,Local,Valencia,Victoria,Victoria,3,5,1,25,5,0,21-22
+53,22/09/2021,Valencia,1,Visitante,Sevilla,Derrota,Derrota,1,3,4,21,3,0,21-22
+54,22/09/2021,Real Madrid,6,Local,Mallorca,Victoria,Victoria,3,12,3,18,2,0,21-22
+54,22/09/2021,Mallorca,1,Visitante,Real Madrid,Derrota,Derrota,1,5,2,8,1,0,21-22
+55,22/09/2021,Villarreal,4,Local,Elche,Victoria,Victoria,2,9,8,16,1,0,21-22
+55,22/09/2021,Elche,1,Visitante,Villarreal,Derrota,Derrota,1,3,7,11,2,0,21-22
+56,23/09/2021,Granada,2,Local,Sociedad,Derrota,Victoria,1,2,4,11,5,0,21-22
+56,23/09/2021,Sociedad,3,Visitante,Granada,Victoria,Derrota,0,11,7,16,1,0,21-22
+57,23/09/2021,Osasuna,1,Local,Betis,Derrota,Empate,1,3,4,18,2,0,21-22
+57,23/09/2021,Betis,3,Visitante,Osasuna,Victoria,Empate,1,9,7,10,0,0,21-22
+58,23/09/2021,Cadiz,0,Local,Barcelona,Empate,Empate,0,3,4,16,3,0,21-22
+58,23/09/2021,Barcelona,0,Visitante,Cadiz,Empate,Empate,0,2,5,8,4,1,21-22
+59,25/09/2021,Alaves,1,Local,Ath Madrid,Victoria,Victoria,1,1,3,18,2,0,21-22
+59,25/09/2021,Ath Madrid,0,Visitante,Alaves,Derrota,Derrota,0,1,8,11,3,0,21-22
+60,25/09/2021,Valencia,1,Local,Ath Bilbao,Empate,Empate,0,6,4,14,5,1,21-22
+60,25/09/2021,Ath Bilbao,1,Visitante,Valencia,Empate,Empate,0,4,5,17,2,0,21-22
+61,25/09/2021,Sevilla,2,Local,Espanol,Victoria,Victoria,1,5,4,10,4,1,21-22
+61,25/09/2021,Espanol,0,Visitante,Sevilla,Derrota,Derrota,0,2,8,8,0,0,21-22
+62,25/09/2021,Real Madrid,0,Local,Villarreal,Empate,Empate,0,2,6,10,1,0,21-22
+62,25/09/2021,Villarreal,0,Visitante,Real Madrid,Empate,Empate,0,2,3,12,2,0,21-22
+63,26/09/2021,Mallorca,2,Local,Osasuna,Derrota,Victoria,2,8,5,8,2,0,21-22
+63,26/09/2021,Osasuna,3,Visitante,Mallorca,Victoria,Derrota,1,6,5,17,3,0,21-22
+64,26/09/2021,Barcelona,3,Local,Levante,Victoria,Victoria,2,12,11,11,1,0,21-22
+64,26/09/2021,Levante,0,Visitante,Barcelona,Derrota,Derrota,0,2,1,16,3,0,21-22
+65,26/09/2021,Sociedad,1,Local,Elche,Victoria,Empate,0,5,6,12,1,0,21-22
+65,26/09/2021,Elche,0,Visitante,Sociedad,Derrota,Empate,0,2,1,16,3,0,21-22
+66,26/09/2021,Vallecano,3,Local,Cadiz,Victoria,Victoria,2,6,4,11,2,0,21-22
+66,26/09/2021,Cadiz,1,Visitante,Vallecano,Derrota,Derrota,1,1,3,11,4,0,21-22
+67,26/09/2021,Betis,2,Local,Getafe,Victoria,Victoria,1,5,3,12,1,0,21-22
+67,26/09/2021,Getafe,0,Visitante,Betis,Derrota,Derrota,0,3,3,19,3,0,21-22
+68,27/09/2021,Celta,1,Local,Granada,Victoria,Empate,0,5,5,9,2,0,21-22
+68,27/09/2021,Granada,0,Visitante,Celta,Derrota,Empate,0,4,3,12,7,0,21-22
+69,01/10/2021,Ath Bilbao,1,Local,Alaves,Victoria,Victoria,1,5,13,16,3,0,21-22
+69,01/10/2021,Alaves,0,Visitante,Ath Bilbao,Derrota,Derrota,0,5,9,12,2,0,21-22
+70,02/10/2021,Osasuna,1,Local,Vallecano,Victoria,Empate,0,3,6,19,3,0,21-22
+70,02/10/2021,Vallecano,0,Visitante,Osasuna,Derrota,Empate,0,0,3,9,3,0,21-22
+71,02/10/2021,Mallorca,1,Local,Levante,Victoria,Empate,0,7,8,18,4,0,21-22
+71,02/10/2021,Levante,0,Visitante,Mallorca,Derrota,Empate,0,2,3,25,4,0,21-22
+72,02/10/2021,Cadiz,0,Local,Valencia,Empate,Empate,0,1,1,16,3,0,21-22
+72,02/10/2021,Valencia,0,Visitante,Cadiz,Empate,Empate,0,4,3,11,4,0,21-22
+73,02/10/2021,Ath Madrid,2,Local,Barcelona,Victoria,Victoria,2,3,2,13,2,0,21-22
+73,02/10/2021,Barcelona,0,Visitante,Ath Madrid,Derrota,Derrota,0,2,6,10,1,0,21-22
+74,03/10/2021,Elche,1,Local,Celta,Victoria,Empate,0,5,7,14,4,0,21-22
+74,03/10/2021,Celta,0,Visitante,Elche,Derrota,Empate,0,1,4,19,3,0,21-22
+75,03/10/2021,Espanol,2,Local,Real Madrid,Victoria,Victoria,1,4,2,12,2,0,21-22
+75,03/10/2021,Real Madrid,1,Visitante,Espanol,Derrota,Derrota,0,4,8,13,1,0,21-22
+76,03/10/2021,Getafe,1,Local,Sociedad,Empate,Victoria,1,2,2,16,4,0,21-22
+76,03/10/2021,Sociedad,1,Visitante,Getafe,Empate,Derrota,0,5,5,11,2,0,21-22
+77,03/10/2021,Villarreal,2,Local,Betis,Victoria,Victoria,1,5,4,14,2,0,21-22
+77,03/10/2021,Betis,0,Visitante,Villarreal,Derrota,Derrota,0,3,6,9,4,0,21-22
+78,03/10/2021,Granada,1,Local,Sevilla,Victoria,Victoria,1,1,2,13,3,0,21-22
+78,03/10/2021,Sevilla,0,Visitante,Granada,Derrota,Derrota,0,3,6,11,4,1,21-22
+79,16/10/2021,Levante,0,Local,Getafe,Empate,Empate,0,2,3,14,3,0,21-22
+79,16/10/2021,Getafe,0,Visitante,Levante,Empate,Empate,0,4,11,10,3,0,21-22
+80,16/10/2021,Sociedad,1,Local,Mallorca,Victoria,Empate,0,2,2,11,3,1,21-22
+80,16/10/2021,Mallorca,0,Visitante,Sociedad,Derrota,Empate,0,1,6,21,3,0,21-22
+81,17/10/2021,Vallecano,2,Local,Elche,Victoria,Empate,1,4,6,16,2,0,21-22
+81,17/10/2021,Elche,1,Visitante,Vallecano,Derrota,Empate,1,3,2,11,2,0,21-22
+82,17/10/2021,Celta,0,Local,Sevilla,Derrota,Empate,0,3,5,13,2,0,21-22
+82,17/10/2021,Sevilla,1,Visitante,Celta,Victoria,Empate,0,2,4,9,3,0,21-22
+83,17/10/2021,Villarreal,1,Local,Osasuna,Derrota,Derrota,0,6,4,6,1,0,21-22
+83,17/10/2021,Osasuna,2,Visitante,Villarreal,Victoria,Victoria,1,2,4,14,5,0,21-22
+84,17/10/2021,Barcelona,3,Local,Valencia,Victoria,Victoria,2,5,9,16,2,0,21-22
+84,17/10/2021,Valencia,1,Visitante,Barcelona,Derrota,Derrota,1,3,3,13,3,0,21-22
+85,18/10/2021,Alaves,0,Local,Betis,Derrota,Empate,0,2,7,8,1,0,21-22
+85,18/10/2021,Betis,1,Visitante,Alaves,Victoria,Empate,0,4,7,11,1,0,21-22
+86,18/10/2021,Espanol,2,Local,Cadiz,Victoria,Victoria,1,6,7,8,1,0,21-22
+86,18/10/2021,Cadiz,0,Visitante,Espanol,Derrota,Derrota,0,2,9,10,0,0,21-22
+87,22/10/2021,Osasuna,1,Local,Granada,Empate,Victoria,1,6,4,15,1,1,21-22
+87,22/10/2021,Granada,1,Visitante,Osasuna,Empate,Derrota,0,4,1,11,3,0,21-22
+88,23/10/2021,Valencia,2,Local,Mallorca,Empate,Derrota,0,6,5,15,4,0,21-22
+88,23/10/2021,Mallorca,2,Visitante,Valencia,Empate,Victoria,2,4,0,19,5,2,21-22
+89,23/10/2021,Cadiz,0,Local,Alaves,Derrota,Derrota,0,4,14,11,0,0,21-22
+89,23/10/2021,Alaves,2,Visitante,Cadiz,Victoria,Victoria,1,4,3,14,2,0,21-22
+90,23/10/2021,Elche,2,Local,Espanol,Empate,Victoria,1,7,3,15,3,0,21-22
+90,23/10/2021,Espanol,2,Visitante,Elche,Empate,Derrota,0,7,7,9,1,0,21-22
+91,23/10/2021,Ath Bilbao,2,Local,Villarreal,Victoria,Empate,1,7,9,7,0,0,21-22
+91,23/10/2021,Villarreal,1,Visitante,Ath Bilbao,Derrota,Empate,1,3,2,12,3,0,21-22
+92,24/10/2021,Sevilla,5,Local,Levante,Victoria,Victoria,3,11,10,13,1,0,21-22
+92,24/10/2021,Levante,3,Visitante,Sevilla,Derrota,Derrota,1,7,3,6,2,0,21-22
+93,24/10/2021,Barcelona,1,Local,Real Madrid,Derrota,Derrota,0,2,7,17,1,0,21-22
+93,24/10/2021,Real Madrid,2,Visitante,Barcelona,Victoria,Victoria,1,5,4,13,1,0,21-22
+94,24/10/2021,Betis,3,Local,Vallecano,Victoria,Victoria,2,5,4,12,1,0,21-22
+94,24/10/2021,Vallecano,2,Visitante,Betis,Derrota,Derrota,1,3,4,12,2,0,21-22
+95,24/10/2021,Ath Madrid,2,Local,Sociedad,Empate,Derrota,0,4,4,14,1,0,21-22
+95,24/10/2021,Sociedad,2,Visitante,Ath Madrid,Empate,Victoria,1,4,3,14,3,0,21-22
+96,25/10/2021,Getafe,0,Local,Celta,Derrota,Empate,0,2,2,15,2,2,21-22
+96,25/10/2021,Celta,3,Visitante,Getafe,Victoria,Empate,0,8,7,11,2,0,21-22
+97,26/10/2021,Alaves,1,Local,Elche,Victoria,Empate,0,5,4,13,1,0,21-22
+97,26/10/2021,Elche,0,Visitante,Alaves,Derrota,Empate,0,1,7,9,1,0,21-22
+98,26/10/2021,Espanol,1,Local,Ath Bilbao,Empate,Victoria,1,3,8,7,1,1,21-22
+98,26/10/2021,Ath Bilbao,1,Visitante,Espanol,Empate,Derrota,0,7,12,12,2,0,21-22
+99,26/10/2021,Villarreal,3,Local,Cadiz,Empate,Derrota,1,5,8,13,3,0,21-22
+99,26/10/2021,Cadiz,3,Visitante,Villarreal,Empate,Victoria,2,4,2,9,6,0,21-22
+100,27/10/2021,Mallorca,1,Local,Sevilla,Empate,Victoria,1,4,4,16,3,1,21-22
+100,27/10/2021,Sevilla,1,Visitante,Mallorca,Empate,Derrota,0,3,2,14,6,0,21-22
+101,27/10/2021,Vallecano,1,Local,Barcelona,Victoria,Victoria,1,3,3,17,2,0,21-22
+101,27/10/2021,Barcelona,0,Visitante,Vallecano,Derrota,Derrota,0,1,7,12,2,0,21-22
+102,27/10/2021,Betis,4,Local,Valencia,Victoria,Victoria,2,9,4,14,2,0,21-22
+102,27/10/2021,Valencia,1,Visitante,Betis,Derrota,Derrota,1,4,7,19,5,0,21-22
+103,27/10/2021,Real Madrid,0,Local,Osasuna,Empate,Empate,0,3,11,12,1,0,21-22
+103,27/10/2021,Osasuna,0,Visitante,Real Madrid,Empate,Empate,0,0,3,10,1,0,21-22
+104,28/10/2021,Celta,0,Local,Sociedad,Derrota,Empate,0,6,7,12,1,0,21-22
+104,28/10/2021,Sociedad,2,Visitante,Celta,Victoria,Empate,0,4,6,11,0,0,21-22
+105,28/10/2021,Granada,1,Local,Getafe,Empate,Derrota,0,3,5,10,1,0,21-22
+105,28/10/2021,Getafe,1,Visitante,Granada,Empate,Victoria,1,4,0,15,4,0,21-22
+106,28/10/2021,Levante,2,Local,Ath Madrid,Empate,Empate,1,3,5,15,3,1,21-22
+106,28/10/2021,Ath Madrid,2,Visitante,Levante,Empate,Empate,1,3,2,11,5,0,21-22
+107,30/10/2021,Elche,1,Local,Real Madrid,Derrota,Derrota,0,4,5,11,2,1,21-22
+107,30/10/2021,Real Madrid,2,Visitante,Elche,Victoria,Victoria,1,5,4,13,0,0,21-22
+108,30/10/2021,Sevilla,2,Local,Osasuna,Victoria,Victoria,1,4,4,17,2,0,21-22
+108,30/10/2021,Osasuna,0,Visitante,Sevilla,Derrota,Derrota,0,3,5,10,2,0,21-22
+109,30/10/2021,Valencia,2,Local,Villarreal,Victoria,Victoria,1,3,7,19,2,0,21-22
+109,30/10/2021,Villarreal,0,Visitante,Valencia,Derrota,Derrota,0,1,6,17,4,0,21-22
+110,30/10/2021,Barcelona,1,Local,Alaves,Empate,Empate,0,5,9,11,0,0,21-22
+110,30/10/2021,Alaves,1,Visitante,Barcelona,Empate,Empate,0,2,0,11,2,0,21-22
+111,31/10/2021,Cadiz,1,Local,Mallorca,Empate,Derrota,0,2,6,14,3,0,21-22
+111,31/10/2021,Mallorca,1,Visitante,Cadiz,Empate,Victoria,1,5,5,16,7,2,21-22
+112,31/10/2021,Ath Madrid,3,Local,Betis,Victoria,Victoria,1,9,13,11,0,0,21-22
+112,31/10/2021,Betis,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,0,12,0,0,21-22
+113,31/10/2021,Getafe,2,Local,Espanol,Victoria,Empate,1,7,6,18,7,0,21-22
+113,31/10/2021,Espanol,1,Visitante,Getafe,Derrota,Empate,1,3,11,11,4,0,21-22
+114,31/10/2021,Sociedad,1,Local,Ath Bilbao,Empate,Empate,0,3,2,21,4,0,21-22
+114,31/10/2021,Ath Bilbao,1,Visitante,Sociedad,Empate,Empate,0,5,7,14,3,1,21-22
+115,01/11/2021,Vallecano,0,Local,Celta,Empate,Empate,0,5,4,13,2,0,21-22
+115,01/11/2021,Celta,0,Visitante,Vallecano,Empate,Empate,0,4,7,14,5,0,21-22
+116,01/11/2021,Levante,0,Local,Granada,Derrota,Derrota,0,3,3,14,4,0,21-22
+116,01/11/2021,Granada,3,Visitante,Levante,Victoria,Victoria,2,6,5,13,2,0,21-22
+117,05/11/2021,Ath Bilbao,0,Local,Cadiz,Derrota,Derrota,0,5,5,14,2,0,21-22
+117,05/11/2021,Cadiz,1,Visitante,Ath Bilbao,Victoria,Victoria,1,4,1,19,1,0,21-22
+118,06/11/2021,Espanol,2,Local,Granada,Victoria,Victoria,2,6,5,12,1,0,21-22
+118,06/11/2021,Granada,0,Visitante,Espanol,Derrota,Derrota,0,5,3,8,1,0,21-22
+119,06/11/2021,Celta,3,Local,Barcelona,Empate,Derrota,0,4,3,18,3,0,21-22
+119,06/11/2021,Barcelona,3,Visitante,Celta,Empate,Victoria,3,6,1,18,6,0,21-22
+120,06/11/2021,Alaves,2,Local,Levante,Victoria,Derrota,0,3,1,21,3,0,21-22
+120,06/11/2021,Levante,1,Visitante,Alaves,Derrota,Victoria,1,7,3,17,3,0,21-22
+121,06/11/2021,Real Madrid,2,Local,Vallecano,Victoria,Victoria,2,7,4,8,1,0,21-22
+121,06/11/2021,Vallecano,1,Visitante,Real Madrid,Derrota,Derrota,0,7,5,14,2,0,21-22
+122,07/11/2021,Villarreal,1,Local,Getafe,Victoria,Victoria,1,4,6,12,1,0,21-22
+122,07/11/2021,Getafe,0,Visitante,Villarreal,Derrota,Derrota,0,2,4,13,1,0,21-22
+123,07/11/2021,Valencia,3,Local,Ath Madrid,Empate,Derrota,0,5,9,12,2,0,21-22
+123,07/11/2021,Ath Madrid,3,Visitante,Valencia,Empate,Victoria,1,7,0,17,2,0,21-22
+124,07/11/2021,Mallorca,2,Local,Elche,Empate,Empate,0,6,3,11,2,0,21-22
+124,07/11/2021,Elche,2,Visitante,Mallorca,Empate,Empate,0,2,3,19,3,0,21-22
+125,07/11/2021,Osasuna,0,Local,Sociedad,Derrota,Empate,0,2,5,11,0,0,21-22
+125,07/11/2021,Sociedad,2,Visitante,Osasuna,Victoria,Empate,0,4,2,12,2,0,21-22
+126,07/11/2021,Betis,0,Local,Sevilla,Derrota,Empate,0,1,2,12,3,1,21-22
+126,07/11/2021,Sevilla,2,Visitante,Betis,Victoria,Empate,0,2,1,13,1,0,21-22
+127,19/11/2021,Levante,0,Local,Ath Bilbao,Empate,Empate,0,2,6,16,2,0,21-22
+127,19/11/2021,Ath Bilbao,0,Visitante,Levante,Empate,Empate,0,2,3,7,1,0,21-22
+128,20/11/2021,Celta,1,Local,Villarreal,Empate,Derrota,0,3,3,14,1,0,21-22
+128,20/11/2021,Villarreal,1,Visitante,Celta,Empate,Victoria,1,6,5,17,1,0,21-22
+129,20/11/2021,Sevilla,2,Local,Alaves,Empate,Derrota,1,6,5,14,4,0,21-22
+129,20/11/2021,Alaves,2,Visitante,Sevilla,Empate,Victoria,2,3,2,17,4,0,21-22
+130,20/11/2021,Ath Madrid,1,Local,Osasuna,Victoria,Empate,0,2,7,7,2,0,21-22
+130,20/11/2021,Osasuna,0,Visitante,Ath Madrid,Derrota,Empate,0,3,4,8,2,0,21-22
+131,20/11/2021,Barcelona,1,Local,Espanol,Victoria,Empate,0,6,4,17,4,0,21-22
+131,20/11/2021,Espanol,0,Visitante,Barcelona,Derrota,Empate,0,2,4,9,2,0,21-22
+132,21/11/2021,Getafe,4,Local,Cadiz,Victoria,Victoria,1,8,3,14,2,0,21-22
+132,21/11/2021,Cadiz,0,Visitante,Getafe,Derrota,Derrota,0,2,7,7,4,0,21-22
+133,21/11/2021,Granada,1,Local,Real Madrid,Derrota,Derrota,1,3,9,10,1,1,21-22
+133,21/11/2021,Real Madrid,4,Visitante,Granada,Victoria,Victoria,2,10,6,7,1,0,21-22
+134,21/11/2021,Elche,0,Local,Betis,Derrota,Derrota,0,4,10,12,1,0,21-22
+134,21/11/2021,Betis,3,Visitante,Elche,Victoria,Victoria,3,4,1,14,2,1,21-22
+135,21/11/2021,Sociedad,0,Local,Valencia,Empate,Empate,0,2,2,11,4,1,21-22
+135,21/11/2021,Valencia,0,Visitante,Sociedad,Empate,Empate,0,3,4,16,7,0,21-22
+136,22/11/2021,Vallecano,3,Local,Mallorca,Victoria,Victoria,2,6,6,14,3,0,21-22
+136,22/11/2021,Mallorca,1,Visitante,Vallecano,Derrota,Derrota,0,5,4,17,2,0,21-22
+137,26/11/2021,Ath Bilbao,2,Local,Granada,Empate,Derrota,1,5,8,12,1,1,21-22
+137,26/11/2021,Granada,2,Visitante,Ath Bilbao,Empate,Victoria,2,4,3,9,1,0,21-22
+138,27/11/2021,Alaves,1,Local,Celta,Derrota,Empate,1,5,5,12,3,0,21-22
+138,27/11/2021,Celta,2,Visitante,Alaves,Victoria,Empate,1,5,3,15,2,0,21-22
+139,27/11/2021,Valencia,1,Local,Vallecano,Empate,Victoria,1,4,3,18,6,0,21-22
+139,27/11/2021,Vallecano,1,Visitante,Valencia,Empate,Derrota,0,6,9,15,5,0,21-22
+140,27/11/2021,Mallorca,0,Local,Getafe,Empate,Empate,0,2,2,8,3,0,21-22
+140,27/11/2021,Getafe,0,Visitante,Mallorca,Empate,Empate,0,0,0,19,0,0,21-22
+141,27/11/2021,Villarreal,1,Local,Barcelona,Derrota,Empate,0,2,4,19,2,0,21-22
+141,27/11/2021,Barcelona,3,Visitante,Villarreal,Victoria,Empate,0,6,4,14,2,0,21-22
+142,28/11/2021,Betis,3,Local,Levante,Victoria,Derrota,0,8,5,16,2,0,21-22
+142,28/11/2021,Levante,1,Visitante,Betis,Derrota,Victoria,1,2,8,9,3,0,21-22
+143,28/11/2021,Espanol,1,Local,Sociedad,Victoria,Empate,0,2,2,15,1,0,21-22
+143,28/11/2021,Sociedad,0,Visitante,Espanol,Derrota,Empate,0,4,9,7,1,0,21-22
+144,28/11/2021,Cadiz,1,Local,Ath Madrid,Derrota,Empate,0,0,4,13,2,0,21-22
+144,28/11/2021,Ath Madrid,4,Visitante,Cadiz,Victoria,Empate,0,7,8,11,0,0,21-22
+145,28/11/2021,Real Madrid,2,Local,Sevilla,Victoria,Empate,1,4,0,10,3,0,21-22
+145,28/11/2021,Sevilla,1,Visitante,Real Madrid,Derrota,Empate,1,6,4,9,3,0,21-22
+146,29/11/2021,Osasuna,1,Local,Elche,Empate,Empate,1,4,5,16,1,0,21-22
+146,29/11/2021,Elche,1,Visitante,Osasuna,Empate,Empate,1,4,4,12,3,0,21-22
+147,01/12/2021,Real Madrid,1,Local,Ath Bilbao,Victoria,Victoria,1,7,7,12,2,0,21-22
+147,01/12/2021,Ath Bilbao,0,Visitante,Real Madrid,Derrota,Derrota,0,2,6,13,3,0,21-22
+148,03/12/2021,Granada,2,Local,Alaves,Victoria,Victoria,1,2,3,17,2,0,21-22
+148,03/12/2021,Alaves,1,Visitante,Granada,Derrota,Derrota,0,2,5,15,2,0,21-22
+149,04/12/2021,Sevilla,1,Local,Villarreal,Victoria,Victoria,1,3,5,9,2,0,21-22
+149,04/12/2021,Villarreal,0,Visitante,Sevilla,Derrota,Derrota,0,2,8,10,2,0,21-22
+150,04/12/2021,Barcelona,0,Local,Betis,Derrota,Empate,0,3,6,17,1,0,21-22
+150,04/12/2021,Betis,1,Visitante,Barcelona,Victoria,Empate,0,2,1,12,2,0,21-22
+151,04/12/2021,Ath Madrid,1,Local,Mallorca,Derrota,Empate,0,6,8,13,2,0,21-22
+151,04/12/2021,Mallorca,2,Visitante,Ath Madrid,Victoria,Empate,0,3,5,16,5,0,21-22
+152,04/12/2021,Sociedad,0,Local,Real Madrid,Derrota,Empate,0,0,5,12,2,0,21-22
+152,04/12/2021,Real Madrid,2,Visitante,Sociedad,Victoria,Empate,0,8,5,8,0,0,21-22
+153,05/12/2021,Vallecano,1,Local,Espanol,Victoria,Empate,0,0,6,18,3,0,21-22
+153,05/12/2021,Espanol,0,Visitante,Vallecano,Derrota,Empate,0,3,3,11,3,1,21-22
+154,05/12/2021,Elche,3,Local,Cadiz,Victoria,Victoria,1,3,3,16,7,0,21-22
+154,05/12/2021,Cadiz,1,Visitante,Elche,Derrota,Derrota,0,6,3,15,3,0,21-22
+155,05/12/2021,Levante,0,Local,Osasuna,Empate,Empate,0,3,7,12,2,0,21-22
+155,05/12/2021,Osasuna,0,Visitante,Levante,Empate,Empate,0,1,2,16,3,0,21-22
+156,05/12/2021,Celta,1,Local,Valencia,Derrota,Empate,1,5,6,10,3,0,21-22
+156,05/12/2021,Valencia,2,Visitante,Celta,Victoria,Empate,1,5,4,22,2,0,21-22
+157,06/12/2021,Getafe,0,Local,Ath Bilbao,Empate,Empate,0,5,5,14,2,0,21-22
+157,06/12/2021,Ath Bilbao,0,Visitante,Getafe,Empate,Empate,0,3,3,14,1,0,21-22
+158,10/12/2021,Mallorca,0,Local,Celta,Empate,Empate,0,1,7,14,3,0,21-22
+158,10/12/2021,Celta,0,Visitante,Mallorca,Empate,Empate,0,5,4,11,2,0,21-22
+159,11/12/2021,Espanol,4,Local,Levante,Victoria,Derrota,1,8,4,9,4,0,21-22
+159,11/12/2021,Levante,3,Visitante,Espanol,Derrota,Victoria,2,5,2,15,4,1,21-22
+160,11/12/2021,Alaves,1,Local,Getafe,Empate,Derrota,0,1,1,18,4,1,21-22
+160,11/12/2021,Getafe,1,Visitante,Alaves,Empate,Victoria,1,2,1,15,4,0,21-22
+161,11/12/2021,Valencia,2,Local,Elche,Victoria,Victoria,1,8,8,15,3,0,21-22
+161,11/12/2021,Elche,1,Visitante,Valencia,Derrota,Derrota,0,4,1,12,2,0,21-22
+162,11/12/2021,Ath Bilbao,0,Local,Sevilla,Derrota,Derrota,0,2,9,17,4,0,21-22
+162,11/12/2021,Sevilla,1,Visitante,Ath Bilbao,Victoria,Victoria,1,1,2,10,3,0,21-22
+163,12/12/2021,Villarreal,2,Local,Vallecano,Victoria,Victoria,2,5,5,16,1,0,21-22
+163,12/12/2021,Vallecano,0,Visitante,Villarreal,Derrota,Derrota,0,7,6,14,3,0,21-22
+164,12/12/2021,Osasuna,2,Local,Barcelona,Empate,Empate,1,3,6,16,5,0,21-22
+164,12/12/2021,Barcelona,2,Visitante,Osasuna,Empate,Empate,1,2,5,16,4,0,21-22
+165,12/12/2021,Betis,4,Local,Sociedad,Victoria,Victoria,1,5,4,12,3,0,21-22
+165,12/12/2021,Sociedad,0,Visitante,Betis,Derrota,Derrota,0,5,7,10,1,0,21-22
+166,12/12/2021,Real Madrid,2,Local,Ath Madrid,Victoria,Victoria,1,3,3,17,2,0,21-22
+166,12/12/2021,Ath Madrid,0,Visitante,Real Madrid,Derrota,Derrota,0,6,6,15,3,0,21-22
+167,13/12/2021,Cadiz,1,Local,Granada,Empate,Victoria,1,3,8,14,5,1,21-22
+167,13/12/2021,Granada,1,Visitante,Cadiz,Empate,Derrota,0,5,1,10,0,0,21-22
+168,17/12/2021,Celta,3,Local,Espanol,Victoria,Victoria,1,5,3,13,2,0,21-22
+168,17/12/2021,Espanol,1,Visitante,Celta,Derrota,Derrota,0,3,3,5,1,0,21-22
+169,18/12/2021,Vallecano,2,Local,Alaves,Victoria,Victoria,2,5,5,12,1,0,21-22
+169,18/12/2021,Alaves,0,Visitante,Vallecano,Derrota,Derrota,0,4,5,19,2,0,21-22
+170,18/12/2021,Sociedad,1,Local,Villarreal,Derrota,Empate,1,4,5,9,2,1,21-22
+170,18/12/2021,Villarreal,3,Visitante,Sociedad,Victoria,Empate,1,8,5,15,3,0,21-22
+171,18/12/2021,Barcelona,3,Local,Elche,Victoria,Victoria,2,8,5,13,1,0,21-22
+171,18/12/2021,Elche,2,Visitante,Barcelona,Derrota,Derrota,0,3,0,17,3,0,21-22
+172,18/12/2021,Sevilla,2,Local,Ath Madrid,Victoria,Empate,1,2,4,15,2,0,21-22
+172,18/12/2021,Ath Madrid,1,Visitante,Sevilla,Derrota,Empate,1,3,7,14,1,0,21-22
+173,19/12/2021,Granada,4,Local,Mallorca,Victoria,Empate,1,6,4,12,3,0,21-22
+173,19/12/2021,Mallorca,1,Visitante,Granada,Derrota,Empate,1,5,2,15,2,0,21-22
+174,19/12/2021,Ath Bilbao,3,Local,Betis,Victoria,Empate,1,6,5,7,1,0,21-22
+174,19/12/2021,Betis,2,Visitante,Ath Bilbao,Derrota,Empate,1,8,6,12,3,0,21-22
+175,19/12/2021,Getafe,1,Local,Osasuna,Victoria,Empate,0,4,4,14,3,0,21-22
+175,19/12/2021,Osasuna,0,Visitante,Getafe,Derrota,Empate,0,2,3,8,1,0,21-22
+176,19/12/2021,Real Madrid,0,Local,Cadiz,Empate,Empate,0,9,13,9,1,0,21-22
+176,19/12/2021,Cadiz,0,Visitante,Real Madrid,Empate,Empate,0,0,2,10,1,0,21-22
+177,20/12/2021,Levante,3,Local,Valencia,Derrota,Victoria,2,9,6,21,3,0,21-22
+177,20/12/2021,Valencia,4,Visitante,Levante,Victoria,Derrota,1,8,4,11,4,0,21-22
+178,21/12/2021,Villarreal,5,Local,Alaves,Victoria,Victoria,2,10,6,16,0,0,21-22
+178,21/12/2021,Alaves,2,Visitante,Villarreal,Derrota,Derrota,1,2,2,14,2,0,21-22
+179,21/12/2021,Sevilla,1,Local,Barcelona,Empate,Empate,1,1,4,15,2,1,21-22
+179,21/12/2021,Barcelona,1,Visitante,Sevilla,Empate,Empate,1,7,9,13,3,0,21-22
+180,22/12/2021,Granada,2,Local,Ath Madrid,Victoria,Empate,1,4,2,17,4,0,21-22
+180,22/12/2021,Ath Madrid,1,Visitante,Granada,Derrota,Empate,1,3,7,7,1,0,21-22
+181,22/12/2021,Ath Bilbao,1,Local,Real Madrid,Derrota,Derrota,1,2,7,17,2,0,21-22
+181,22/12/2021,Real Madrid,2,Visitante,Ath Bilbao,Victoria,Victoria,2,7,0,7,2,0,21-22
+182,31/12/2021,Valencia,1,Local,Espanol,Derrota,Empate,0,2,7,19,7,1,21-22
+182,31/12/2021,Espanol,2,Visitante,Valencia,Victoria,Empate,0,4,5,14,3,0,21-22
+183,02/01/2022,Getafe,1,Local,Real Madrid,Victoria,Victoria,1,3,2,20,3,0,21-22
+183,02/01/2022,Real Madrid,0,Visitante,Getafe,Derrota,Derrota,0,4,9,8,2,0,21-22
+184,02/01/2022,Ath Madrid,2,Local,Vallecano,Victoria,Victoria,1,5,8,14,3,0,21-22
+184,02/01/2022,Vallecano,0,Visitante,Ath Madrid,Derrota,Derrota,0,0,2,12,0,0,21-22
+185,02/01/2022,Elche,0,Local,Granada,Empate,Empate,0,2,6,18,3,1,21-22
+185,02/01/2022,Granada,0,Visitante,Elche,Empate,Empate,0,5,3,15,3,0,21-22
+186,02/01/2022,Alaves,1,Local,Sociedad,Empate,Derrota,0,5,2,22,3,0,21-22
+186,02/01/2022,Sociedad,1,Visitante,Alaves,Empate,Victoria,1,4,3,10,3,0,21-22
+187,02/01/2022,Betis,0,Local,Celta,Derrota,Derrota,0,7,3,15,1,0,21-22
+187,02/01/2022,Celta,2,Visitante,Betis,Victoria,Victoria,2,5,3,11,2,0,21-22
+188,02/01/2022,Mallorca,0,Local,Barcelona,Derrota,Derrota,0,3,4,22,5,0,21-22
+188,02/01/2022,Barcelona,1,Visitante,Mallorca,Victoria,Victoria,1,4,3,24,2,0,21-22
+189,03/01/2022,Villarreal,5,Local,Levante,Victoria,Victoria,3,7,6,12,3,0,21-22
+189,03/01/2022,Levante,0,Visitante,Villarreal,Derrota,Derrota,0,3,5,9,2,0,21-22
+190,03/01/2022,Osasuna,1,Local,Ath Bilbao,Derrota,Derrota,1,4,4,12,5,1,21-22
+190,03/01/2022,Ath Bilbao,3,Visitante,Osasuna,Victoria,Victoria,2,5,5,7,2,0,21-22
+191,03/01/2022,Cadiz,0,Local,Sevilla,Derrota,Empate,0,2,2,5,0,0,21-22
+191,03/01/2022,Sevilla,1,Visitante,Cadiz,Victoria,Empate,0,4,8,9,1,0,21-22
+192,08/01/2022,Levante,2,Local,Mallorca,Victoria,Empate,0,8,5,20,3,1,21-22
+192,08/01/2022,Mallorca,0,Visitante,Levante,Derrota,Empate,0,8,5,11,1,0,21-22
+193,08/01/2022,Sociedad,1,Local,Celta,Victoria,Victoria,1,3,6,10,3,0,21-22
+193,08/01/2022,Celta,0,Visitante,Sociedad,Derrota,Derrota,0,0,4,18,3,0,21-22
+194,08/01/2022,Granada,1,Local,Barcelona,Empate,Empate,0,4,3,9,2,0,21-22
+194,08/01/2022,Barcelona,1,Visitante,Granada,Empate,Empate,0,1,2,21,5,1,21-22
+195,08/01/2022,Real Madrid,4,Local,Valencia,Victoria,Victoria,1,8,3,15,3,0,21-22
+195,08/01/2022,Valencia,1,Visitante,Real Madrid,Derrota,Derrota,0,7,8,24,3,0,21-22
+196,09/01/2022,Vallecano,1,Local,Betis,Empate,Derrota,0,7,6,18,1,0,21-22
+196,09/01/2022,Betis,1,Visitante,Vallecano,Empate,Victoria,1,5,4,13,3,1,21-22
+197,09/01/2022,Sevilla,1,Local,Getafe,Victoria,Victoria,1,1,5,8,1,0,21-22
+197,09/01/2022,Getafe,0,Visitante,Sevilla,Derrota,Derrota,0,2,2,20,3,0,21-22
+198,09/01/2022,Alaves,0,Local,Ath Bilbao,Empate,Empate,0,1,7,15,2,0,21-22
+198,09/01/2022,Ath Bilbao,0,Visitante,Alaves,Empate,Empate,0,2,5,11,0,0,21-22
+199,09/01/2022,Osasuna,2,Local,Cadiz,Victoria,Victoria,1,5,5,13,2,0,21-22
+199,09/01/2022,Cadiz,0,Visitante,Osasuna,Derrota,Derrota,0,1,7,13,2,0,21-22
+200,09/01/2022,Villarreal,2,Local,Ath Madrid,Empate,Empate,1,3,7,13,0,0,21-22
+200,09/01/2022,Ath Madrid,2,Visitante,Villarreal,Empate,Empate,1,5,3,8,2,1,21-22
+201,10/01/2022,Espanol,1,Local,Elche,Derrota,Derrota,1,3,13,13,4,0,21-22
+201,10/01/2022,Elche,2,Visitante,Espanol,Victoria,Victoria,2,2,0,18,6,0,21-22
+202,16/01/2022,Elche,1,Local,Villarreal,Victoria,Empate,0,2,3,12,4,0,21-22
+202,16/01/2022,Villarreal,0,Visitante,Elche,Derrota,Empate,0,4,8,15,3,0,21-22
+203,18/01/2022,Betis,4,Local,Alaves,Victoria,Victoria,3,5,8,14,2,0,21-22
+203,18/01/2022,Alaves,0,Visitante,Betis,Derrota,Derrota,0,2,3,14,0,0,21-22
+204,18/01/2022,Cadiz,2,Local,Espanol,Empate,Derrota,0,4,3,14,5,0,21-22
+204,18/01/2022,Espanol,2,Visitante,Cadiz,Empate,Victoria,1,7,2,9,1,0,21-22
+205,19/01/2022,Celta,2,Local,Osasuna,Victoria,Victoria,2,3,0,14,1,0,21-22
+205,19/01/2022,Osasuna,0,Visitante,Celta,Derrota,Derrota,0,0,5,11,2,0,21-22
+206,19/01/2022,Valencia,1,Local,Sevilla,Empate,Empate,1,2,4,22,3,1,21-22
+206,19/01/2022,Sevilla,1,Visitante,Valencia,Empate,Empate,1,3,4,14,3,0,21-22
+207,20/01/2022,Getafe,4,Local,Granada,Victoria,Empate,1,4,4,15,3,0,21-22
+207,20/01/2022,Granada,2,Visitante,Getafe,Derrota,Empate,1,4,8,10,4,0,21-22
+208,21/01/2022,Espanol,1,Local,Betis,Derrota,Derrota,1,4,6,15,3,1,21-22
+208,21/01/2022,Betis,4,Visitante,Espanol,Victoria,Victoria,2,8,5,12,4,0,21-22
+209,22/01/2022,Levante,0,Local,Cadiz,Derrota,Derrota,0,8,8,15,4,0,21-22
+209,22/01/2022,Cadiz,2,Visitante,Levante,Victoria,Victoria,1,2,2,16,6,0,21-22
+210,22/01/2022,Villarreal,3,Local,Mallorca,Victoria,Victoria,2,6,10,13,1,0,21-22
+210,22/01/2022,Mallorca,0,Visitante,Villarreal,Derrota,Derrota,0,2,6,12,2,1,21-22
+211,22/01/2022,Sevilla,2,Local,Celta,Empate,Derrota,0,5,7,11,1,0,21-22
+211,22/01/2022,Celta,2,Visitante,Sevilla,Empate,Victoria,2,4,0,16,4,0,21-22
+212,22/01/2022,Ath Madrid,3,Local,Valencia,Victoria,Derrota,0,6,5,13,5,0,21-22
+212,22/01/2022,Valencia,2,Visitante,Ath Madrid,Derrota,Victoria,2,3,4,22,6,0,21-22
+213,23/01/2022,Granada,0,Local,Osasuna,Derrota,Empate,0,2,4,12,0,0,21-22
+213,23/01/2022,Osasuna,2,Visitante,Granada,Victoria,Empate,0,7,3,15,2,0,21-22
+214,23/01/2022,Real Madrid,2,Local,Elche,Empate,Derrota,0,8,10,11,3,0,21-22
+214,23/01/2022,Elche,2,Visitante,Real Madrid,Empate,Victoria,1,2,3,14,1,0,21-22
+215,23/01/2022,Sociedad,0,Local,Getafe,Empate,Empate,0,3,7,17,1,0,21-22
+215,23/01/2022,Getafe,0,Visitante,Sociedad,Empate,Empate,0,2,2,13,1,0,21-22
+216,23/01/2022,Vallecano,0,Local,Ath Bilbao,Derrota,Derrota,0,3,9,8,1,0,21-22
+216,23/01/2022,Ath Bilbao,1,Visitante,Vallecano,Victoria,Victoria,1,3,7,20,6,0,21-22
+217,23/01/2022,Alaves,0,Local,Barcelona,Derrota,Empate,0,2,1,16,0,0,21-22
+217,23/01/2022,Barcelona,1,Visitante,Alaves,Victoria,Empate,0,4,10,8,0,0,21-22
+218,04/02/2022,Getafe,3,Local,Levante,Victoria,Victoria,2,8,2,12,4,0,21-22
+218,04/02/2022,Levante,0,Visitante,Getafe,Derrota,Derrota,0,2,8,13,3,0,21-22
+219,05/02/2022,Elche,3,Local,Alaves,Victoria,Derrota,0,4,7,15,1,0,21-22
+219,05/02/2022,Alaves,1,Visitante,Elche,Derrota,Victoria,1,2,3,11,1,0,21-22
+220,05/02/2022,Mallorca,2,Local,Cadiz,Victoria,Empate,1,5,6,14,2,0,21-22
+220,05/02/2022,Cadiz,1,Visitante,Mallorca,Derrota,Empate,1,5,4,15,4,0,21-22
+221,05/02/2022,Celta,2,Local,Vallecano,Victoria,Victoria,1,3,7,17,0,0,21-22
+221,05/02/2022,Vallecano,0,Visitante,Celta,Derrota,Derrota,0,0,2,17,2,0,21-22
+222,05/02/2022,Osasuna,0,Local,Sevilla,Empate,Empate,0,3,1,13,1,0,21-22
+222,05/02/2022,Sevilla,0,Visitante,Osasuna,Empate,Empate,0,4,1,7,1,0,21-22
+223,06/02/2022,Valencia,0,Local,Sociedad,Empate,Empate,0,3,9,17,4,0,21-22
+223,06/02/2022,Sociedad,0,Visitante,Valencia,Empate,Empate,0,2,9,14,2,0,21-22
+224,06/02/2022,Barcelona,4,Local,Ath Madrid,Victoria,Victoria,3,4,3,15,2,1,21-22
+224,06/02/2022,Ath Madrid,2,Visitante,Barcelona,Derrota,Derrota,1,4,5,13,2,0,21-22
+225,06/02/2022,Betis,0,Local,Villarreal,Derrota,Derrota,0,3,6,19,2,0,21-22
+225,06/02/2022,Villarreal,2,Visitante,Betis,Victoria,Victoria,1,3,6,14,3,0,21-22
+226,06/02/2022,Real Madrid,1,Local,Granada,Victoria,Empate,0,11,9,9,2,0,21-22
+226,06/02/2022,Granada,0,Visitante,Real Madrid,Derrota,Empate,0,3,2,11,1,0,21-22
+227,07/02/2022,Ath Bilbao,2,Local,Espanol,Victoria,Victoria,2,4,5,17,3,0,21-22
+227,07/02/2022,Espanol,1,Visitante,Ath Bilbao,Derrota,Derrota,1,3,3,11,3,0,21-22
+228,11/02/2022,Sevilla,2,Local,Elche,Victoria,Empate,0,6,5,13,1,0,21-22
+228,11/02/2022,Elche,0,Visitante,Sevilla,Derrota,Empate,0,1,4,14,5,0,21-22
+229,12/02/2022,Cadiz,0,Local,Celta,Empate,Empate,0,2,3,12,3,0,21-22
+229,12/02/2022,Celta,0,Visitante,Cadiz,Empate,Empate,0,1,3,19,2,0,21-22
+230,12/02/2022,Villarreal,0,Local,Real Madrid,Empate,Empate,0,2,3,11,2,0,21-22
+230,12/02/2022,Real Madrid,0,Visitante,Villarreal,Empate,Empate,0,6,3,10,4,0,21-22
+231,12/02/2022,Vallecano,0,Local,Osasuna,Derrota,Derrota,0,3,4,11,2,0,21-22
+231,12/02/2022,Osasuna,3,Visitante,Vallecano,Victoria,Victoria,2,5,5,16,1,0,21-22
+232,12/02/2022,Ath Madrid,4,Local,Getafe,Victoria,Empate,3,7,5,18,3,1,21-22
+232,12/02/2022,Getafe,3,Visitante,Ath Madrid,Derrota,Empate,3,4,4,17,4,0,21-22
+233,13/02/2022,Alaves,2,Local,Valencia,Victoria,Victoria,1,5,5,15,4,0,21-22
+233,13/02/2022,Valencia,1,Visitante,Alaves,Derrota,Derrota,0,4,9,17,3,0,21-22
+234,13/02/2022,Levante,2,Local,Betis,Derrota,Derrota,1,4,5,13,1,1,21-22
+234,13/02/2022,Betis,4,Visitante,Levante,Victoria,Victoria,3,11,7,8,2,0,21-22
+235,13/02/2022,Sociedad,2,Local,Granada,Victoria,Victoria,1,8,6,13,0,0,21-22
+235,13/02/2022,Granada,0,Visitante,Sociedad,Derrota,Derrota,0,2,5,13,2,0,21-22
+236,13/02/2022,Espanol,2,Local,Barcelona,Empate,Empate,1,4,3,14,5,1,21-22
+236,13/02/2022,Barcelona,2,Visitante,Espanol,Empate,Empate,1,4,5,13,4,1,21-22
+237,14/02/2022,Mallorca,3,Local,Ath Bilbao,Victoria,Victoria,2,5,6,22,6,0,21-22
+237,14/02/2022,Ath Bilbao,2,Visitante,Mallorca,Derrota,Derrota,0,2,6,15,4,0,21-22
+238,16/02/2022,Ath Madrid,0,Local,Levante,Derrota,Empate,0,1,5,9,3,0,21-22
+238,16/02/2022,Levante,1,Visitante,Ath Madrid,Victoria,Empate,0,5,3,19,4,0,21-22
+239,18/02/2022,Elche,2,Local,Vallecano,Victoria,Empate,0,5,2,18,2,0,21-22
+239,18/02/2022,Vallecano,1,Visitante,Elche,Derrota,Empate,0,2,3,15,4,0,21-22
+240,19/02/2022,Granada,1,Local,Villarreal,Derrota,Derrota,0,5,9,15,3,0,21-22
+240,19/02/2022,Villarreal,4,Visitante,Granada,Victoria,Victoria,2,7,2,10,6,0,21-22
+241,19/02/2022,Osasuna,0,Local,Ath Madrid,Derrota,Derrota,0,4,4,12,1,0,21-22
+241,19/02/2022,Ath Madrid,3,Visitante,Osasuna,Victoria,Victoria,1,4,2,19,2,0,21-22
+242,19/02/2022,Cadiz,1,Local,Getafe,Empate,Empate,1,2,7,17,3,0,21-22
+242,19/02/2022,Getafe,1,Visitante,Cadiz,Empate,Empate,1,1,2,11,4,0,21-22
+243,19/02/2022,Real Madrid,3,Local,Alaves,Victoria,Empate,0,9,7,6,1,0,21-22
+243,19/02/2022,Alaves,0,Visitante,Real Madrid,Derrota,Empate,0,2,1,11,1,0,21-22
+244,20/02/2022,Espanol,1,Local,Sevilla,Empate,Derrota,0,4,3,14,4,0,21-22
+244,20/02/2022,Sevilla,1,Visitante,Espanol,Empate,Victoria,1,2,7,14,5,1,21-22
+245,20/02/2022,Valencia,1,Local,Barcelona,Derrota,Derrota,0,5,8,22,3,0,21-22
+245,20/02/2022,Barcelona,4,Visitante,Valencia,Victoria,Victoria,3,6,3,16,4,0,21-22
+246,20/02/2022,Betis,2,Local,Mallorca,Victoria,Victoria,1,5,4,13,3,0,21-22
+246,20/02/2022,Mallorca,1,Visitante,Betis,Derrota,Derrota,0,1,7,17,2,0,21-22
+247,20/02/2022,Ath Bilbao,4,Local,Sociedad,Victoria,Empate,0,8,6,9,4,0,21-22
+247,20/02/2022,Sociedad,0,Visitante,Ath Bilbao,Derrota,Empate,0,2,4,9,1,0,21-22
+248,21/02/2022,Celta,1,Local,Levante,Empate,Empate,0,4,2,15,3,0,21-22
+248,21/02/2022,Levante,1,Visitante,Celta,Empate,Empate,0,3,5,16,5,0,21-22
+249,25/02/2022,Levante,3,Local,Elche,Victoria,Victoria,1,4,3,17,1,0,21-22
+249,25/02/2022,Elche,0,Visitante,Levante,Derrota,Derrota,0,3,3,8,2,1,21-22
+250,26/02/2022,Mallorca,0,Local,Valencia,Derrota,Derrota,0,3,14,14,4,0,21-22
+250,26/02/2022,Valencia,1,Visitante,Mallorca,Victoria,Victoria,1,4,1,21,6,1,21-22
+251,26/02/2022,Getafe,2,Local,Alaves,Empate,Derrota,0,3,6,7,2,1,21-22
+251,26/02/2022,Alaves,2,Visitante,Getafe,Empate,Victoria,1,3,1,24,4,0,21-22
+252,26/02/2022,Vallecano,0,Local,Real Madrid,Derrota,Empate,0,5,5,20,5,0,21-22
+252,26/02/2022,Real Madrid,1,Visitante,Vallecano,Victoria,Empate,0,6,9,5,3,0,21-22
+253,26/02/2022,Ath Madrid,2,Local,Celta,Victoria,Victoria,1,6,5,10,4,0,21-22
+253,26/02/2022,Celta,0,Visitante,Ath Madrid,Derrota,Derrota,0,2,9,7,3,0,21-22
+254,27/02/2022,Villarreal,5,Local,Espanol,Victoria,Victoria,3,11,10,11,2,0,21-22
+254,27/02/2022,Espanol,1,Visitante,Villarreal,Derrota,Derrota,0,2,3,12,1,0,21-22
+255,27/02/2022,Sevilla,2,Local,Betis,Victoria,Victoria,2,3,4,13,6,0,21-22
+255,27/02/2022,Betis,1,Visitante,Sevilla,Derrota,Derrota,0,2,4,16,3,0,21-22
+256,27/02/2022,Sociedad,1,Local,Osasuna,Victoria,Empate,0,5,6,10,0,0,21-22
+256,27/02/2022,Osasuna,0,Visitante,Sociedad,Derrota,Empate,0,1,5,9,4,0,21-22
+257,27/02/2022,Barcelona,4,Local,Ath Bilbao,Victoria,Victoria,1,7,5,8,2,0,21-22
+257,27/02/2022,Ath Bilbao,0,Visitante,Barcelona,Derrota,Derrota,0,3,0,10,1,0,21-22
+258,28/02/2022,Granada,0,Local,Cadiz,Empate,Empate,0,1,0,12,3,1,21-22
+258,28/02/2022,Cadiz,0,Visitante,Granada,Empate,Empate,0,4,4,17,3,0,21-22
+259,02/03/2022,Mallorca,0,Local,Sociedad,Derrota,Derrota,0,1,3,12,0,0,21-22
+259,02/03/2022,Sociedad,2,Visitante,Mallorca,Victoria,Victoria,1,3,4,9,2,0,21-22
+260,04/03/2022,Alaves,0,Local,Sevilla,Empate,Empate,0,2,5,16,3,0,21-22
+260,04/03/2022,Sevilla,0,Visitante,Alaves,Empate,Empate,0,4,5,8,1,0,21-22
+261,05/03/2022,Osasuna,1,Local,Villarreal,Victoria,Empate,0,3,6,12,1,0,21-22
+261,05/03/2022,Villarreal,0,Visitante,Osasuna,Derrota,Empate,0,1,8,6,0,0,21-22
+262,05/03/2022,Espanol,2,Local,Getafe,Victoria,Victoria,2,1,1,17,6,0,21-22
+262,05/03/2022,Getafe,0,Visitante,Espanol,Derrota,Derrota,0,3,5,15,5,0,21-22
+263,05/03/2022,Valencia,3,Local,Granada,Victoria,Empate,0,4,3,14,3,0,21-22
+263,05/03/2022,Granada,1,Visitante,Valencia,Derrota,Empate,0,0,6,13,3,0,21-22
+264,05/03/2022,Real Madrid,4,Local,Sociedad,Victoria,Victoria,2,8,7,12,0,0,21-22
+264,05/03/2022,Sociedad,1,Visitante,Real Madrid,Derrota,Derrota,1,1,1,14,2,0,21-22
+265,06/03/2022,Cadiz,2,Local,Vallecano,Victoria,Empate,0,7,5,23,5,0,21-22
+265,06/03/2022,Vallecano,0,Visitante,Cadiz,Derrota,Empate,0,3,6,15,3,0,21-22
+266,06/03/2022,Elche,1,Local,Barcelona,Derrota,Victoria,1,3,5,10,2,1,21-22
+266,06/03/2022,Barcelona,2,Visitante,Elche,Victoria,Derrota,0,9,6,8,6,0,21-22
+267,06/03/2022,Celta,4,Local,Mallorca,Victoria,Victoria,2,8,4,17,5,1,21-22
+267,06/03/2022,Mallorca,3,Visitante,Celta,Derrota,Derrota,1,3,5,9,4,0,21-22
+268,06/03/2022,Betis,1,Local,Ath Madrid,Derrota,Empate,1,6,10,16,5,0,21-22
+268,06/03/2022,Ath Madrid,3,Visitante,Betis,Victoria,Empate,1,6,3,10,3,0,21-22
+269,07/03/2022,Ath Bilbao,3,Local,Levante,Victoria,Empate,0,9,4,6,1,0,21-22
+269,07/03/2022,Levante,1,Visitante,Ath Bilbao,Derrota,Empate,0,2,3,14,2,0,21-22
+270,11/03/2022,Ath Madrid,2,Local,Cadiz,Victoria,Empate,1,5,0,23,4,1,21-22
+270,11/03/2022,Cadiz,1,Visitante,Ath Madrid,Derrota,Empate,1,3,4,14,1,0,21-22
+271,12/03/2022,Levante,1,Local,Espanol,Empate,Empate,0,3,8,17,4,0,21-22
+271,12/03/2022,Espanol,1,Visitante,Levante,Empate,Empate,0,1,2,10,4,0,21-22
+272,12/03/2022,Granada,0,Local,Elche,Derrota,Derrota,0,4,3,15,3,0,21-22
+272,12/03/2022,Elche,1,Visitante,Granada,Victoria,Victoria,1,2,3,16,6,0,21-22
+273,12/03/2022,Villarreal,1,Local,Celta,Victoria,Empate,0,3,5,12,1,0,21-22
+273,12/03/2022,Celta,0,Visitante,Villarreal,Derrota,Empate,0,2,6,14,1,0,21-22
+274,12/03/2022,Getafe,0,Local,Valencia,Empate,Empate,0,6,5,18,6,0,21-22
+274,12/03/2022,Valencia,0,Visitante,Getafe,Empate,Empate,0,0,3,21,5,0,21-22
+275,13/03/2022,Vallecano,1,Local,Sevilla,Empate,Empate,0,2,5,16,0,0,21-22
+275,13/03/2022,Sevilla,1,Visitante,Vallecano,Empate,Empate,0,2,6,15,1,0,21-22
+276,13/03/2022,Betis,1,Local,Ath Bilbao,Victoria,Victoria,1,5,5,17,4,1,21-22
+276,13/03/2022,Ath Bilbao,0,Visitante,Betis,Derrota,Derrota,0,2,6,12,5,0,21-22
+277,13/03/2022,Sociedad,1,Local,Alaves,Victoria,Empate,0,6,6,15,1,0,21-22
+277,13/03/2022,Alaves,0,Visitante,Sociedad,Derrota,Empate,0,4,4,12,1,0,21-22
+278,13/03/2022,Barcelona,4,Local,Osasuna,Victoria,Victoria,3,9,5,7,0,0,21-22
+278,13/03/2022,Osasuna,0,Visitante,Barcelona,Derrota,Derrota,0,3,1,4,4,0,21-22
+279,14/03/2022,Mallorca,0,Local,Real Madrid,Derrota,Empate,0,3,1,13,3,0,21-22
+279,14/03/2022,Real Madrid,3,Visitante,Mallorca,Victoria,Empate,0,5,6,15,3,0,21-22
+280,18/03/2022,Ath Bilbao,1,Local,Getafe,Empate,Empate,1,11,8,15,4,0,21-22
+280,18/03/2022,Getafe,1,Visitante,Ath Bilbao,Empate,Empate,1,2,2,13,5,2,21-22
+281,19/03/2022,Alaves,2,Local,Granada,Derrota,Empate,0,6,6,12,4,0,21-22
+281,19/03/2022,Granada,3,Visitante,Alaves,Victoria,Empate,0,3,2,10,6,1,21-22
+282,19/03/2022,Elche,0,Local,Valencia,Derrota,Empate,0,2,4,19,3,1,21-22
+282,19/03/2022,Valencia,1,Visitante,Elche,Victoria,Empate,0,3,2,14,3,0,21-22
+283,19/03/2022,Osasuna,3,Local,Levante,Victoria,Victoria,1,7,6,9,0,0,21-22
+283,19/03/2022,Levante,1,Visitante,Osasuna,Derrota,Derrota,0,4,1,17,1,0,21-22
+284,19/03/2022,Vallecano,0,Local,Ath Madrid,Derrota,Empate,0,3,3,15,0,0,21-22
+284,19/03/2022,Ath Madrid,1,Visitante,Vallecano,Victoria,Empate,0,3,6,12,0,1,21-22
+285,20/03/2022,Espanol,1,Local,Mallorca,Victoria,Victoria,1,3,6,14,3,0,21-22
+285,20/03/2022,Mallorca,0,Visitante,Espanol,Derrota,Derrota,0,3,6,12,3,0,21-22
+286,20/03/2022,Cadiz,1,Local,Villarreal,Victoria,Empate,0,7,6,11,3,0,21-22
+286,20/03/2022,Villarreal,0,Visitante,Cadiz,Derrota,Empate,0,1,3,11,2,0,21-22
+287,20/03/2022,Celta,0,Local,Betis,Empate,Empate,0,3,2,12,1,0,21-22
+287,20/03/2022,Betis,0,Visitante,Celta,Empate,Empate,0,1,2,12,2,0,21-22
+288,20/03/2022,Sevilla,0,Local,Sociedad,Empate,Empate,0,0,7,12,0,0,21-22
+288,20/03/2022,Sociedad,0,Visitante,Sevilla,Empate,Empate,0,2,3,13,3,0,21-22
+289,20/03/2022,Real Madrid,0,Local,Barcelona,Derrota,Derrota,0,4,4,9,4,0,21-22
+289,20/03/2022,Barcelona,4,Visitante,Real Madrid,Victoria,Victoria,2,10,3,12,4,0,21-22
+290,02/04/2022,Getafe,1,Local,Mallorca,Victoria,Empate,0,3,5,15,5,0,21-22
+290,02/04/2022,Mallorca,0,Visitante,Getafe,Derrota,Empate,0,1,1,22,6,1,21-22
+291,02/04/2022,Levante,2,Local,Villarreal,Victoria,Empate,0,4,1,16,4,0,21-22
+291,02/04/2022,Villarreal,0,Visitante,Levante,Derrota,Empate,0,2,8,13,2,0,21-22
+292,02/04/2022,Celta,1,Local,Real Madrid,Derrota,Derrota,0,4,9,16,3,0,21-22
+292,02/04/2022,Real Madrid,2,Visitante,Celta,Victoria,Victoria,1,6,3,12,0,0,21-22
+293,02/04/2022,Ath Madrid,4,Local,Alaves,Victoria,Victoria,1,8,8,10,1,0,21-22
+293,02/04/2022,Alaves,1,Visitante,Ath Madrid,Derrota,Derrota,0,1,2,13,0,0,21-22
+294,03/04/2022,Ath Bilbao,2,Local,Elche,Victoria,Victoria,1,6,7,14,2,0,21-22
+294,03/04/2022,Elche,1,Visitante,Ath Bilbao,Derrota,Derrota,0,2,4,16,4,0,21-22
+295,03/04/2022,Betis,4,Local,Osasuna,Victoria,Victoria,2,8,11,11,1,0,21-22
+295,03/04/2022,Osasuna,1,Visitante,Betis,Derrota,Derrota,0,3,7,5,3,0,21-22
+296,03/04/2022,Granada,2,Local,Vallecano,Empate,Derrota,0,9,5,14,4,0,21-22
+296,03/04/2022,Vallecano,2,Visitante,Granada,Empate,Victoria,2,4,4,14,5,1,21-22
+297,03/04/2022,Valencia,0,Local,Cadiz,Empate,Empate,0,1,4,11,3,0,21-22
+297,03/04/2022,Cadiz,0,Visitante,Valencia,Empate,Empate,0,3,3,18,6,1,21-22
+298,03/04/2022,Barcelona,1,Local,Sevilla,Victoria,Empate,0,6,9,12,3,0,21-22
+298,03/04/2022,Sevilla,0,Visitante,Barcelona,Derrota,Empate,0,3,2,8,3,0,21-22
+299,04/04/2022,Sociedad,1,Local,Espanol,Victoria,Empate,0,6,6,17,2,0,21-22
+299,04/04/2022,Espanol,0,Visitante,Sociedad,Derrota,Empate,0,2,0,13,4,0,21-22
+300,08/04/2022,Sevilla,4,Local,Granada,Victoria,Empate,1,8,14,7,2,0,21-22
+300,08/04/2022,Granada,2,Visitante,Sevilla,Derrota,Empate,1,5,3,7,2,0,21-22
+301,09/04/2022,Cadiz,1,Local,Betis,Derrota,Empate,0,4,8,18,1,0,21-22
+301,09/04/2022,Betis,2,Visitante,Cadiz,Victoria,Empate,0,3,4,10,2,0,21-22
+302,09/04/2022,Mallorca,1,Local,Ath Madrid,Victoria,Empate,0,3,1,14,1,0,21-22
+302,09/04/2022,Ath Madrid,0,Visitante,Mallorca,Derrota,Empate,0,1,6,11,4,0,21-22
+303,09/04/2022,Villarreal,1,Local,Ath Bilbao,Empate,Derrota,0,5,7,17,2,0,21-22
+303,09/04/2022,Ath Bilbao,1,Visitante,Villarreal,Empate,Victoria,1,6,2,15,3,0,21-22
+304,09/04/2022,Real Madrid,2,Local,Getafe,Victoria,Victoria,1,8,10,13,2,0,21-22
+304,09/04/2022,Getafe,0,Visitante,Real Madrid,Derrota,Derrota,0,0,2,11,2,0,21-22
+305,10/04/2022,Osasuna,1,Local,Alaves,Victoria,Empate,0,4,7,12,3,0,21-22
+305,10/04/2022,Alaves,0,Visitante,Osasuna,Derrota,Empate,0,2,3,6,1,0,21-22
+306,10/04/2022,Espanol,1,Local,Celta,Victoria,Empate,0,2,2,12,4,0,21-22
+306,10/04/2022,Celta,0,Visitante,Espanol,Derrota,Empate,0,5,3,21,1,0,21-22
+307,10/04/2022,Elche,1,Local,Sociedad,Derrota,Derrota,1,1,8,15,3,0,21-22
+307,10/04/2022,Sociedad,2,Visitante,Elche,Victoria,Victoria,2,6,9,12,3,0,21-22
+308,10/04/2022,Levante,2,Local,Barcelona,Derrota,Empate,0,6,4,8,1,0,21-22
+308,10/04/2022,Barcelona,3,Visitante,Levante,Victoria,Empate,0,7,3,7,1,0,21-22
+309,11/04/2022,Vallecano,1,Local,Valencia,Empate,Empate,0,4,5,13,3,0,21-22
+309,11/04/2022,Valencia,1,Visitante,Vallecano,Empate,Empate,0,2,4,17,4,0,21-22
+310,15/04/2022,Sociedad,0,Local,Betis,Empate,Empate,0,2,8,17,4,1,21-22
+310,15/04/2022,Betis,0,Visitante,Sociedad,Empate,Empate,0,2,1,7,4,0,21-22
+311,16/04/2022,Elche,3,Local,Mallorca,Victoria,Victoria,1,2,2,17,2,0,21-22
+311,16/04/2022,Mallorca,0,Visitante,Elche,Derrota,Derrota,0,2,1,13,3,0,21-22
+312,16/04/2022,Alaves,1,Local,Vallecano,Victoria,Empate,0,5,2,10,2,0,21-22
+312,16/04/2022,Vallecano,0,Visitante,Alaves,Derrota,Empate,0,3,12,9,3,1,21-22
+313,16/04/2022,Valencia,1,Local,Osasuna,Derrota,Empate,0,4,9,11,1,0,21-22
+313,16/04/2022,Osasuna,2,Visitante,Valencia,Victoria,Empate,0,3,5,22,2,0,21-22
+314,16/04/2022,Getafe,1,Local,Villarreal,Derrota,Derrota,0,5,6,17,2,0,21-22
+314,16/04/2022,Villarreal,2,Visitante,Getafe,Victoria,Victoria,2,6,6,6,0,0,21-22
+315,17/04/2022,Granada,1,Local,Levante,Derrota,Derrota,0,4,13,10,5,1,21-22
+315,17/04/2022,Levante,4,Visitante,Granada,Victoria,Victoria,1,8,2,9,2,0,21-22
+316,17/04/2022,Ath Madrid,2,Local,Espanol,Victoria,Empate,0,3,6,18,5,1,21-22
+316,17/04/2022,Espanol,1,Visitante,Ath Madrid,Derrota,Empate,0,5,3,12,5,0,21-22
+317,17/04/2022,Ath Bilbao,0,Local,Celta,Derrota,Derrota,0,2,5,13,2,0,21-22
+317,17/04/2022,Celta,2,Visitante,Ath Bilbao,Victoria,Victoria,2,4,4,15,2,0,21-22
+318,17/04/2022,Sevilla,2,Local,Real Madrid,Derrota,Victoria,2,2,0,11,3,0,21-22
+318,17/04/2022,Real Madrid,3,Visitante,Sevilla,Victoria,Derrota,0,6,3,9,4,0,21-22
+319,18/04/2022,Barcelona,0,Local,Cadiz,Derrota,Empate,0,6,8,16,4,0,21-22
+319,18/04/2022,Cadiz,1,Visitante,Barcelona,Victoria,Empate,0,4,1,9,1,0,21-22
+320,19/04/2022,Mallorca,2,Local,Alaves,Victoria,Victoria,2,3,0,25,2,0,21-22
+320,19/04/2022,Alaves,1,Visitante,Mallorca,Derrota,Derrota,0,4,6,15,6,0,21-22
+321,19/04/2022,Betis,0,Local,Elche,Derrota,Empate,0,3,2,9,2,1,21-22
+321,19/04/2022,Elche,1,Visitante,Betis,Victoria,Empate,0,1,3,14,3,0,21-22
+322,19/04/2022,Villarreal,2,Local,Valencia,Victoria,Victoria,2,5,3,14,2,0,21-22
+322,19/04/2022,Valencia,0,Visitante,Villarreal,Derrota,Derrota,0,1,2,12,3,0,21-22
+323,20/04/2022,Ath Madrid,0,Local,Granada,Empate,Empate,0,1,11,9,4,0,21-22
+323,20/04/2022,Granada,0,Visitante,Ath Madrid,Empate,Empate,0,2,1,12,5,0,21-22
+324,20/04/2022,Celta,0,Local,Getafe,Derrota,Derrota,0,2,2,13,2,0,21-22
+324,20/04/2022,Getafe,2,Visitante,Celta,Victoria,Victoria,1,3,1,13,5,0,21-22
+325,20/04/2022,Osasuna,1,Local,Real Madrid,Derrota,Derrota,1,3,3,13,1,0,21-22
+325,20/04/2022,Real Madrid,3,Visitante,Osasuna,Victoria,Victoria,2,11,4,7,3,0,21-22
+326,21/04/2022,Espanol,0,Local,Vallecano,Derrota,Derrota,0,2,3,14,4,0,21-22
+326,21/04/2022,Vallecano,1,Visitante,Espanol,Victoria,Victoria,1,2,10,18,4,0,21-22
+327,21/04/2022,Levante,2,Local,Sevilla,Derrota,Derrota,1,6,10,9,1,0,21-22
+327,21/04/2022,Sevilla,3,Visitante,Levante,Victoria,Victoria,2,6,4,12,5,0,21-22
+328,21/04/2022,Cadiz,2,Local,Ath Bilbao,Derrota,Derrota,0,8,4,9,3,0,21-22
+328,21/04/2022,Ath Bilbao,3,Visitante,Cadiz,Victoria,Victoria,3,7,1,15,5,1,21-22
+329,21/04/2022,Sociedad,0,Local,Barcelona,Derrota,Derrota,0,5,5,12,1,0,21-22
+329,21/04/2022,Barcelona,1,Visitante,Sociedad,Victoria,Victoria,1,1,3,9,2,0,21-22
+330,24/04/2022,Barcelona,0,Local,Vallecano,Derrota,Derrota,0,5,9,10,4,0,21-22
+330,24/04/2022,Vallecano,1,Visitante,Barcelona,Victoria,Victoria,1,1,1,1,6,0,21-22
+331,29/04/2022,Sevilla,1,Local,Cadiz,Empate,Victoria,1,6,5,15,2,0,21-22
+331,29/04/2022,Cadiz,1,Visitante,Sevilla,Empate,Derrota,0,4,6,11,2,0,21-22
+332,30/04/2022,Alaves,2,Local,Villarreal,Victoria,Victoria,2,5,5,14,5,0,21-22
+332,30/04/2022,Villarreal,1,Visitante,Alaves,Derrota,Derrota,0,6,8,5,2,0,21-22
+333,30/04/2022,Real Madrid,4,Local,Espanol,Victoria,Victoria,2,5,6,11,2,0,21-22
+333,30/04/2022,Espanol,0,Visitante,Real Madrid,Derrota,Derrota,0,6,8,6,0,0,21-22
+334,30/04/2022,Valencia,1,Local,Levante,Empate,Victoria,1,1,1,11,4,1,21-22
+334,30/04/2022,Levante,1,Visitante,Valencia,Empate,Derrota,0,6,7,21,3,0,21-22
+335,30/04/2022,Ath Bilbao,2,Local,Ath Madrid,Victoria,Victoria,1,4,5,18,3,0,21-22
+335,30/04/2022,Ath Madrid,0,Visitante,Ath Bilbao,Derrota,Derrota,0,3,3,15,3,0,21-22
+336,01/05/2022,Elche,1,Local,Osasuna,Empate,Empate,0,4,7,13,4,0,21-22
+336,01/05/2022,Osasuna,1,Visitante,Elche,Empate,Empate,0,3,4,18,2,0,21-22
+337,01/05/2022,Granada,1,Local,Celta,Empate,Empate,0,6,5,11,1,0,21-22
+337,01/05/2022,Celta,1,Visitante,Granada,Empate,Empate,0,6,4,13,3,0,21-22
+338,01/05/2022,Vallecano,1,Local,Sociedad,Empate,Derrota,0,7,8,15,2,0,21-22
+338,01/05/2022,Sociedad,1,Visitante,Vallecano,Empate,Victoria,1,3,5,7,1,0,21-22
+339,01/05/2022,Barcelona,2,Local,Mallorca,Victoria,Victoria,1,5,5,13,2,0,21-22
+339,01/05/2022,Mallorca,1,Visitante,Barcelona,Derrota,Derrota,0,2,2,12,3,0,21-22
+340,02/05/2022,Getafe,0,Local,Betis,Empate,Empate,0,2,2,13,1,0,21-22
+340,02/05/2022,Betis,0,Visitante,Getafe,Empate,Empate,0,4,4,13,1,0,21-22
+341,06/05/2022,Levante,2,Local,Sociedad,Victoria,Empate,0,7,7,10,2,0,21-22
+341,06/05/2022,Sociedad,1,Visitante,Levante,Derrota,Empate,0,6,6,11,3,0,21-22
+342,07/05/2022,Mallorca,2,Local,Granada,Derrota,Empate,1,8,5,11,3,0,21-22
+342,07/05/2022,Granada,6,Visitante,Mallorca,Victoria,Empate,1,7,5,13,2,0,21-22
+343,07/05/2022,Ath Bilbao,0,Local,Valencia,Empate,Empate,0,5,4,13,4,0,21-22
+343,07/05/2022,Valencia,0,Visitante,Ath Bilbao,Empate,Empate,0,1,2,22,4,1,21-22
+344,07/05/2022,Cadiz,3,Local,Elche,Victoria,Empate,0,7,8,18,1,0,21-22
+344,07/05/2022,Elche,0,Visitante,Cadiz,Derrota,Empate,0,2,1,13,0,1,21-22
+345,07/05/2022,Celta,4,Local,Alaves,Victoria,Victoria,2,7,7,7,1,0,21-22
+345,07/05/2022,Alaves,0,Visitante,Celta,Derrota,Derrota,0,1,1,7,3,1,21-22
+346,07/05/2022,Betis,1,Local,Barcelona,Derrota,Empate,0,5,4,16,1,0,21-22
+346,07/05/2022,Barcelona,2,Visitante,Betis,Victoria,Empate,0,5,8,18,2,0,21-22
+347,08/05/2022,Getafe,0,Local,Vallecano,Empate,Empate,0,6,4,20,3,0,21-22
+347,08/05/2022,Vallecano,0,Visitante,Getafe,Empate,Empate,0,1,5,14,4,0,21-22
+348,08/05/2022,Villarreal,1,Local,Sevilla,Empate,Empate,0,6,4,14,3,0,21-22
+348,08/05/2022,Sevilla,1,Visitante,Villarreal,Empate,Empate,0,2,2,15,0,0,21-22
+349,08/05/2022,Espanol,1,Local,Osasuna,Empate,Derrota,0,3,6,6,1,0,21-22
+349,08/05/2022,Osasuna,1,Visitante,Espanol,Empate,Victoria,1,5,6,15,3,0,21-22
+350,08/05/2022,Ath Madrid,1,Local,Real Madrid,Victoria,Victoria,1,2,4,17,2,0,21-22
+350,08/05/2022,Real Madrid,0,Visitante,Ath Madrid,Derrota,Derrota,0,6,6,7,4,0,21-22
+351,10/05/2022,Valencia,0,Local,Betis,Derrota,Empate,0,5,7,17,1,0,21-22
+351,10/05/2022,Betis,3,Visitante,Valencia,Victoria,Empate,0,5,3,11,3,0,21-22
+352,10/05/2022,Granada,1,Local,Ath Bilbao,Victoria,Victoria,1,2,2,20,4,0,21-22
+352,10/05/2022,Ath Bilbao,0,Visitante,Granada,Derrota,Derrota,0,1,7,11,2,1,21-22
+353,10/05/2022,Barcelona,3,Local,Celta,Victoria,Victoria,2,4,2,18,3,0,21-22
+353,10/05/2022,Celta,1,Visitante,Barcelona,Derrota,Derrota,0,5,8,6,0,1,21-22
+354,11/05/2022,Alaves,2,Local,Espanol,Victoria,Empate,1,9,12,11,3,0,21-22
+354,11/05/2022,Espanol,1,Visitante,Alaves,Derrota,Empate,1,3,3,15,3,1,21-22
+355,11/05/2022,Osasuna,1,Local,Getafe,Empate,Empate,1,1,7,10,2,0,21-22
+355,11/05/2022,Getafe,1,Visitante,Osasuna,Empate,Empate,1,0,2,17,4,1,21-22
+356,11/05/2022,Sevilla,0,Local,Mallorca,Empate,Empate,0,4,6,11,4,0,21-22
+356,11/05/2022,Mallorca,0,Visitante,Sevilla,Empate,Empate,0,2,3,18,6,0,21-22
+357,11/05/2022,Elche,0,Local,Ath Madrid,Derrota,Derrota,0,0,6,16,2,0,21-22
+357,11/05/2022,Ath Madrid,2,Visitante,Elche,Victoria,Victoria,1,6,3,7,2,0,21-22
+358,12/05/2022,Sociedad,3,Local,Cadiz,Victoria,Victoria,1,7,2,13,4,0,21-22
+358,12/05/2022,Cadiz,0,Visitante,Sociedad,Derrota,Derrota,0,1,12,11,2,0,21-22
+359,12/05/2022,Vallecano,1,Local,Villarreal,Derrota,Derrota,1,3,9,13,5,0,21-22
+359,12/05/2022,Villarreal,5,Visitante,Vallecano,Victoria,Victoria,4,8,3,10,2,0,21-22
+360,12/05/2022,Real Madrid,6,Local,Levante,Victoria,Victoria,4,16,6,8,2,0,21-22
+360,12/05/2022,Levante,0,Visitante,Real Madrid,Derrota,Derrota,0,1,6,6,1,0,21-22
+361,14/05/2022,Espanol,1,Local,Valencia,Empate,Empate,1,3,2,18,4,0,21-22
+361,14/05/2022,Valencia,1,Visitante,Espanol,Empate,Empate,1,5,3,15,1,0,21-22
+362,15/05/2022,Ath Bilbao,2,Local,Osasuna,Victoria,Victoria,1,8,10,6,0,0,21-22
+362,15/05/2022,Osasuna,0,Visitante,Ath Bilbao,Derrota,Derrota,0,1,6,14,0,0,21-22
+363,15/05/2022,Ath Madrid,1,Local,Sevilla,Empate,Victoria,1,3,4,14,2,0,21-22
+363,15/05/2022,Sevilla,1,Visitante,Ath Madrid,Empate,Derrota,0,4,5,18,5,0,21-22
+364,15/05/2022,Betis,2,Local,Granada,Victoria,Victoria,1,4,4,11,0,0,21-22
+364,15/05/2022,Granada,0,Visitante,Betis,Derrota,Derrota,0,4,9,17,1,0,21-22
+365,15/05/2022,Cadiz,1,Local,Real Madrid,Empate,Empate,1,7,10,13,7,0,21-22
+365,15/05/2022,Real Madrid,1,Visitante,Cadiz,Empate,Empate,1,7,2,11,2,0,21-22
+366,15/05/2022,Celta,1,Local,Elche,Victoria,Victoria,1,5,7,11,2,0,21-22
+366,15/05/2022,Elche,0,Visitante,Celta,Derrota,Derrota,0,1,5,12,2,0,21-22
+367,15/05/2022,Getafe,0,Local,Barcelona,Empate,Empate,0,3,5,9,1,0,21-22
+367,15/05/2022,Barcelona,0,Visitante,Getafe,Empate,Empate,0,1,5,8,2,0,21-22
+368,15/05/2022,Levante,3,Local,Alaves,Victoria,Derrota,0,5,3,19,8,0,21-22
+368,15/05/2022,Alaves,1,Visitante,Levante,Derrota,Victoria,1,2,4,10,6,0,21-22
+369,15/05/2022,Mallorca,2,Local,Vallecano,Victoria,Victoria,1,5,5,13,1,0,21-22
+369,15/05/2022,Vallecano,1,Visitante,Mallorca,Derrota,Derrota,0,4,3,8,0,0,21-22
+370,15/05/2022,Villarreal,1,Local,Sociedad,Derrota,Victoria,1,4,4,12,4,0,21-22
+370,15/05/2022,Sociedad,2,Visitante,Villarreal,Victoria,Derrota,0,6,3,16,2,0,21-22
+371,20/05/2022,Real Madrid,0,Local,Betis,Empate,Empate,0,3,8,7,0,0,21-22
+371,20/05/2022,Betis,0,Visitante,Real Madrid,Empate,Empate,0,2,5,12,0,0,21-22
+372,20/05/2022,Vallecano,2,Local,Levante,Derrota,Derrota,1,8,7,8,0,0,21-22
+372,20/05/2022,Levante,4,Visitante,Vallecano,Victoria,Victoria,3,7,3,12,3,0,21-22
+373,21/05/2022,Valencia,2,Local,Celta,Victoria,Victoria,1,3,3,22,3,0,21-22
+373,21/05/2022,Celta,0,Visitante,Valencia,Derrota,Derrota,0,3,3,19,3,0,21-22
+374,22/05/2022,Elche,3,Local,Getafe,Victoria,Empate,1,9,8,11,2,0,21-22
+374,22/05/2022,Getafe,1,Visitante,Elche,Derrota,Empate,1,2,3,9,2,0,21-22
+375,22/05/2022,Alaves,0,Local,Cadiz,Derrota,Empate,0,2,4,11,0,0,21-22
+375,22/05/2022,Cadiz,1,Visitante,Alaves,Victoria,Empate,0,6,4,13,1,0,21-22
+376,22/05/2022,Granada,0,Local,Espanol,Empate,Empate,0,5,7,9,1,0,21-22
+376,22/05/2022,Espanol,0,Visitante,Granada,Empate,Empate,0,5,3,12,0,0,21-22
+377,22/05/2022,Osasuna,0,Local,Mallorca,Derrota,Empate,0,1,5,8,2,0,21-22
+377,22/05/2022,Mallorca,2,Visitante,Osasuna,Victoria,Empate,0,6,7,14,2,0,21-22
+378,22/05/2022,Barcelona,0,Local,Villarreal,Derrota,Derrota,0,3,12,12,3,0,21-22
+378,22/05/2022,Villarreal,2,Visitante,Barcelona,Victoria,Victoria,1,3,1,7,1,0,21-22
+379,22/05/2022,Sevilla,1,Local,Ath Bilbao,Victoria,Empate,0,3,5,13,3,0,21-22
+379,22/05/2022,Ath Bilbao,0,Visitante,Sevilla,Derrota,Empate,0,1,0,12,3,0,21-22
+380,22/05/2022,Sociedad,1,Local,Ath Madrid,Derrota,Empate,0,3,3,16,4,0,21-22
+380,22/05/2022,Ath Madrid,2,Visitante,Sociedad,Victoria,Empate,0,5,2,11,2,0,21-22

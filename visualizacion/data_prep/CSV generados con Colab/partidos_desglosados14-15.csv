@@ -1,0 +1,761 @@
+MatchID,Date,Team,Goals,TeamLocation,OpposingTeam,FullTimeResult,HalfTimeResult,HalfTimeGoals,ShotsOnTarget,Corners,FoulsCommitted,YellowCards,RedCards,Season
+1,23/08/14,Almeria,1,Local,Espanol,Empate,Empate,0,6,11,8,3,0,14-15
+1,23/08/14,Espanol,1,Visitante,Almeria,Empate,Empate,0,2,7,9,2,1,14-15
+2,23/08/14,Granada,2,Local,La Coruna,Victoria,Derrota,0,3,5,13,1,0,14-15
+2,23/08/14,La Coruna,1,Visitante,Granada,Derrota,Victoria,1,1,3,26,2,0,14-15
+3,23/08/14,Malaga,1,Local,Ath Bilbao,Victoria,Victoria,1,3,5,13,3,2,14-15
+3,23/08/14,Ath Bilbao,0,Visitante,Malaga,Derrota,Derrota,0,5,4,9,3,0,14-15
+4,23/08/14,Sevilla,1,Local,Valencia,Empate,Victoria,1,3,3,23,4,0,14-15
+4,23/08/14,Valencia,1,Visitante,Sevilla,Empate,Derrota,0,1,3,8,2,1,14-15
+5,24/08/14,Barcelona,3,Local,Elche,Victoria,Victoria,1,6,3,11,0,1,14-15
+5,24/08/14,Elche,0,Visitante,Barcelona,Derrota,Derrota,0,0,1,13,1,0,14-15
+6,24/08/14,Celta,3,Local,Getafe,Victoria,Victoria,1,8,4,19,4,0,14-15
+6,24/08/14,Getafe,1,Visitante,Celta,Derrota,Derrota,0,3,4,15,1,0,14-15
+7,24/08/14,Eibar,1,Local,Sociedad,Victoria,Victoria,1,5,5,13,4,0,14-15
+7,24/08/14,Sociedad,0,Visitante,Eibar,Derrota,Derrota,0,4,6,14,1,0,14-15
+8,24/08/14,Levante,0,Local,Villarreal,Derrota,Empate,0,2,3,11,1,0,14-15
+8,24/08/14,Villarreal,2,Visitante,Levante,Victoria,Empate,0,6,4,14,3,0,14-15
+9,25/08/14,Real Madrid,2,Local,Cordoba,Victoria,Victoria,1,8,8,9,1,0,14-15
+9,25/08/14,Cordoba,0,Visitante,Real Madrid,Derrota,Derrota,0,2,5,13,2,0,14-15
+10,25/08/14,Vallecano,0,Local,Ath Madrid,Empate,Empate,0,2,2,13,2,0,14-15
+10,25/08/14,Ath Madrid,0,Visitante,Vallecano,Empate,Empate,0,2,4,17,2,0,14-15
+11,29/08/14,Getafe,1,Local,Almeria,Victoria,Victoria,1,3,2,17,3,0,14-15
+11,29/08/14,Almeria,0,Visitante,Getafe,Derrota,Derrota,0,4,3,11,2,0,14-15
+12,29/08/14,Valencia,3,Local,Malaga,Victoria,Victoria,2,4,4,18,1,0,14-15
+12,29/08/14,Malaga,0,Visitante,Valencia,Derrota,Derrota,0,4,6,11,2,1,14-15
+13,30/08/14,Ath Bilbao,3,Local,Levante,Victoria,Victoria,1,5,2,13,1,0,14-15
+13,30/08/14,Levante,0,Visitante,Ath Bilbao,Derrota,Derrota,0,2,11,17,4,0,14-15
+14,30/08/14,Ath Madrid,2,Local,Eibar,Victoria,Victoria,2,6,5,12,3,0,14-15
+14,30/08/14,Eibar,1,Visitante,Ath Madrid,Derrota,Derrota,1,2,5,18,0,0,14-15
+15,30/08/14,Cordoba,1,Local,Celta,Empate,Empate,0,1,1,14,1,0,14-15
+15,30/08/14,Celta,1,Visitante,Cordoba,Empate,Empate,0,4,6,17,4,0,14-15
+16,30/08/14,Espanol,1,Local,Sevilla,Derrota,Derrota,0,2,3,20,4,0,14-15
+16,30/08/14,Sevilla,2,Visitante,Espanol,Victoria,Victoria,1,6,7,24,2,0,14-15
+17,31/08/14,Elche,1,Local,Granada,Empate,Empate,0,3,8,12,4,0,14-15
+17,31/08/14,Granada,1,Visitante,Elche,Empate,Empate,0,4,4,17,4,0,14-15
+18,31/08/14,La Coruna,2,Local,Vallecano,Empate,Empate,1,5,2,16,4,0,14-15
+18,31/08/14,Vallecano,2,Visitante,La Coruna,Empate,Empate,1,2,4,18,6,0,14-15
+19,31/08/14,Sociedad,4,Local,Real Madrid,Victoria,Empate,2,5,8,18,1,0,14-15
+19,31/08/14,Real Madrid,2,Visitante,Sociedad,Derrota,Empate,2,5,6,12,2,0,14-15
+20,31/08/14,Villarreal,0,Local,Barcelona,Derrota,Empate,0,0,3,12,0,0,14-15
+20,31/08/14,Barcelona,1,Visitante,Villarreal,Victoria,Empate,0,8,10,9,2,0,14-15
+21,12/09/14,Almeria,1,Local,Cordoba,Empate,Empate,1,2,8,14,4,0,14-15
+21,12/09/14,Cordoba,1,Visitante,Almeria,Empate,Empate,1,4,2,22,4,0,14-15
+22,13/09/14,Barcelona,2,Local,Ath Bilbao,Victoria,Empate,0,8,5,12,1,0,14-15
+22,13/09/14,Ath Bilbao,0,Visitante,Barcelona,Derrota,Empate,0,2,1,11,1,0,14-15
+23,13/09/14,Celta,2,Local,Sociedad,Empate,Victoria,1,6,5,13,1,0,14-15
+23,13/09/14,Sociedad,2,Visitante,Celta,Empate,Derrota,0,5,8,15,5,0,14-15
+24,13/09/14,Malaga,0,Local,Levante,Empate,Empate,0,7,20,10,1,0,14-15
+24,13/09/14,Levante,0,Visitante,Malaga,Empate,Empate,0,0,1,15,2,0,14-15
+25,13/09/14,Real Madrid,1,Local,Ath Madrid,Derrota,Empate,1,4,4,12,4,0,14-15
+25,13/09/14,Ath Madrid,2,Visitante,Real Madrid,Victoria,Empate,1,2,4,12,7,0,14-15
+26,14/09/14,Granada,0,Local,Villarreal,Empate,Empate,0,3,9,12,3,0,14-15
+26,14/09/14,Villarreal,0,Visitante,Granada,Empate,Empate,0,3,5,13,2,0,14-15
+27,14/09/14,Sevilla,2,Local,Getafe,Victoria,Victoria,1,4,8,10,2,0,14-15
+27,14/09/14,Getafe,0,Visitante,Sevilla,Derrota,Derrota,0,1,5,25,6,0,14-15
+28,14/09/14,Valencia,3,Local,Espanol,Victoria,Victoria,1,6,7,15,1,0,14-15
+28,14/09/14,Espanol,1,Visitante,Valencia,Derrota,Derrota,0,3,8,13,1,0,14-15
+29,14/09/14,Vallecano,2,Local,Elche,Derrota,Empate,1,4,6,11,2,0,14-15
+29,14/09/14,Elche,3,Visitante,Vallecano,Victoria,Empate,1,5,5,23,2,0,14-15
+30,15/09/14,Eibar,0,Local,La Coruna,Derrota,Derrota,0,2,4,11,0,0,14-15
+30,15/09/14,La Coruna,1,Visitante,Eibar,Victoria,Victoria,1,1,8,23,5,0,14-15
+31,19/09/14,Elche,0,Local,Eibar,Derrota,Derrota,0,6,10,9,2,0,14-15
+31,19/09/14,Eibar,2,Visitante,Elche,Victoria,Victoria,2,4,7,10,1,0,14-15
+32,20/09/14,Ath Bilbao,0,Local,Granada,Derrota,Derrota,0,5,7,14,2,0,14-15
+32,20/09/14,Granada,1,Visitante,Ath Bilbao,Victoria,Victoria,1,2,5,20,4,0,14-15
+33,20/09/14,Ath Madrid,2,Local,Celta,Empate,Victoria,2,8,6,9,1,0,14-15
+33,20/09/14,Celta,2,Visitante,Ath Madrid,Empate,Derrota,1,5,3,17,3,0,14-15
+34,20/09/14,Espanol,2,Local,Malaga,Empate,Victoria,1,8,7,14,2,0,14-15
+34,20/09/14,Malaga,2,Visitante,Espanol,Empate,Derrota,0,3,2,16,3,0,14-15
+35,20/09/14,La Coruna,2,Local,Real Madrid,Derrota,Derrota,0,5,2,8,1,0,14-15
+35,20/09/14,Real Madrid,8,Visitante,La Coruna,Victoria,Victoria,3,13,3,9,1,0,14-15
+36,21/09/14,Cordoba,1,Local,Sevilla,Derrota,Derrota,0,3,7,11,6,0,14-15
+36,21/09/14,Sevilla,3,Visitante,Cordoba,Victoria,Victoria,1,8,4,24,2,0,14-15
+37,21/09/14,Levante,0,Local,Barcelona,Derrota,Derrota,0,2,3,13,1,1,14-15
+37,21/09/14,Barcelona,5,Visitante,Levante,Victoria,Victoria,2,8,6,11,2,0,14-15
+38,21/09/14,Sociedad,1,Local,Almeria,Derrota,Derrota,0,6,13,19,1,0,14-15
+38,21/09/14,Almeria,2,Visitante,Sociedad,Victoria,Victoria,1,5,7,17,6,1,14-15
+39,21/09/14,Villarreal,4,Local,Vallecano,Victoria,Derrota,1,9,11,11,2,0,14-15
+39,21/09/14,Vallecano,2,Visitante,Villarreal,Derrota,Victoria,2,3,5,18,2,0,14-15
+40,22/09/14,Getafe,0,Local,Valencia,Derrota,Derrota,0,5,6,25,6,0,14-15
+40,22/09/14,Valencia,3,Visitante,Getafe,Victoria,Victoria,2,3,1,17,1,1,14-15
+41,23/09/14,Celta,2,Local,La Coruna,Victoria,Victoria,1,4,13,15,3,0,14-15
+41,23/09/14,La Coruna,1,Visitante,Celta,Derrota,Derrota,0,3,4,15,3,0,14-15
+42,23/09/14,Real Madrid,5,Local,Elche,Victoria,Victoria,3,12,8,15,2,0,14-15
+42,23/09/14,Elche,1,Visitante,Real Madrid,Derrota,Derrota,1,3,2,15,1,0,14-15
+43,24/09/14,Almeria,0,Local,Ath Madrid,Derrota,Empate,0,1,2,14,3,0,14-15
+43,24/09/14,Ath Madrid,1,Visitante,Almeria,Victoria,Empate,0,9,10,16,6,0,14-15
+44,24/09/14,Eibar,1,Local,Villarreal,Empate,Victoria,1,3,2,14,4,0,14-15
+44,24/09/14,Villarreal,1,Visitante,Eibar,Empate,Derrota,0,4,10,17,4,0,14-15
+45,24/09/14,Granada,0,Local,Levante,Derrota,Empate,0,0,5,14,2,0,14-15
+45,24/09/14,Levante,1,Visitante,Granada,Victoria,Empate,0,4,3,13,6,0,14-15
+46,24/09/14,Malaga,0,Local,Barcelona,Empate,Empate,0,2,2,15,2,0,14-15
+46,24/09/14,Barcelona,0,Visitante,Malaga,Empate,Empate,0,0,8,13,2,0,14-15
+47,24/09/14,Sevilla,1,Local,Sociedad,Victoria,Victoria,1,8,11,13,6,0,14-15
+47,24/09/14,Sociedad,0,Visitante,Sevilla,Derrota,Derrota,0,1,4,7,2,0,14-15
+48,24/09/14,Vallecano,2,Local,Ath Bilbao,Victoria,Empate,1,5,1,18,2,0,14-15
+48,24/09/14,Ath Bilbao,1,Visitante,Vallecano,Derrota,Empate,1,3,2,17,2,0,14-15
+49,25/09/14,Espanol,2,Local,Getafe,Victoria,Empate,0,4,6,16,1,0,14-15
+49,25/09/14,Getafe,0,Visitante,Espanol,Derrota,Empate,0,2,4,17,2,0,14-15
+50,25/09/14,Valencia,3,Local,Cordoba,Victoria,Victoria,2,7,3,11,1,0,14-15
+50,25/09/14,Cordoba,0,Visitante,Valencia,Derrota,Derrota,0,1,3,23,3,0,14-15
+51,26/09/14,Elche,0,Local,Celta,Derrota,Empate,0,3,0,12,4,0,14-15
+51,26/09/14,Celta,1,Visitante,Elche,Victoria,Empate,0,4,4,14,2,0,14-15
+52,27/09/14,Ath Bilbao,0,Local,Eibar,Empate,Empate,0,1,6,13,5,0,14-15
+52,27/09/14,Eibar,0,Visitante,Ath Bilbao,Empate,Empate,0,2,2,22,6,0,14-15
+53,27/09/14,Ath Madrid,4,Local,Sevilla,Victoria,Victoria,2,6,5,14,4,0,14-15
+53,27/09/14,Sevilla,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,3,16,3,0,14-15
+54,27/09/14,Barcelona,6,Local,Granada,Victoria,Victoria,3,12,8,11,1,0,14-15
+54,27/09/14,Granada,0,Visitante,Barcelona,Derrota,Derrota,0,1,1,11,3,0,14-15
+55,27/09/14,Levante,0,Local,Vallecano,Derrota,Derrota,0,0,5,21,4,0,14-15
+55,27/09/14,Vallecano,2,Visitante,Levante,Victoria,Victoria,2,5,7,16,3,0,14-15
+56,27/09/14,Villarreal,0,Local,Real Madrid,Derrota,Derrota,0,5,7,7,0,0,14-15
+56,27/09/14,Real Madrid,2,Visitante,Villarreal,Victoria,Victoria,2,3,6,10,1,0,14-15
+57,28/09/14,Cordoba,0,Local,Espanol,Empate,Empate,0,4,3,13,2,0,14-15
+57,28/09/14,Espanol,0,Visitante,Cordoba,Empate,Empate,0,2,5,26,6,0,14-15
+58,28/09/14,Getafe,1,Local,Malaga,Victoria,Victoria,1,3,4,8,0,0,14-15
+58,28/09/14,Malaga,0,Visitante,Getafe,Derrota,Derrota,0,0,4,16,3,1,14-15
+59,28/09/14,La Coruna,0,Local,Almeria,Derrota,Empate,0,1,6,14,2,0,14-15
+59,28/09/14,Almeria,1,Visitante,La Coruna,Victoria,Empate,0,6,5,18,4,0,14-15
+60,28/09/14,Sociedad,1,Local,Valencia,Empate,Empate,1,5,11,13,2,0,14-15
+60,28/09/14,Valencia,1,Visitante,Sociedad,Empate,Empate,1,2,4,17,5,0,14-15
+61,03/10/14,Getafe,1,Local,Cordoba,Empate,Empate,0,5,8,12,1,0,14-15
+61,03/10/14,Cordoba,1,Visitante,Getafe,Empate,Empate,0,3,3,11,2,0,14-15
+62,04/10/14,Almeria,2,Local,Elche,Empate,Empate,1,3,9,13,2,0,14-15
+62,04/10/14,Elche,2,Visitante,Almeria,Empate,Empate,1,3,5,18,4,1,14-15
+63,04/10/14,Eibar,3,Local,Levante,Empate,Derrota,0,6,4,12,3,0,14-15
+63,04/10/14,Levante,3,Visitante,Eibar,Empate,Victoria,2,5,4,16,1,0,14-15
+64,04/10/14,Malaga,2,Local,Granada,Victoria,Derrota,0,3,3,12,1,1,14-15
+64,04/10/14,Granada,1,Visitante,Malaga,Derrota,Victoria,1,5,3,15,4,0,14-15
+65,04/10/14,Valencia,3,Local,Ath Madrid,Victoria,Victoria,3,3,1,23,4,0,14-15
+65,04/10/14,Ath Madrid,1,Visitante,Valencia,Derrota,Derrota,1,5,6,14,0,1,14-15
+66,04/10/14,Vallecano,0,Local,Barcelona,Derrota,Derrota,0,4,6,19,2,2,14-15
+66,04/10/14,Barcelona,2,Visitante,Vallecano,Victoria,Victoria,2,7,7,7,2,0,14-15
+67,05/10/14,Celta,1,Local,Villarreal,Derrota,Derrota,1,6,11,15,3,1,14-15
+67,05/10/14,Villarreal,3,Visitante,Celta,Victoria,Victoria,2,4,4,22,4,0,14-15
+68,05/10/14,Espanol,2,Local,Sociedad,Victoria,Victoria,1,4,4,20,6,0,14-15
+68,05/10/14,Sociedad,0,Visitante,Espanol,Derrota,Derrota,0,4,4,12,2,0,14-15
+69,05/10/14,Real Madrid,5,Local,Ath Bilbao,Victoria,Victoria,2,14,8,9,1,0,14-15
+69,05/10/14,Ath Bilbao,0,Visitante,Real Madrid,Derrota,Derrota,0,5,7,10,2,0,14-15
+70,05/10/14,Sevilla,4,Local,La Coruna,Victoria,Victoria,2,10,9,11,2,0,14-15
+70,05/10/14,La Coruna,1,Visitante,Sevilla,Derrota,Derrota,1,5,2,10,2,0,14-15
+71,17/10/14,Granada,0,Local,Vallecano,Derrota,Empate,0,1,3,17,4,0,14-15
+71,17/10/14,Vallecano,1,Visitante,Granada,Victoria,Empate,0,2,6,13,5,0,14-15
+72,18/10/14,Ath Bilbao,1,Local,Celta,Empate,Victoria,1,4,9,13,3,0,14-15
+72,18/10/14,Celta,1,Visitante,Ath Bilbao,Empate,Derrota,0,1,2,16,3,0,14-15
+73,18/10/14,Barcelona,3,Local,Eibar,Victoria,Empate,0,12,12,9,2,0,14-15
+73,18/10/14,Eibar,0,Visitante,Barcelona,Derrota,Empate,0,2,3,13,2,0,14-15
+74,18/10/14,Cordoba,1,Local,Malaga,Derrota,Derrota,0,2,6,16,2,0,14-15
+74,18/10/14,Malaga,2,Visitante,Cordoba,Victoria,Victoria,2,4,13,21,3,0,14-15
+75,18/10/14,Levante,0,Local,Real Madrid,Derrota,Derrota,0,1,6,13,4,0,14-15
+75,18/10/14,Real Madrid,5,Visitante,Levante,Victoria,Victoria,2,11,3,8,0,0,14-15
+76,19/10/14,Ath Madrid,2,Local,Espanol,Victoria,Victoria,1,9,12,19,0,0,14-15
+76,19/10/14,Espanol,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,1,19,0,0,14-15
+77,19/10/14,Elche,0,Local,Sevilla,Derrota,Empate,0,1,6,18,5,0,14-15
+77,19/10/14,Sevilla,2,Visitante,Elche,Victoria,Empate,0,7,4,23,2,0,14-15
+78,19/10/14,La Coruna,3,Local,Valencia,Victoria,Victoria,2,5,3,19,3,0,14-15
+78,19/10/14,Valencia,0,Visitante,La Coruna,Derrota,Derrota,0,1,5,19,3,0,14-15
+79,19/10/14,Villarreal,2,Local,Almeria,Victoria,Victoria,1,8,6,20,5,0,14-15
+79,19/10/14,Almeria,0,Visitante,Villarreal,Derrota,Derrota,0,3,4,16,2,0,14-15
+80,20/10/14,Sociedad,1,Local,Getafe,Derrota,Empate,0,2,8,10,1,0,14-15
+80,20/10/14,Getafe,2,Visitante,Sociedad,Victoria,Empate,0,7,4,13,3,0,14-15
+81,24/10/14,Celta,3,Local,Levante,Victoria,Victoria,1,4,7,14,0,0,14-15
+81,24/10/14,Levante,0,Visitante,Celta,Derrota,Derrota,0,0,0,16,3,0,14-15
+82,25/10/14,Almeria,0,Local,Ath Bilbao,Derrota,Empate,0,3,4,10,2,0,14-15
+82,25/10/14,Ath Bilbao,1,Visitante,Almeria,Victoria,Empate,0,1,8,14,1,0,14-15
+83,25/10/14,Cordoba,1,Local,Sociedad,Empate,Derrota,0,3,5,13,3,0,14-15
+83,25/10/14,Sociedad,1,Visitante,Cordoba,Empate,Victoria,1,1,4,12,2,0,14-15
+84,25/10/14,Eibar,1,Local,Granada,Empate,Empate,1,3,7,14,3,0,14-15
+84,25/10/14,Granada,1,Visitante,Eibar,Empate,Empate,1,3,8,14,4,0,14-15
+85,25/10/14,Real Madrid,3,Local,Barcelona,Victoria,Empate,1,6,3,11,2,0,14-15
+85,25/10/14,Barcelona,1,Visitante,Real Madrid,Derrota,Empate,1,5,9,10,4,0,14-15
+86,25/10/14,Valencia,3,Local,Elche,Victoria,Victoria,2,4,8,11,0,0,14-15
+86,25/10/14,Elche,1,Visitante,Valencia,Derrota,Derrota,0,3,6,17,2,0,14-15
+87,26/10/14,Espanol,0,Local,La Coruna,Empate,Empate,0,5,11,12,2,0,14-15
+87,26/10/14,La Coruna,0,Visitante,Espanol,Empate,Empate,0,1,0,17,4,0,14-15
+88,26/10/14,Getafe,0,Local,Ath Madrid,Derrota,Derrota,0,4,1,17,3,1,14-15
+88,26/10/14,Ath Madrid,1,Visitante,Getafe,Victoria,Victoria,1,7,8,11,3,0,14-15
+89,26/10/14,Malaga,4,Local,Vallecano,Victoria,Victoria,3,8,7,18,1,0,14-15
+89,26/10/14,Vallecano,0,Visitante,Malaga,Derrota,Derrota,0,4,4,21,4,0,14-15
+90,26/10/14,Sevilla,2,Local,Villarreal,Victoria,Empate,0,4,3,19,3,0,14-15
+90,26/10/14,Villarreal,1,Visitante,Sevilla,Derrota,Empate,0,4,2,15,4,0,14-15
+91,31/10/14,La Coruna,1,Local,Getafe,Derrota,Derrota,0,2,4,7,2,0,14-15
+91,31/10/14,Getafe,2,Visitante,La Coruna,Victoria,Victoria,1,4,6,23,1,0,14-15
+92,01/11/14,Ath Madrid,4,Local,Cordoba,Victoria,Victoria,1,8,4,12,0,0,14-15
+92,01/11/14,Cordoba,2,Visitante,Ath Madrid,Derrota,Derrota,0,4,5,13,2,0,14-15
+93,01/11/14,Barcelona,0,Local,Celta,Derrota,Empate,0,9,9,10,1,0,14-15
+93,01/11/14,Celta,1,Visitante,Barcelona,Victoria,Empate,0,4,5,29,2,0,14-15
+94,01/11/14,Granada,0,Local,Real Madrid,Derrota,Derrota,0,5,3,19,1,0,14-15
+94,01/11/14,Real Madrid,4,Visitante,Granada,Victoria,Victoria,2,8,4,9,2,0,14-15
+95,01/11/14,Sociedad,0,Local,Malaga,Derrota,Empate,0,0,6,18,2,0,14-15
+95,01/11/14,Malaga,1,Visitante,Sociedad,Victoria,Empate,0,2,3,22,5,0,14-15
+96,02/11/14,Ath Bilbao,1,Local,Sevilla,Victoria,Victoria,1,2,4,24,4,0,14-15
+96,02/11/14,Sevilla,0,Visitante,Ath Bilbao,Derrota,Derrota,0,1,8,11,3,0,14-15
+97,02/11/14,Elche,2,Local,Espanol,Victoria,Victoria,1,5,4,19,2,2,14-15
+97,02/11/14,Espanol,1,Visitante,Elche,Derrota,Derrota,0,5,10,10,2,0,14-15
+98,02/11/14,Levante,2,Local,Almeria,Victoria,Victoria,1,5,3,17,3,0,14-15
+98,02/11/14,Almeria,1,Visitante,Levante,Derrota,Derrota,0,5,6,17,2,0,14-15
+99,02/11/14,Villarreal,1,Local,Valencia,Derrota,Derrota,0,4,11,12,2,0,14-15
+99,02/11/14,Valencia,3,Visitante,Villarreal,Victoria,Victoria,1,3,4,15,3,0,14-15
+100,03/11/14,Vallecano,2,Local,Eibar,Derrota,Derrota,0,6,11,10,1,0,14-15
+100,03/11/14,Eibar,3,Visitante,Vallecano,Victoria,Victoria,1,5,2,14,2,0,14-15
+101,07/11/14,Cordoba,0,Local,La Coruna,Empate,Empate,0,6,3,10,4,0,14-15
+101,07/11/14,La Coruna,0,Visitante,Cordoba,Empate,Empate,0,2,2,5,0,1,14-15
+102,08/11/14,Almeria,1,Local,Barcelona,Derrota,Victoria,1,2,4,16,2,0,14-15
+102,08/11/14,Barcelona,2,Visitante,Almeria,Victoria,Derrota,0,6,5,9,0,0,14-15
+103,08/11/14,Celta,0,Local,Granada,Empate,Empate,0,5,6,14,1,0,14-15
+103,08/11/14,Granada,0,Visitante,Celta,Empate,Empate,0,1,2,17,5,0,14-15
+104,08/11/14,Getafe,0,Local,Elche,Empate,Empate,0,3,9,11,1,0,14-15
+104,08/11/14,Elche,0,Visitante,Getafe,Empate,Empate,0,5,2,8,2,0,14-15
+105,08/11/14,Malaga,2,Local,Eibar,Victoria,Derrota,0,8,5,9,3,0,14-15
+105,08/11/14,Eibar,1,Visitante,Malaga,Derrota,Victoria,1,3,3,15,2,1,14-15
+106,08/11/14,Real Madrid,5,Local,Vallecano,Victoria,Victoria,2,11,4,12,0,0,14-15
+106,08/11/14,Vallecano,1,Visitante,Real Madrid,Derrota,Derrota,1,6,6,15,4,0,14-15
+107,09/11/14,Espanol,1,Local,Villarreal,Empate,Derrota,0,4,6,16,3,0,14-15
+107,09/11/14,Villarreal,1,Visitante,Espanol,Empate,Victoria,1,5,7,25,3,0,14-15
+108,09/11/14,Sevilla,1,Local,Levante,Empate,Victoria,1,6,6,13,2,0,14-15
+108,09/11/14,Levante,1,Visitante,Sevilla,Empate,Derrota,0,5,5,10,6,0,14-15
+109,09/11/14,Sociedad,2,Local,Ath Madrid,Victoria,Empate,1,5,2,17,2,0,14-15
+109,09/11/14,Ath Madrid,1,Visitante,Sociedad,Derrota,Empate,1,2,1,17,6,1,14-15
+110,09/11/14,Valencia,0,Local,Ath Bilbao,Empate,Empate,0,1,2,13,0,0,14-15
+110,09/11/14,Ath Bilbao,0,Visitante,Valencia,Empate,Empate,0,1,4,17,2,0,14-15
+111,21/11/14,Ath Bilbao,3,Local,Espanol,Victoria,Victoria,2,5,5,15,0,0,14-15
+111,21/11/14,Espanol,1,Visitante,Ath Bilbao,Derrota,Derrota,0,3,3,18,5,0,14-15
+112,22/11/14,Ath Madrid,3,Local,Malaga,Victoria,Victoria,2,5,4,18,1,1,14-15
+112,22/11/14,Malaga,1,Visitante,Ath Madrid,Derrota,Derrota,0,1,3,14,3,1,14-15
+113,22/11/14,Barcelona,5,Local,Sevilla,Victoria,Victoria,1,10,5,8,1,0,14-15
+113,22/11/14,Sevilla,1,Visitante,Barcelona,Derrota,Derrota,0,0,4,21,2,0,14-15
+114,22/11/14,Eibar,0,Local,Real Madrid,Derrota,Derrota,0,2,4,16,4,0,14-15
+114,22/11/14,Real Madrid,4,Visitante,Eibar,Victoria,Victoria,2,8,2,9,2,0,14-15
+115,22/11/14,La Coruna,0,Local,Sociedad,Empate,Empate,0,4,8,14,3,0,14-15
+115,22/11/14,Sociedad,0,Visitante,La Coruna,Empate,Empate,0,5,6,11,1,0,14-15
+116,23/11/14,Elche,2,Local,Cordoba,Empate,Derrota,0,6,6,16,3,0,14-15
+116,23/11/14,Cordoba,2,Visitante,Elche,Empate,Victoria,1,3,2,14,4,0,14-15
+117,23/11/14,Levante,2,Local,Valencia,Victoria,Empate,0,5,4,20,2,0,14-15
+117,23/11/14,Valencia,1,Visitante,Levante,Derrota,Empate,0,6,5,18,1,0,14-15
+118,23/11/14,Vallecano,1,Local,Celta,Victoria,Victoria,1,3,2,14,6,0,14-15
+118,23/11/14,Celta,0,Visitante,Vallecano,Derrota,Derrota,0,4,9,16,4,0,14-15
+119,23/11/14,Villarreal,2,Local,Getafe,Victoria,Victoria,2,4,7,15,3,0,14-15
+119,23/11/14,Getafe,1,Visitante,Villarreal,Derrota,Derrota,0,5,4,14,2,0,14-15
+120,24/11/14,Granada,0,Local,Almeria,Empate,Empate,0,11,10,10,4,0,14-15
+120,24/11/14,Almeria,0,Visitante,Granada,Empate,Empate,0,1,5,7,0,1,14-15
+121,28/11/14,Sociedad,3,Local,Elche,Victoria,Victoria,2,8,2,15,2,0,14-15
+121,28/11/14,Elche,0,Visitante,Sociedad,Derrota,Derrota,0,5,1,15,4,0,14-15
+122,29/11/14,Celta,0,Local,Eibar,Derrota,Derrota,0,9,15,10,4,0,14-15
+122,29/11/14,Eibar,1,Visitante,Celta,Victoria,Victoria,1,2,1,21,5,0,14-15
+123,29/11/14,Espanol,2,Local,Levante,Victoria,Victoria,2,4,5,21,2,0,14-15
+123,29/11/14,Levante,1,Visitante,Espanol,Derrota,Derrota,1,3,6,10,3,0,14-15
+124,29/11/14,Getafe,1,Local,Ath Bilbao,Derrota,Derrota,0,7,2,12,7,0,14-15
+124,29/11/14,Ath Bilbao,2,Visitante,Getafe,Victoria,Victoria,1,3,4,15,5,0,14-15
+125,29/11/14,Malaga,1,Local,Real Madrid,Derrota,Derrota,0,7,5,17,2,0,14-15
+125,29/11/14,Real Madrid,2,Visitante,Malaga,Victoria,Victoria,1,9,6,11,2,1,14-15
+126,30/11/14,Ath Madrid,2,Local,La Coruna,Victoria,Victoria,1,4,5,16,2,0,14-15
+126,30/11/14,La Coruna,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,3,18,2,0,14-15
+127,30/11/14,Cordoba,0,Local,Villarreal,Derrota,Derrota,0,2,9,7,2,0,14-15
+127,30/11/14,Villarreal,2,Visitante,Cordoba,Victoria,Victoria,1,7,8,13,2,0,14-15
+128,30/11/14,Sevilla,5,Local,Granada,Victoria,Empate,1,8,7,18,1,0,14-15
+128,30/11/14,Granada,1,Visitante,Sevilla,Derrota,Empate,1,4,4,20,2,0,14-15
+129,30/11/14,Valencia,0,Local,Barcelona,Derrota,Empate,0,4,5,9,3,0,14-15
+129,30/11/14,Barcelona,1,Visitante,Valencia,Victoria,Empate,0,1,5,7,3,0,14-15
+130,01/12/14,Almeria,0,Local,Vallecano,Derrota,Empate,0,1,5,14,4,0,14-15
+130,01/12/14,Vallecano,1,Visitante,Almeria,Victoria,Empate,0,4,6,12,4,0,14-15
+131,06/12/14,Ath Bilbao,0,Local,Cordoba,Derrota,Derrota,0,3,15,13,4,0,14-15
+131,06/12/14,Cordoba,1,Visitante,Ath Bilbao,Victoria,Victoria,1,3,4,14,6,0,14-15
+132,06/12/14,Elche,0,Local,Ath Madrid,Derrota,Derrota,0,1,6,18,2,0,14-15
+132,06/12/14,Ath Madrid,2,Visitante,Elche,Victoria,Victoria,1,3,1,15,0,0,14-15
+133,06/12/14,La Coruna,0,Local,Malaga,Derrota,Derrota,0,6,5,14,4,0,14-15
+133,06/12/14,Malaga,1,Visitante,La Coruna,Victoria,Victoria,1,3,5,15,3,0,14-15
+134,06/12/14,Real Madrid,3,Local,Celta,Victoria,Victoria,1,11,8,15,4,0,14-15
+134,06/12/14,Celta,0,Visitante,Real Madrid,Derrota,Derrota,0,0,7,21,4,0,14-15
+135,07/12/14,Barcelona,5,Local,Espanol,Victoria,Empate,1,7,5,6,0,0,14-15
+135,07/12/14,Espanol,1,Visitante,Barcelona,Derrota,Empate,1,2,2,11,4,0,14-15
+136,07/12/14,Granada,1,Local,Valencia,Empate,Empate,0,2,4,20,4,0,14-15
+136,07/12/14,Valencia,1,Visitante,Granada,Empate,Empate,0,1,4,9,4,1,14-15
+137,07/12/14,Vallecano,0,Local,Sevilla,Derrota,Derrota,0,3,6,14,4,0,14-15
+137,07/12/14,Sevilla,1,Visitante,Vallecano,Victoria,Victoria,1,6,2,19,6,1,14-15
+138,07/12/14,Villarreal,4,Local,Sociedad,Victoria,Empate,0,9,8,14,2,0,14-15
+138,07/12/14,Sociedad,0,Visitante,Villarreal,Derrota,Empate,0,2,2,8,2,0,14-15
+139,08/12/14,Eibar,5,Local,Almeria,Victoria,Victoria,3,8,7,18,4,0,14-15
+139,08/12/14,Almeria,2,Visitante,Eibar,Derrota,Derrota,1,3,3,12,3,0,14-15
+140,08/12/14,Levante,1,Local,Getafe,Empate,Empate,0,3,4,14,3,0,14-15
+140,08/12/14,Getafe,1,Visitante,Levante,Empate,Empate,0,1,0,17,4,0,14-15
+141,12/12/14,Almeria,1,Local,Real Madrid,Derrota,Derrota,1,3,2,14,4,0,14-15
+141,12/12/14,Real Madrid,4,Visitante,Almeria,Victoria,Victoria,2,8,8,8,4,0,14-15
+142,13/12/14,Cordoba,0,Local,Levante,Empate,Empate,0,4,7,6,0,0,14-15
+142,13/12/14,Levante,0,Visitante,Cordoba,Empate,Empate,0,3,6,19,3,0,14-15
+143,13/12/14,Getafe,0,Local,Barcelona,Empate,Empate,0,2,4,24,2,0,14-15
+143,13/12/14,Barcelona,0,Visitante,Getafe,Empate,Empate,0,2,5,8,0,0,14-15
+144,13/12/14,Malaga,1,Local,Celta,Victoria,Victoria,1,4,1,15,5,0,14-15
+144,13/12/14,Celta,0,Visitante,Malaga,Derrota,Derrota,0,8,9,13,4,0,14-15
+145,13/12/14,Valencia,3,Local,Vallecano,Victoria,Victoria,3,6,6,16,3,1,14-15
+145,13/12/14,Vallecano,0,Visitante,Valencia,Derrota,Derrota,0,4,2,14,3,0,14-15
+146,14/12/14,Ath Madrid,0,Local,Villarreal,Derrota,Empate,0,2,7,15,4,0,14-15
+146,14/12/14,Villarreal,1,Visitante,Ath Madrid,Victoria,Empate,0,4,2,16,3,0,14-15
+147,14/12/14,Espanol,2,Local,Granada,Victoria,Victoria,1,4,2,13,2,0,14-15
+147,14/12/14,Granada,1,Visitante,Espanol,Derrota,Derrota,0,6,3,19,4,1,14-15
+148,14/12/14,Sevilla,0,Local,Eibar,Empate,Empate,0,2,11,11,3,0,14-15
+148,14/12/14,Eibar,0,Visitante,Sevilla,Empate,Empate,0,2,2,17,6,0,14-15
+149,14/12/14,Sociedad,1,Local,Ath Bilbao,Empate,Victoria,1,4,3,12,0,0,14-15
+149,14/12/14,Ath Bilbao,1,Visitante,Sociedad,Empate,Derrota,0,5,6,21,3,1,14-15
+150,15/12/14,La Coruna,1,Local,Elche,Victoria,Victoria,1,3,7,19,5,0,14-15
+150,15/12/14,Elche,0,Visitante,La Coruna,Derrota,Derrota,0,4,5,19,2,0,14-15
+151,19/12/14,Celta,0,Local,Almeria,Derrota,Derrota,0,4,17,10,6,0,14-15
+151,19/12/14,Almeria,1,Visitante,Celta,Victoria,Victoria,1,2,2,19,4,0,14-15
+152,20/12/14,Barcelona,5,Local,Cordoba,Victoria,Victoria,1,9,8,14,1,0,14-15
+152,20/12/14,Cordoba,0,Visitante,Barcelona,Derrota,Derrota,0,2,0,5,0,0,14-15
+153,20/12/14,Eibar,0,Local,Valencia,Derrota,Derrota,0,2,2,16,7,0,14-15
+153,20/12/14,Valencia,1,Visitante,Eibar,Victoria,Victoria,1,3,5,8,3,0,14-15
+154,20/12/14,Levante,1,Local,Sociedad,Empate,Empate,0,2,3,16,3,0,14-15
+154,20/12/14,Sociedad,1,Visitante,Levante,Empate,Empate,0,2,4,20,5,0,14-15
+155,20/12/14,Vallecano,1,Local,Espanol,Derrota,Empate,1,5,4,11,3,0,14-15
+155,20/12/14,Espanol,3,Visitante,Vallecano,Victoria,Empate,1,4,5,20,4,1,14-15
+156,21/12/14,Ath Bilbao,1,Local,Ath Madrid,Derrota,Victoria,1,2,3,12,3,0,14-15
+156,21/12/14,Ath Madrid,4,Visitante,Ath Bilbao,Victoria,Derrota,0,4,1,14,4,0,14-15
+157,21/12/14,Elche,1,Local,Malaga,Derrota,Victoria,1,3,5,21,2,0,14-15
+157,21/12/14,Malaga,2,Visitante,Elche,Victoria,Derrota,0,10,4,13,1,0,14-15
+158,21/12/14,Granada,1,Local,Getafe,Empate,Victoria,1,3,3,19,4,0,14-15
+158,21/12/14,Getafe,1,Visitante,Granada,Empate,Derrota,0,4,5,8,2,0,14-15
+159,21/12/14,Villarreal,3,Local,La Coruna,Victoria,Victoria,1,9,5,16,1,1,14-15
+159,21/12/14,La Coruna,0,Visitante,Villarreal,Derrota,Derrota,0,2,2,15,3,0,14-15
+160,03/01/15,Ath Madrid,3,Local,Levante,Victoria,Victoria,1,5,7,6,2,0,14-15
+160,03/01/15,Levante,1,Visitante,Ath Madrid,Derrota,Derrota,0,4,6,10,3,0,14-15
+161,03/01/15,Elche,2,Local,Villarreal,Empate,Empate,2,8,6,15,4,0,14-15
+161,03/01/15,Villarreal,2,Visitante,Elche,Empate,Empate,2,5,9,13,2,0,14-15
+162,03/01/15,La Coruna,1,Local,Ath Bilbao,Victoria,Victoria,1,4,5,20,1,0,14-15
+162,03/01/15,Ath Bilbao,0,Visitante,La Coruna,Derrota,Derrota,0,4,2,16,1,0,14-15
+163,03/01/15,Malaga,1,Local,Almeria,Derrota,Derrota,0,6,7,19,5,0,14-15
+163,03/01/15,Almeria,2,Visitante,Malaga,Victoria,Victoria,1,4,1,17,4,1,14-15
+164,03/01/15,Sevilla,1,Local,Celta,Victoria,Victoria,1,4,1,28,4,0,14-15
+164,03/01/15,Celta,0,Visitante,Sevilla,Derrota,Derrota,0,2,8,17,5,1,14-15
+165,04/01/15,Espanol,1,Local,Eibar,Derrota,Derrota,0,6,6,9,1,0,14-15
+165,04/01/15,Eibar,2,Visitante,Espanol,Victoria,Victoria,2,6,3,15,1,0,14-15
+166,04/01/15,Getafe,1,Local,Vallecano,Derrota,Empate,1,4,6,23,3,0,14-15
+166,04/01/15,Vallecano,2,Visitante,Getafe,Victoria,Empate,1,7,4,12,2,0,14-15
+167,04/01/15,Sociedad,1,Local,Barcelona,Victoria,Victoria,1,1,6,21,5,0,14-15
+167,04/01/15,Barcelona,0,Visitante,Sociedad,Derrota,Derrota,0,4,8,14,4,0,14-15
+168,04/01/15,Valencia,2,Local,Real Madrid,Victoria,Derrota,0,3,3,24,6,0,14-15
+168,04/01/15,Real Madrid,1,Visitante,Valencia,Derrota,Victoria,1,8,11,17,3,0,14-15
+169,05/01/15,Cordoba,2,Local,Granada,Victoria,Victoria,2,3,0,22,2,0,14-15
+169,05/01/15,Granada,0,Visitante,Cordoba,Derrota,Derrota,0,1,4,17,0,0,14-15
+170,09/01/15,Levante,0,Local,La Coruna,Empate,Empate,0,0,4,22,4,0,14-15
+170,09/01/15,La Coruna,0,Visitante,Levante,Empate,Empate,0,6,3,17,3,0,14-15
+171,10/01/15,Celta,1,Local,Valencia,Empate,Derrota,0,4,11,20,3,0,14-15
+171,10/01/15,Valencia,1,Visitante,Celta,Empate,Victoria,1,2,2,19,3,0,14-15
+172,10/01/15,Eibar,2,Local,Getafe,Victoria,Victoria,1,5,2,19,2,0,14-15
+172,10/01/15,Getafe,1,Visitante,Eibar,Derrota,Derrota,0,3,3,12,1,0,14-15
+173,10/01/15,Malaga,1,Local,Villarreal,Empate,Derrota,0,6,5,6,4,0,14-15
+173,10/01/15,Villarreal,1,Visitante,Malaga,Empate,Victoria,1,4,3,15,4,0,14-15
+174,10/01/15,Real Madrid,3,Local,Espanol,Victoria,Victoria,2,5,7,11,1,1,14-15
+174,10/01/15,Espanol,0,Visitante,Real Madrid,Derrota,Derrota,0,4,2,14,4,0,14-15
+175,11/01/15,Almeria,0,Local,Sevilla,Derrota,Empate,0,6,5,16,1,0,14-15
+175,11/01/15,Sevilla,2,Visitante,Almeria,Victoria,Empate,0,6,5,12,2,0,14-15
+176,11/01/15,Ath Bilbao,1,Local,Elche,Derrota,Derrota,0,3,10,7,2,0,14-15
+176,11/01/15,Elche,2,Visitante,Ath Bilbao,Victoria,Victoria,1,5,2,15,6,0,14-15
+177,11/01/15,Barcelona,3,Local,Ath Madrid,Victoria,Victoria,2,7,1,16,3,0,14-15
+177,11/01/15,Ath Madrid,1,Visitante,Barcelona,Derrota,Derrota,0,3,3,18,6,0,14-15
+178,11/01/15,Granada,1,Local,Sociedad,Empate,Derrota,0,3,11,9,2,0,14-15
+178,11/01/15,Sociedad,1,Visitante,Granada,Empate,Victoria,1,5,4,15,2,0,14-15
+179,12/01/15,Vallecano,0,Local,Cordoba,Derrota,Derrota,0,4,6,10,3,0,14-15
+179,12/01/15,Cordoba,1,Visitante,Vallecano,Victoria,Victoria,1,3,2,9,2,0,14-15
+180,16/01/15,Cordoba,1,Local,Eibar,Empate,Victoria,1,5,2,18,4,1,14-15
+180,16/01/15,Eibar,1,Visitante,Cordoba,Empate,Derrota,0,1,3,12,3,1,14-15
+181,17/01/15,Espanol,1,Local,Celta,Victoria,Empate,0,3,9,9,3,0,14-15
+181,17/01/15,Celta,0,Visitante,Espanol,Derrota,Empate,0,2,1,23,3,0,14-15
+182,17/01/15,Sociedad,0,Local,Vallecano,Derrota,Empate,0,2,8,12,0,0,14-15
+182,17/01/15,Vallecano,1,Visitante,Sociedad,Victoria,Empate,0,4,4,20,4,0,14-15
+183,17/01/15,Valencia,3,Local,Almeria,Victoria,Empate,2,8,8,14,2,0,14-15
+183,17/01/15,Almeria,2,Visitante,Valencia,Derrota,Empate,2,2,4,18,2,0,14-15
+184,17/01/15,Villarreal,2,Local,Ath Bilbao,Victoria,Victoria,1,6,9,15,2,0,14-15
+184,17/01/15,Ath Bilbao,0,Visitante,Villarreal,Derrota,Derrota,0,5,6,10,2,0,14-15
+185,18/01/15,Ath Madrid,2,Local,Granada,Victoria,Victoria,1,3,3,17,3,0,14-15
+185,18/01/15,Granada,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,6,16,3,0,14-15
+186,18/01/15,Elche,1,Local,Levante,Victoria,Victoria,1,6,3,18,3,0,14-15
+186,18/01/15,Levante,0,Visitante,Elche,Derrota,Derrota,0,2,5,11,3,1,14-15
+187,18/01/15,Getafe,0,Local,Real Madrid,Derrota,Empate,0,0,7,19,2,0,14-15
+187,18/01/15,Real Madrid,3,Visitante,Getafe,Victoria,Empate,0,9,8,10,2,0,14-15
+188,18/01/15,La Coruna,0,Local,Barcelona,Derrota,Derrota,0,2,2,14,2,0,14-15
+188,18/01/15,Barcelona,4,Visitante,La Coruna,Victoria,Victoria,2,6,4,7,2,0,14-15
+189,18/01/15,Sevilla,2,Local,Malaga,Victoria,Victoria,1,3,2,9,3,0,14-15
+189,18/01/15,Malaga,0,Visitante,Sevilla,Derrota,Derrota,0,1,0,6,1,0,14-15
+190,24/01/15,Ath Madrid,3,Local,Vallecano,Victoria,Victoria,2,5,8,15,1,0,14-15
+190,24/01/15,Vallecano,1,Visitante,Ath Madrid,Derrota,Derrota,1,3,5,12,1,0,14-15
+191,24/01/15,Cordoba,1,Local,Real Madrid,Derrota,Empate,1,4,3,15,1,1,14-15
+191,24/01/15,Real Madrid,2,Visitante,Cordoba,Victoria,Empate,1,4,9,13,3,1,14-15
+192,24/01/15,Elche,0,Local,Barcelona,Derrota,Derrota,0,3,2,18,5,1,14-15
+192,24/01/15,Barcelona,6,Visitante,Elche,Victoria,Victoria,1,8,3,12,2,0,14-15
+193,24/01/15,Sociedad,1,Local,Eibar,Victoria,Empate,0,4,9,6,2,0,14-15
+193,24/01/15,Eibar,0,Visitante,Sociedad,Derrota,Empate,0,4,5,17,2,0,14-15
+194,24/01/15,Villarreal,1,Local,Levante,Victoria,Empate,0,4,6,12,0,0,14-15
+194,24/01/15,Levante,0,Visitante,Villarreal,Derrota,Empate,0,1,3,8,3,0,14-15
+195,25/01/15,Ath Bilbao,1,Local,Malaga,Empate,Empate,0,5,8,16,0,0,14-15
+195,25/01/15,Malaga,1,Visitante,Ath Bilbao,Empate,Empate,0,3,2,17,1,0,14-15
+196,25/01/15,Espanol,3,Local,Almeria,Victoria,Victoria,2,9,9,16,2,0,14-15
+196,25/01/15,Almeria,0,Visitante,Espanol,Derrota,Derrota,0,1,7,12,1,0,14-15
+197,25/01/15,La Coruna,2,Local,Granada,Empate,Victoria,2,7,7,18,3,1,14-15
+197,25/01/15,Granada,2,Visitante,La Coruna,Empate,Derrota,1,2,2,15,3,0,14-15
+198,25/01/15,Valencia,3,Local,Sevilla,Victoria,Victoria,2,8,3,23,6,0,14-15
+198,25/01/15,Sevilla,1,Visitante,Valencia,Derrota,Derrota,1,6,7,15,5,0,14-15
+199,26/01/15,Getafe,2,Local,Celta,Victoria,Empate,1,6,6,9,2,0,14-15
+199,26/01/15,Celta,1,Visitante,Getafe,Derrota,Empate,1,2,2,17,5,0,14-15
+200,30/01/15,Vallecano,1,Local,La Coruna,Derrota,Empate,1,4,10,14,4,0,14-15
+200,30/01/15,La Coruna,2,Visitante,Vallecano,Victoria,Empate,1,6,7,18,5,0,14-15
+201,31/01/15,Celta,1,Local,Cordoba,Victoria,Empate,0,9,8,10,2,0,14-15
+201,31/01/15,Cordoba,0,Visitante,Celta,Derrota,Empate,0,3,2,10,6,0,14-15
+202,31/01/15,Eibar,1,Local,Ath Madrid,Derrota,Derrota,0,3,6,14,3,0,14-15
+202,31/01/15,Ath Madrid,3,Visitante,Eibar,Victoria,Victoria,3,5,8,16,3,0,14-15
+203,31/01/15,Granada,1,Local,Elche,Victoria,Empate,0,2,12,14,4,0,14-15
+203,31/01/15,Elche,0,Visitante,Granada,Derrota,Empate,0,1,4,13,4,1,14-15
+204,31/01/15,Real Madrid,4,Local,Sociedad,Victoria,Victoria,2,11,10,8,3,0,14-15
+204,31/01/15,Sociedad,1,Visitante,Real Madrid,Derrota,Derrota,1,2,3,11,1,0,14-15
+205,01/02/15,Almeria,1,Local,Getafe,Victoria,Victoria,1,7,6,18,3,1,14-15
+205,01/02/15,Getafe,0,Visitante,Almeria,Derrota,Derrota,0,7,3,10,3,1,14-15
+206,01/02/15,Barcelona,3,Local,Villarreal,Victoria,Empate,1,7,8,10,1,0,14-15
+206,01/02/15,Villarreal,2,Visitante,Barcelona,Derrota,Empate,1,3,2,20,2,0,14-15
+207,01/02/15,Levante,0,Local,Ath Bilbao,Derrota,Empate,0,4,5,17,2,0,14-15
+207,01/02/15,Ath Bilbao,2,Visitante,Levante,Victoria,Empate,0,5,4,12,5,0,14-15
+208,01/02/15,Sevilla,3,Local,Espanol,Victoria,Victoria,2,7,7,20,8,0,14-15
+208,01/02/15,Espanol,2,Visitante,Sevilla,Derrota,Derrota,1,2,2,11,3,1,14-15
+209,02/02/15,Malaga,1,Local,Valencia,Victoria,Victoria,1,6,5,19,5,0,14-15
+209,02/02/15,Valencia,0,Visitante,Malaga,Derrota,Derrota,0,3,3,18,3,1,14-15
+210,04/02/15,Real Madrid,2,Local,Sevilla,Victoria,Victoria,2,4,4,9,3,0,14-15
+210,04/02/15,Sevilla,1,Visitante,Real Madrid,Derrota,Derrota,0,3,6,21,6,0,14-15
+211,06/02/15,La Coruna,2,Local,Eibar,Victoria,Empate,0,5,5,12,2,0,14-15
+211,06/02/15,Eibar,0,Visitante,La Coruna,Derrota,Empate,0,2,3,21,3,0,14-15
+212,07/02/15,Ath Madrid,4,Local,Real Madrid,Victoria,Victoria,2,8,2,17,5,0,14-15
+212,07/02/15,Real Madrid,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,3,18,2,0,14-15
+213,07/02/15,Levante,4,Local,Malaga,Victoria,Victoria,2,6,2,20,2,0,14-15
+213,07/02/15,Malaga,1,Visitante,Levante,Derrota,Derrota,1,3,5,13,1,0,14-15
+214,07/02/15,Sociedad,1,Local,Celta,Empate,Victoria,1,3,2,17,5,0,14-15
+214,07/02/15,Celta,1,Visitante,Sociedad,Empate,Derrota,0,3,6,22,4,0,14-15
+215,07/02/15,Villarreal,2,Local,Granada,Victoria,Victoria,1,6,5,12,2,0,14-15
+215,07/02/15,Granada,0,Visitante,Villarreal,Derrota,Derrota,0,3,8,18,1,0,14-15
+216,08/02/15,Ath Bilbao,2,Local,Barcelona,Derrota,Derrota,0,6,4,15,3,1,14-15
+216,08/02/15,Barcelona,5,Visitante,Ath Bilbao,Victoria,Victoria,2,11,4,10,1,0,14-15
+217,08/02/15,Cordoba,1,Local,Almeria,Derrota,Victoria,1,7,6,15,2,0,14-15
+217,08/02/15,Almeria,2,Visitante,Cordoba,Victoria,Derrota,0,2,6,17,5,0,14-15
+218,08/02/15,Espanol,1,Local,Valencia,Derrota,Empate,0,3,7,22,5,0,14-15
+218,08/02/15,Valencia,2,Visitante,Espanol,Victoria,Empate,0,5,2,16,4,0,14-15
+219,08/02/15,Getafe,2,Local,Sevilla,Victoria,Victoria,1,8,9,6,1,0,14-15
+219,08/02/15,Sevilla,1,Visitante,Getafe,Derrota,Derrota,0,2,5,13,2,0,14-15
+220,09/02/15,Elche,2,Local,Vallecano,Victoria,Victoria,1,5,5,21,2,0,14-15
+220,09/02/15,Vallecano,0,Visitante,Elche,Derrota,Derrota,0,3,4,21,3,1,14-15
+221,13/02/15,Almeria,2,Local,Sociedad,Empate,Victoria,2,4,6,21,5,0,14-15
+221,13/02/15,Sociedad,2,Visitante,Almeria,Empate,Derrota,1,3,6,15,4,0,14-15
+222,14/02/15,Granada,0,Local,Ath Bilbao,Empate,Empate,0,4,4,16,4,1,14-15
+222,14/02/15,Ath Bilbao,0,Visitante,Granada,Empate,Empate,0,0,4,9,4,0,14-15
+223,14/02/15,Malaga,0,Local,Espanol,Derrota,Derrota,0,5,10,12,3,0,14-15
+223,14/02/15,Espanol,2,Visitante,Malaga,Victoria,Victoria,1,2,3,18,7,1,14-15
+224,14/02/15,Real Madrid,2,Local,La Coruna,Victoria,Victoria,1,6,6,12,2,0,14-15
+224,14/02/15,La Coruna,0,Visitante,Real Madrid,Derrota,Derrota,0,4,6,17,4,0,14-15
+225,14/02/15,Sevilla,3,Local,Cordoba,Victoria,Victoria,2,6,8,15,0,1,14-15
+225,14/02/15,Cordoba,0,Visitante,Sevilla,Derrota,Derrota,0,3,1,16,1,1,14-15
+226,15/02/15,Barcelona,5,Local,Levante,Victoria,Victoria,2,10,3,6,1,0,14-15
+226,15/02/15,Levante,0,Visitante,Barcelona,Derrota,Derrota,0,1,4,13,2,0,14-15
+227,15/02/15,Celta,2,Local,Ath Madrid,Victoria,Empate,0,3,9,4,0,0,14-15
+227,15/02/15,Ath Madrid,0,Visitante,Celta,Derrota,Empate,0,5,2,12,3,0,14-15
+228,15/02/15,Valencia,1,Local,Getafe,Victoria,Empate,0,3,7,16,3,0,14-15
+228,15/02/15,Getafe,0,Visitante,Valencia,Derrota,Empate,0,1,2,10,4,0,14-15
+229,15/02/15,Vallecano,2,Local,Villarreal,Victoria,Empate,0,7,5,12,2,0,14-15
+229,15/02/15,Villarreal,0,Visitante,Vallecano,Derrota,Empate,0,2,5,14,2,0,14-15
+230,16/02/15,Eibar,0,Local,Elche,Derrota,Empate,0,7,5,13,3,1,14-15
+230,16/02/15,Elche,1,Visitante,Eibar,Victoria,Empate,0,2,3,12,1,0,14-15
+231,20/02/15,Getafe,2,Local,Espanol,Victoria,Victoria,1,4,2,15,3,0,14-15
+231,20/02/15,Espanol,1,Visitante,Getafe,Derrota,Derrota,0,7,5,14,3,0,14-15
+232,21/02/15,Ath Madrid,3,Local,Almeria,Victoria,Victoria,3,6,8,13,1,1,14-15
+232,21/02/15,Almeria,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,4,13,1,0,14-15
+233,21/02/15,Barcelona,0,Local,Malaga,Derrota,Derrota,0,5,11,9,4,0,14-15
+233,21/02/15,Malaga,1,Visitante,Barcelona,Victoria,Victoria,1,3,3,11,3,0,14-15
+234,21/02/15,Cordoba,1,Local,Valencia,Derrota,Derrota,0,4,6,17,1,0,14-15
+234,21/02/15,Valencia,2,Visitante,Cordoba,Victoria,Victoria,1,7,2,15,2,0,14-15
+235,21/02/15,La Coruna,0,Local,Celta,Derrota,Empate,0,4,4,17,2,1,14-15
+235,21/02/15,Celta,2,Visitante,La Coruna,Victoria,Empate,0,5,3,13,4,0,14-15
+236,22/02/15,Ath Bilbao,1,Local,Vallecano,Victoria,Empate,0,6,11,17,3,0,14-15
+236,22/02/15,Vallecano,0,Visitante,Ath Bilbao,Derrota,Empate,0,1,4,13,2,0,14-15
+237,22/02/15,Elche,0,Local,Real Madrid,Derrota,Empate,0,1,1,17,4,0,14-15
+237,22/02/15,Real Madrid,2,Visitante,Elche,Victoria,Empate,0,5,6,6,1,0,14-15
+238,22/02/15,Sociedad,4,Local,Sevilla,Victoria,Empate,1,8,5,16,5,0,14-15
+238,22/02/15,Sevilla,3,Visitante,Sociedad,Derrota,Empate,1,5,10,12,3,0,14-15
+239,22/02/15,Villarreal,1,Local,Eibar,Victoria,Empate,0,6,8,5,2,0,14-15
+239,22/02/15,Eibar,0,Visitante,Villarreal,Derrota,Empate,0,1,3,3,0,0,14-15
+240,23/02/15,Levante,2,Local,Granada,Victoria,Derrota,0,4,7,18,3,1,14-15
+240,23/02/15,Granada,1,Visitante,Levante,Derrota,Victoria,1,4,4,14,5,2,14-15
+241,27/02/15,Espanol,1,Local,Cordoba,Victoria,Victoria,1,4,2,22,5,0,14-15
+241,27/02/15,Cordoba,0,Visitante,Espanol,Derrota,Derrota,0,4,6,14,4,0,14-15
+242,28/02/15,Almeria,0,Local,La Coruna,Empate,Empate,0,3,7,13,2,2,14-15
+242,28/02/15,La Coruna,0,Visitante,Almeria,Empate,Empate,0,9,11,19,3,0,14-15
+243,28/02/15,Granada,1,Local,Barcelona,Derrota,Derrota,0,4,4,18,2,0,14-15
+243,28/02/15,Barcelona,3,Visitante,Granada,Victoria,Victoria,1,9,5,9,3,0,14-15
+244,28/02/15,Malaga,3,Local,Getafe,Victoria,Victoria,1,6,6,11,3,0,14-15
+244,28/02/15,Getafe,2,Visitante,Malaga,Derrota,Derrota,0,6,5,16,1,0,14-15
+245,28/02/15,Vallecano,4,Local,Levante,Victoria,Victoria,4,7,5,15,2,0,14-15
+245,28/02/15,Levante,2,Visitante,Vallecano,Derrota,Derrota,1,3,2,18,2,0,14-15
+246,01/03/15,Eibar,0,Local,Ath Bilbao,Derrota,Derrota,0,2,5,16,3,0,14-15
+246,01/03/15,Ath Bilbao,1,Visitante,Eibar,Victoria,Victoria,1,8,6,14,2,0,14-15
+247,01/03/15,Real Madrid,1,Local,Villarreal,Empate,Empate,0,7,10,7,2,0,14-15
+247,01/03/15,Villarreal,1,Visitante,Real Madrid,Empate,Empate,0,4,4,20,5,0,14-15
+248,01/03/15,Sevilla,0,Local,Ath Madrid,Empate,Empate,0,4,7,13,4,0,14-15
+248,01/03/15,Ath Madrid,0,Visitante,Sevilla,Empate,Empate,0,2,1,14,7,0,14-15
+249,01/03/15,Valencia,2,Local,Sociedad,Victoria,Empate,0,3,9,14,3,0,14-15
+249,01/03/15,Sociedad,0,Visitante,Valencia,Derrota,Empate,0,0,5,14,3,0,14-15
+250,02/03/15,Celta,1,Local,Elche,Empate,Empate,0,5,6,16,5,0,14-15
+250,02/03/15,Elche,1,Visitante,Celta,Empate,Empate,0,1,3,12,3,0,14-15
+251,06/03/15,Levante,2,Local,Eibar,Victoria,Empate,0,4,6,11,4,0,14-15
+251,06/03/15,Eibar,1,Visitante,Levante,Derrota,Empate,0,3,7,17,5,1,14-15
+252,07/03/15,Ath Bilbao,1,Local,Real Madrid,Victoria,Victoria,1,2,1,17,3,0,14-15
+252,07/03/15,Real Madrid,0,Visitante,Ath Bilbao,Derrota,Derrota,0,2,9,11,4,0,14-15
+253,07/03/15,Elche,1,Local,Almeria,Victoria,Victoria,1,4,6,13,3,0,14-15
+253,07/03/15,Almeria,0,Visitante,Elche,Derrota,Derrota,0,2,5,15,0,0,14-15
+254,07/03/15,Granada,1,Local,Malaga,Victoria,Empate,0,4,8,11,4,0,14-15
+254,07/03/15,Malaga,0,Visitante,Granada,Derrota,Empate,0,1,1,20,5,0,14-15
+255,07/03/15,La Coruna,3,Local,Sevilla,Derrota,Empate,1,5,5,12,1,0,14-15
+255,07/03/15,Sevilla,4,Visitante,La Coruna,Victoria,Empate,1,6,1,14,4,0,14-15
+256,08/03/15,Ath Madrid,1,Local,Valencia,Empate,Victoria,1,3,6,22,5,0,14-15
+256,08/03/15,Valencia,1,Visitante,Ath Madrid,Empate,Derrota,0,1,1,19,6,1,14-15
+257,08/03/15,Barcelona,6,Local,Vallecano,Victoria,Victoria,1,12,4,13,3,1,14-15
+257,08/03/15,Vallecano,1,Visitante,Barcelona,Derrota,Derrota,0,3,1,11,2,1,14-15
+258,08/03/15,Sociedad,1,Local,Espanol,Victoria,Victoria,1,4,6,13,2,0,14-15
+258,08/03/15,Espanol,0,Visitante,Sociedad,Derrota,Derrota,0,4,5,14,3,0,14-15
+259,08/03/15,Villarreal,4,Local,Celta,Victoria,Victoria,2,8,3,9,0,0,14-15
+259,08/03/15,Celta,1,Visitante,Villarreal,Derrota,Derrota,0,4,2,14,2,0,14-15
+260,09/03/15,Cordoba,1,Local,Getafe,Derrota,Empate,0,4,5,11,3,0,14-15
+260,09/03/15,Getafe,2,Visitante,Cordoba,Victoria,Empate,0,7,6,10,2,0,14-15
+261,13/03/15,Valencia,2,Local,La Coruna,Victoria,Empate,0,8,5,12,1,0,14-15
+261,13/03/15,La Coruna,0,Visitante,Valencia,Derrota,Empate,0,2,5,17,2,0,14-15
+262,14/03/15,Celta,1,Local,Ath Bilbao,Derrota,Derrota,0,5,8,14,3,0,14-15
+262,14/03/15,Ath Bilbao,2,Visitante,Celta,Victoria,Victoria,2,4,5,12,3,1,14-15
+263,14/03/15,Eibar,0,Local,Barcelona,Derrota,Derrota,0,2,6,14,1,0,14-15
+263,14/03/15,Barcelona,2,Visitante,Eibar,Victoria,Victoria,1,4,3,3,0,0,14-15
+264,14/03/15,Espanol,0,Local,Ath Madrid,Empate,Empate,0,1,6,33,3,0,14-15
+264,14/03/15,Ath Madrid,0,Visitante,Espanol,Empate,Empate,0,6,7,18,3,1,14-15
+265,14/03/15,Vallecano,3,Local,Granada,Victoria,Derrota,0,8,6,15,3,0,14-15
+265,14/03/15,Granada,1,Visitante,Vallecano,Derrota,Victoria,1,3,6,8,2,0,14-15
+266,15/03/15,Almeria,0,Local,Villarreal,Empate,Empate,0,2,4,16,4,1,14-15
+266,15/03/15,Villarreal,0,Visitante,Almeria,Empate,Empate,0,7,3,15,4,1,14-15
+267,15/03/15,Malaga,2,Local,Cordoba,Victoria,Empate,0,6,2,11,0,0,14-15
+267,15/03/15,Cordoba,0,Visitante,Malaga,Derrota,Empate,0,2,3,15,2,0,14-15
+268,15/03/15,Real Madrid,2,Local,Levante,Victoria,Victoria,2,6,10,9,2,0,14-15
+268,15/03/15,Levante,0,Visitante,Real Madrid,Derrota,Derrota,0,0,4,14,0,0,14-15
+269,15/03/15,Sevilla,3,Local,Elche,Victoria,Victoria,2,4,5,13,2,0,14-15
+269,15/03/15,Elche,0,Visitante,Sevilla,Derrota,Derrota,0,3,9,11,3,0,14-15
+270,16/03/15,Getafe,0,Local,Sociedad,Derrota,Empate,0,5,6,14,4,0,14-15
+270,16/03/15,Sociedad,1,Visitante,Getafe,Victoria,Empate,0,4,5,12,1,0,14-15
+271,20/03/15,Elche,0,Local,Valencia,Derrota,Derrota,0,1,4,12,1,0,14-15
+271,20/03/15,Valencia,4,Visitante,Elche,Victoria,Victoria,1,5,4,10,0,0,14-15
+272,21/03/15,Ath Bilbao,2,Local,Almeria,Victoria,Victoria,2,6,9,8,2,0,14-15
+272,21/03/15,Almeria,1,Visitante,Ath Bilbao,Derrota,Derrota,0,1,6,20,4,1,14-15
+273,21/03/15,Ath Madrid,2,Local,Getafe,Victoria,Victoria,2,6,10,10,2,0,14-15
+273,21/03/15,Getafe,0,Visitante,Ath Madrid,Derrota,Derrota,0,1,5,16,2,0,14-15
+274,21/03/15,Granada,0,Local,Eibar,Empate,Empate,0,4,7,14,4,0,14-15
+274,21/03/15,Eibar,0,Visitante,Granada,Empate,Empate,0,1,5,17,1,0,14-15
+275,21/03/15,Levante,0,Local,Celta,Derrota,Empate,0,3,5,17,4,0,14-15
+275,21/03/15,Celta,1,Visitante,Levante,Victoria,Empate,0,5,5,9,3,0,14-15
+276,21/03/15,Vallecano,1,Local,Malaga,Victoria,Victoria,1,2,7,20,8,0,14-15
+276,21/03/15,Malaga,0,Visitante,Vallecano,Derrota,Derrota,0,2,4,15,0,1,14-15
+277,22/03/15,Barcelona,2,Local,Real Madrid,Victoria,Empate,1,5,7,9,5,0,14-15
+277,22/03/15,Real Madrid,1,Visitante,Barcelona,Derrota,Empate,1,4,10,14,6,0,14-15
+278,22/03/15,La Coruna,0,Local,Espanol,Empate,Empate,0,1,2,10,4,0,14-15
+278,22/03/15,Espanol,0,Visitante,La Coruna,Empate,Empate,0,2,2,16,4,0,14-15
+279,22/03/15,Sociedad,3,Local,Cordoba,Victoria,Empate,1,3,9,9,1,0,14-15
+279,22/03/15,Cordoba,1,Visitante,Sociedad,Derrota,Empate,1,6,5,16,5,3,14-15
+280,22/03/15,Villarreal,0,Local,Sevilla,Derrota,Empate,0,5,8,11,2,0,14-15
+280,22/03/15,Sevilla,2,Visitante,Villarreal,Victoria,Empate,0,5,2,16,1,0,14-15
+281,03/04/15,Eibar,1,Local,Vallecano,Derrota,Derrota,1,4,4,15,3,1,14-15
+281,03/04/15,Vallecano,2,Visitante,Eibar,Victoria,Victoria,2,8,4,15,3,0,14-15
+282,04/04/15,Almeria,1,Local,Levante,Derrota,Derrota,0,3,7,18,4,1,14-15
+282,04/04/15,Levante,4,Visitante,Almeria,Victoria,Victoria,2,5,8,16,2,0,14-15
+283,04/04/15,Cordoba,0,Local,Ath Madrid,Derrota,Derrota,0,2,3,12,2,0,14-15
+283,04/04/15,Ath Madrid,2,Visitante,Cordoba,Victoria,Victoria,2,4,5,9,1,0,14-15
+284,04/04/15,Malaga,1,Local,Sociedad,Empate,Empate,0,6,12,17,4,0,14-15
+284,04/04/15,Sociedad,1,Visitante,Malaga,Empate,Empate,0,3,3,10,5,0,14-15
+285,04/04/15,Sevilla,2,Local,Ath Bilbao,Victoria,Victoria,2,5,6,17,3,0,14-15
+285,04/04/15,Ath Bilbao,0,Visitante,Sevilla,Derrota,Derrota,0,2,7,9,3,0,14-15
+286,05/04/15,Celta,0,Local,Barcelona,Derrota,Empate,0,1,4,26,2,1,14-15
+286,05/04/15,Barcelona,1,Visitante,Celta,Victoria,Empate,0,3,3,12,2,0,14-15
+287,05/04/15,Getafe,2,Local,La Coruna,Victoria,Victoria,2,4,5,19,1,0,14-15
+287,05/04/15,La Coruna,1,Visitante,Getafe,Derrota,Derrota,0,2,1,14,3,0,14-15
+288,05/04/15,Real Madrid,9,Local,Granada,Victoria,Victoria,4,11,10,6,1,0,14-15
+288,05/04/15,Granada,1,Visitante,Real Madrid,Derrota,Derrota,0,6,1,9,2,0,14-15
+289,05/04/15,Valencia,0,Local,Villarreal,Empate,Empate,0,3,2,14,2,0,14-15
+289,05/04/15,Villarreal,0,Visitante,Valencia,Empate,Empate,0,2,6,18,5,0,14-15
+290,06/04/15,Espanol,1,Local,Elche,Empate,Victoria,1,3,4,18,3,0,14-15
+290,06/04/15,Elche,1,Visitante,Espanol,Empate,Derrota,0,2,4,16,3,0,14-15
+291,07/04/15,Ath Madrid,2,Local,Sociedad,Victoria,Victoria,2,3,4,13,1,0,14-15
+291,07/04/15,Sociedad,0,Visitante,Ath Madrid,Derrota,Derrota,0,2,10,17,0,0,14-15
+292,07/04/15,Eibar,1,Local,Malaga,Victoria,Empate,0,5,4,15,3,0,14-15
+292,07/04/15,Malaga,0,Visitante,Eibar,Derrota,Empate,0,4,2,17,2,0,14-15
+293,07/04/15,Levante,1,Local,Sevilla,Derrota,Derrota,0,6,12,16,4,0,14-15
+293,07/04/15,Sevilla,2,Visitante,Levante,Victoria,Victoria,2,5,3,16,5,0,14-15
+294,08/04/15,Barcelona,4,Local,Almeria,Victoria,Victoria,1,12,14,9,1,0,14-15
+294,08/04/15,Almeria,0,Visitante,Barcelona,Derrota,Derrota,0,3,5,14,1,0,14-15
+295,08/04/15,Granada,1,Local,Celta,Empate,Victoria,1,3,1,13,4,1,14-15
+295,08/04/15,Celta,1,Visitante,Granada,Empate,Derrota,0,4,5,14,5,0,14-15
+296,08/04/15,La Coruna,1,Local,Cordoba,Empate,Empate,0,2,6,12,3,1,14-15
+296,08/04/15,Cordoba,1,Visitante,La Coruna,Empate,Empate,0,7,5,16,2,0,14-15
+297,08/04/15,Vallecano,0,Local,Real Madrid,Derrota,Empate,0,8,8,15,4,0,14-15
+297,08/04/15,Real Madrid,2,Visitante,Vallecano,Victoria,Empate,0,5,1,11,5,0,14-15
+298,09/04/15,Ath Bilbao,1,Local,Valencia,Empate,Empate,0,4,8,17,5,0,14-15
+298,09/04/15,Valencia,1,Visitante,Ath Bilbao,Empate,Empate,0,4,3,15,3,1,14-15
+299,09/04/15,Elche,0,Local,Getafe,Derrota,Empate,0,2,10,13,2,0,14-15
+299,09/04/15,Getafe,1,Visitante,Elche,Victoria,Empate,0,4,4,19,3,0,14-15
+300,09/04/15,Villarreal,0,Local,Espanol,Derrota,Derrota,0,2,7,14,1,0,14-15
+300,09/04/15,Espanol,3,Visitante,Villarreal,Victoria,Victoria,1,4,2,14,1,0,14-15
+301,11/04/15,Almeria,3,Local,Granada,Victoria,Victoria,1,9,5,16,4,0,14-15
+301,11/04/15,Granada,0,Visitante,Almeria,Derrota,Derrota,0,3,6,14,3,0,14-15
+302,11/04/15,Celta,6,Local,Vallecano,Victoria,Victoria,4,10,3,16,1,0,14-15
+302,11/04/15,Vallecano,1,Visitante,Celta,Derrota,Derrota,1,4,4,3,1,0,14-15
+303,11/04/15,Malaga,2,Local,Ath Madrid,Empate,Empate,1,3,6,13,2,0,14-15
+303,11/04/15,Ath Madrid,2,Visitante,Malaga,Empate,Empate,1,5,1,10,3,0,14-15
+304,11/04/15,Real Madrid,3,Local,Eibar,Victoria,Victoria,2,13,7,10,0,0,14-15
+304,11/04/15,Eibar,0,Visitante,Real Madrid,Derrota,Derrota,0,2,4,18,3,0,14-15
+305,11/04/15,Sevilla,2,Local,Barcelona,Empate,Derrota,1,2,2,23,5,0,14-15
+305,11/04/15,Barcelona,2,Visitante,Sevilla,Empate,Victoria,2,7,4,9,2,0,14-15
+306,12/04/15,Cordoba,0,Local,Elche,Derrota,Derrota,0,2,8,9,0,1,14-15
+306,12/04/15,Elche,2,Visitante,Cordoba,Victoria,Victoria,1,3,3,26,2,0,14-15
+307,12/04/15,Espanol,1,Local,Ath Bilbao,Victoria,Victoria,1,1,7,14,2,0,14-15
+307,12/04/15,Ath Bilbao,0,Visitante,Espanol,Derrota,Derrota,0,2,1,13,2,0,14-15
+308,12/04/15,Getafe,1,Local,Villarreal,Empate,Empate,0,2,11,9,2,0,14-15
+308,12/04/15,Villarreal,1,Visitante,Getafe,Empate,Empate,0,4,5,16,6,0,14-15
+309,12/04/15,Sociedad,2,Local,La Coruna,Empate,Empate,1,4,5,12,4,0,14-15
+309,12/04/15,La Coruna,2,Visitante,Sociedad,Empate,Empate,1,5,7,19,4,0,14-15
+310,13/04/15,Valencia,3,Local,Levante,Victoria,Victoria,2,5,5,12,3,0,14-15
+310,13/04/15,Levante,0,Visitante,Valencia,Derrota,Derrota,0,1,4,12,3,0,14-15
+311,17/04/15,Levante,2,Local,Espanol,Empate,Derrota,1,3,8,14,1,0,14-15
+311,17/04/15,Espanol,2,Visitante,Levante,Empate,Victoria,2,6,4,18,3,0,14-15
+312,18/04/15,Ath Bilbao,4,Local,Getafe,Victoria,Victoria,1,8,6,12,2,0,14-15
+312,18/04/15,Getafe,0,Visitante,Ath Bilbao,Derrota,Derrota,0,1,1,12,4,1,14-15
+313,18/04/15,Barcelona,2,Local,Valencia,Victoria,Victoria,1,5,6,18,4,0,14-15
+313,18/04/15,Valencia,0,Visitante,Barcelona,Derrota,Derrota,0,3,3,17,4,0,14-15
+314,18/04/15,La Coruna,1,Local,Ath Madrid,Derrota,Derrota,0,2,5,16,2,0,14-15
+314,18/04/15,Ath Madrid,2,Visitante,La Coruna,Victoria,Victoria,2,10,6,15,4,0,14-15
+315,18/04/15,Real Madrid,3,Local,Malaga,Victoria,Victoria,1,6,4,11,2,0,14-15
+315,18/04/15,Malaga,1,Visitante,Real Madrid,Derrota,Derrota,0,2,3,26,2,0,14-15
+316,19/04/15,Eibar,0,Local,Celta,Derrota,Derrota,0,3,1,10,2,0,14-15
+316,19/04/15,Celta,1,Visitante,Eibar,Victoria,Victoria,1,5,9,20,2,0,14-15
+317,19/04/15,Granada,1,Local,Sevilla,Empate,Victoria,1,2,5,15,2,0,14-15
+317,19/04/15,Sevilla,1,Visitante,Granada,Empate,Derrota,0,3,9,14,2,0,14-15
+318,19/04/15,Vallecano,2,Local,Almeria,Victoria,Victoria,1,9,5,18,1,0,14-15
+318,19/04/15,Almeria,0,Visitante,Vallecano,Derrota,Derrota,0,3,7,12,2,0,14-15
+319,19/04/15,Villarreal,0,Local,Cordoba,Empate,Empate,0,7,12,14,1,0,14-15
+319,19/04/15,Cordoba,0,Visitante,Villarreal,Empate,Empate,0,4,3,16,4,0,14-15
+320,20/04/15,Elche,1,Local,Sociedad,Victoria,Victoria,1,2,7,21,3,0,14-15
+320,20/04/15,Sociedad,0,Visitante,Elche,Derrota,Derrota,0,2,4,11,4,0,14-15
+321,24/04/15,Cordoba,0,Local,Ath Bilbao,Derrota,Empate,0,2,9,13,2,0,14-15
+321,24/04/15,Ath Bilbao,1,Visitante,Cordoba,Victoria,Empate,0,4,5,19,3,0,14-15
+322,25/04/15,Ath Madrid,3,Local,Elche,Victoria,Empate,0,9,9,11,3,0,14-15
+322,25/04/15,Elche,0,Visitante,Ath Madrid,Derrota,Empate,0,3,8,18,2,0,14-15
+323,25/04/15,Espanol,0,Local,Barcelona,Derrota,Derrota,0,2,5,21,5,1,14-15
+323,25/04/15,Barcelona,2,Visitante,Espanol,Victoria,Victoria,2,5,3,12,1,1,14-15
+324,25/04/15,Getafe,0,Local,Levante,Derrota,Derrota,0,2,5,9,4,0,14-15
+324,25/04/15,Levante,1,Visitante,Getafe,Victoria,Victoria,1,3,5,14,3,0,14-15
+325,25/04/15,Sociedad,0,Local,Villarreal,Empate,Empate,0,2,7,15,1,0,14-15
+325,25/04/15,Villarreal,0,Visitante,Sociedad,Empate,Empate,0,4,9,13,4,0,14-15
+326,26/04/15,Almeria,2,Local,Eibar,Victoria,Victoria,1,3,5,11,4,0,14-15
+326,26/04/15,Eibar,0,Visitante,Almeria,Derrota,Derrota,0,5,7,13,3,0,14-15
+327,26/04/15,Celta,2,Local,Real Madrid,Derrota,Derrota,2,4,5,17,3,0,14-15
+327,26/04/15,Real Madrid,4,Visitante,Celta,Victoria,Victoria,3,7,4,6,2,0,14-15
+328,26/04/15,Malaga,1,Local,La Coruna,Empate,Empate,0,5,9,17,5,0,14-15
+328,26/04/15,La Coruna,1,Visitante,Malaga,Empate,Empate,0,3,5,15,1,0,14-15
+329,26/04/15,Sevilla,2,Local,Vallecano,Victoria,Victoria,2,7,5,15,0,0,14-15
+329,26/04/15,Vallecano,0,Visitante,Sevilla,Derrota,Derrota,0,3,8,13,2,0,14-15
+330,27/04/15,Valencia,4,Local,Granada,Victoria,Victoria,2,6,2,12,3,0,14-15
+330,27/04/15,Granada,0,Visitante,Valencia,Derrota,Derrota,0,0,6,16,3,0,14-15
+331,28/04/15,Ath Bilbao,1,Local,Sociedad,Empate,Empate,0,3,7,16,2,0,14-15
+331,28/04/15,Sociedad,1,Visitante,Ath Bilbao,Empate,Empate,0,8,3,13,2,1,14-15
+332,28/04/15,Barcelona,6,Local,Getafe,Victoria,Victoria,5,12,5,11,0,0,14-15
+332,28/04/15,Getafe,0,Visitante,Barcelona,Derrota,Derrota,0,3,6,5,0,0,14-15
+333,28/04/15,Levante,1,Local,Cordoba,Victoria,Victoria,1,3,6,17,3,0,14-15
+333,28/04/15,Cordoba,0,Visitante,Levante,Derrota,Derrota,0,1,5,10,3,0,14-15
+334,29/04/15,Celta,1,Local,Malaga,Victoria,Empate,0,2,3,6,2,0,14-15
+334,29/04/15,Malaga,0,Visitante,Celta,Derrota,Empate,0,2,5,13,3,0,14-15
+335,29/04/15,Eibar,1,Local,Sevilla,Derrota,Derrota,0,3,4,17,3,0,14-15
+335,29/04/15,Sevilla,3,Visitante,Eibar,Victoria,Victoria,2,6,2,10,2,0,14-15
+336,29/04/15,Elche,4,Local,La Coruna,Victoria,Victoria,2,7,3,7,1,0,14-15
+336,29/04/15,La Coruna,0,Visitante,Elche,Derrota,Derrota,0,5,4,10,2,0,14-15
+337,29/04/15,Real Madrid,3,Local,Almeria,Victoria,Victoria,1,4,10,9,1,0,14-15
+337,29/04/15,Almeria,0,Visitante,Real Madrid,Derrota,Derrota,0,0,4,12,0,0,14-15
+338,29/04/15,Villarreal,0,Local,Ath Madrid,Derrota,Empate,0,3,7,5,0,0,14-15
+338,29/04/15,Ath Madrid,1,Visitante,Villarreal,Victoria,Empate,0,3,1,18,4,0,14-15
+339,30/04/15,Granada,1,Local,Espanol,Derrota,Derrota,0,4,8,19,2,0,14-15
+339,30/04/15,Espanol,2,Visitante,Granada,Victoria,Victoria,1,3,1,12,3,0,14-15
+340,30/04/15,Vallecano,1,Local,Valencia,Empate,Victoria,1,3,4,21,2,1,14-15
+340,30/04/15,Valencia,1,Visitante,Vallecano,Empate,Derrota,0,5,8,15,1,1,14-15
+341,01/05/15,Sociedad,3,Local,Levante,Victoria,Victoria,1,3,3,14,2,0,14-15
+341,01/05/15,Levante,0,Visitante,Sociedad,Derrota,Derrota,0,1,7,13,3,0,14-15
+342,02/05/15,Ath Madrid,0,Local,Ath Bilbao,Empate,Empate,0,3,9,8,2,0,14-15
+342,02/05/15,Ath Bilbao,0,Visitante,Ath Madrid,Empate,Empate,0,0,2,20,2,1,14-15
+343,02/05/15,Cordoba,0,Local,Barcelona,Derrota,Derrota,0,1,5,11,2,0,14-15
+343,02/05/15,Barcelona,8,Visitante,Cordoba,Victoria,Victoria,2,11,8,3,0,0,14-15
+344,02/05/15,La Coruna,1,Local,Villarreal,Empate,Empate,0,3,4,14,1,0,14-15
+344,02/05/15,Villarreal,1,Visitante,La Coruna,Empate,Empate,0,2,2,12,5,0,14-15
+345,02/05/15,Sevilla,2,Local,Real Madrid,Derrota,Derrota,1,5,8,11,4,0,14-15
+345,02/05/15,Real Madrid,3,Visitante,Sevilla,Victoria,Victoria,2,5,1,12,2,0,14-15
+346,03/05/15,Espanol,1,Local,Vallecano,Empate,Derrota,0,5,5,18,3,1,14-15
+346,03/05/15,Vallecano,1,Visitante,Espanol,Empate,Victoria,1,4,1,18,1,0,14-15
+347,03/05/15,Getafe,1,Local,Granada,Derrota,Empate,1,5,4,14,3,0,14-15
+347,03/05/15,Granada,2,Visitante,Getafe,Victoria,Empate,1,6,6,17,4,0,14-15
+348,03/05/15,Malaga,1,Local,Elche,Derrota,Derrota,0,9,5,15,3,0,14-15
+348,03/05/15,Elche,2,Visitante,Malaga,Victoria,Victoria,1,3,2,18,1,1,14-15
+349,03/05/15,Valencia,3,Local,Eibar,Victoria,Victoria,1,6,7,8,2,0,14-15
+349,03/05/15,Eibar,1,Visitante,Valencia,Derrota,Derrota,0,1,5,17,1,0,14-15
+350,04/05/15,Almeria,2,Local,Celta,Empate,Derrota,0,3,3,12,2,1,14-15
+350,04/05/15,Celta,2,Visitante,Almeria,Empate,Victoria,2,3,6,9,3,1,14-15
+351,08/05/15,Eibar,0,Local,Espanol,Derrota,Derrota,0,4,4,17,2,0,14-15
+351,08/05/15,Espanol,2,Visitante,Eibar,Victoria,Victoria,1,6,2,12,4,0,14-15
+352,09/05/15,Ath Bilbao,1,Local,La Coruna,Empate,Victoria,1,5,3,14,4,0,14-15
+352,09/05/15,La Coruna,1,Visitante,Ath Bilbao,Empate,Derrota,0,2,3,10,4,0,14-15
+353,09/05/15,Barcelona,2,Local,Sociedad,Victoria,Empate,0,8,10,9,1,0,14-15
+353,09/05/15,Sociedad,0,Visitante,Barcelona,Derrota,Empate,0,1,3,13,5,0,14-15
+354,09/05/15,Granada,2,Local,Cordoba,Victoria,Victoria,1,8,8,16,2,0,14-15
+354,09/05/15,Cordoba,0,Visitante,Granada,Derrota,Derrota,0,1,1,12,2,2,14-15
+355,09/05/15,Real Madrid,2,Local,Valencia,Empate,Derrota,0,10,12,14,4,0,14-15
+355,09/05/15,Valencia,2,Visitante,Real Madrid,Empate,Victoria,2,4,9,19,4,0,14-15
+356,10/05/15,Almeria,1,Local,Malaga,Derrota,Empate,1,4,7,15,3,0,14-15
+356,10/05/15,Malaga,2,Visitante,Almeria,Victoria,Empate,1,5,6,18,4,0,14-15
+357,10/05/15,Celta,1,Local,Sevilla,Empate,Derrota,0,2,4,17,3,0,14-15
+357,10/05/15,Sevilla,1,Visitante,Celta,Empate,Victoria,1,4,2,15,5,0,14-15
+358,10/05/15,Levante,2,Local,Ath Madrid,Empate,Empate,1,5,2,8,2,0,14-15
+358,10/05/15,Ath Madrid,2,Visitante,Levante,Empate,Empate,1,7,6,16,2,0,14-15
+359,10/05/15,Villarreal,1,Local,Elche,Victoria,Victoria,1,5,8,15,1,0,14-15
+359,10/05/15,Elche,0,Visitante,Villarreal,Derrota,Derrota,0,2,5,7,2,0,14-15
+360,11/05/15,Vallecano,2,Local,Getafe,Victoria,Victoria,1,5,8,14,2,1,14-15
+360,11/05/15,Getafe,0,Visitante,Vallecano,Derrota,Derrota,0,3,5,12,1,1,14-15
+361,17/05/15,Ath Madrid,0,Local,Barcelona,Derrota,Empate,0,3,6,23,5,0,14-15
+361,17/05/15,Barcelona,1,Visitante,Ath Madrid,Victoria,Empate,0,5,5,7,3,0,14-15
+362,17/05/15,Cordoba,1,Local,Vallecano,Derrota,Derrota,0,2,5,5,0,0,14-15
+362,17/05/15,Vallecano,2,Visitante,Cordoba,Victoria,Victoria,1,10,8,13,0,0,14-15
+363,17/05/15,Elche,2,Local,Ath Bilbao,Derrota,Victoria,2,3,1,13,2,0,14-15
+363,17/05/15,Ath Bilbao,3,Visitante,Elche,Victoria,Derrota,0,5,9,12,2,0,14-15
+364,17/05/15,Espanol,1,Local,Real Madrid,Derrota,Empate,0,3,2,17,2,0,14-15
+364,17/05/15,Real Madrid,4,Visitante,Espanol,Victoria,Empate,0,7,5,12,4,0,14-15
+365,17/05/15,Getafe,1,Local,Eibar,Empate,Empate,1,3,6,11,0,0,14-15
+365,17/05/15,Eibar,1,Visitante,Getafe,Empate,Empate,1,1,4,12,2,0,14-15
+366,17/05/15,La Coruna,2,Local,Levante,Victoria,Victoria,1,3,8,12,3,0,14-15
+366,17/05/15,Levante,0,Visitante,La Coruna,Derrota,Derrota,0,1,3,13,2,0,14-15
+367,17/05/15,Sevilla,2,Local,Almeria,Victoria,Derrota,0,3,5,17,0,0,14-15
+367,17/05/15,Almeria,1,Visitante,Sevilla,Derrota,Victoria,1,3,4,17,4,1,14-15
+368,17/05/15,Sociedad,0,Local,Granada,Derrota,Empate,0,1,3,12,2,0,14-15
+368,17/05/15,Granada,3,Visitante,Sociedad,Victoria,Empate,0,6,3,17,2,0,14-15
+369,17/05/15,Valencia,1,Local,Celta,Empate,Derrota,0,7,7,9,1,0,14-15
+369,17/05/15,Celta,1,Visitante,Valencia,Empate,Victoria,1,3,7,18,5,0,14-15
+370,17/05/15,Villarreal,2,Local,Malaga,Victoria,Empate,0,2,3,9,3,0,14-15
+370,17/05/15,Malaga,1,Visitante,Villarreal,Derrota,Empate,0,4,9,12,1,0,14-15
+371,23/05/15,Almeria,2,Local,Valencia,Derrota,Empate,2,3,3,19,2,0,14-15
+371,23/05/15,Valencia,3,Visitante,Almeria,Victoria,Empate,2,5,6,18,4,1,14-15
+372,23/05/15,Ath Bilbao,4,Local,Villarreal,Victoria,Victoria,3,8,4,13,0,0,14-15
+372,23/05/15,Villarreal,0,Visitante,Ath Bilbao,Derrota,Derrota,0,2,5,7,1,0,14-15
+373,23/05/15,Barcelona,2,Local,La Coruna,Empate,Victoria,1,7,4,6,1,0,14-15
+373,23/05/15,La Coruna,2,Visitante,Barcelona,Empate,Derrota,0,2,4,9,3,0,14-15
+374,23/05/15,Celta,3,Local,Espanol,Victoria,Empate,1,7,2,11,2,1,14-15
+374,23/05/15,Espanol,2,Visitante,Celta,Derrota,Empate,1,3,2,14,1,0,14-15
+375,23/05/15,Eibar,3,Local,Cordoba,Victoria,Victoria,3,6,4,13,1,0,14-15
+375,23/05/15,Cordoba,0,Visitante,Eibar,Derrota,Derrota,0,5,5,7,0,0,14-15
+376,23/05/15,Granada,0,Local,Ath Madrid,Empate,Empate,0,0,4,9,0,0,14-15
+376,23/05/15,Ath Madrid,0,Visitante,Granada,Empate,Empate,0,1,0,11,0,0,14-15
+377,23/05/15,Levante,0,Local,Elche,Empate,Empate,0,0,4,14,3,0,14-15
+377,23/05/15,Elche,0,Visitante,Levante,Empate,Empate,0,6,4,15,3,0,14-15
+378,23/05/15,Malaga,2,Local,Sevilla,Derrota,Empate,0,8,6,13,3,1,14-15
+378,23/05/15,Sevilla,3,Visitante,Malaga,Victoria,Empate,0,6,1,9,2,0,14-15
+379,23/05/15,Real Madrid,7,Local,Getafe,Victoria,Empate,3,11,8,12,2,0,14-15
+379,23/05/15,Getafe,3,Visitante,Real Madrid,Derrota,Empate,3,6,7,13,3,0,14-15
+380,23/05/15,Vallecano,2,Local,Sociedad,Derrota,Derrota,1,3,9,12,1,0,14-15
+380,23/05/15,Sociedad,4,Visitante,Vallecano,Victoria,Victoria,2,8,2,13,1,0,14-15
