@@ -1,0 +1,4 @@
+requests==2.21.0
+Flask==1.0.2
+numpy==1.22.3
+pandas==1.4.2
