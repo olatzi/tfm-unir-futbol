@@ -3,16 +3,37 @@
 {% block content %}
 
 <div class="container-fluid">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">Sample Page</h5>
-        <p class="mb-0">This is a sample page </p>
-        
-      </div>
+
+
+  <!-- CARD -->
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">Temporadas</h5>
+      <p class="mb-0">This is a sample page </p>
     </div>
+  </div>
+
+  <iframe title="dashboard-LaLiga-Temporadas-11-22" width="1135" height="655" src="https://app.powerbi.com/reportEmbed?reportId=46f6061e-d9a0-4d28-bd5e-594e767a1223&autoAuth=true&ctid=899789dc-202f-44b4-8472-a6d40f9eb440" frameborder="0" allowFullScreen="true"></iframe>
+
+  <!-- CARD -->
+  <div class="card mt-4">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">Partidos en detalle</h5>
+      <p class="mb-0">En este dashboard puedes ver información en detalle sobre un partido en concreto, selecciona la temporara, el equipo local y el equipo visitante.</p>
+    </div>
+    <iframe title="dashboard-LaLiga-PartidoDetalle" width="1135" height="655" src="https://app.powerbi.com/reportEmbed?reportId=fc2e267c-a6e0-4df4-8d6d-b6c253669fc4&autoAuth=true&ctid=899789dc-202f-44b4-8472-a6d40f9eb440" frameborder="0" allowFullScreen="true"></iframe>
+  </div>
 
 
-    <iframe title="dashboard-LaLiga-Temporadas11-22" width="1100" height="675" src="https://app.powerbi.com/reportEmbed?reportId=9dfb18e5-0111-4529-9442-25bb1ac25e1a&autoAuth=true&ctid=899789dc-202f-44b4-8472-a6d40f9eb440" frameborder="0" allowFullScreen="true"></iframe>
+  <!-- CARD -->
+  <div class="card mt-4 mb-2">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">Equipos</h5>
+      <p class="mb-0">En este dashboard puedes ver información en detalle sobre un partido en concreto, selecciona la temporara, el equipo local y el equipo visitante.</p>
+    </div>
+  </div>
+
+
 </div>
 
 {% endblock %}
