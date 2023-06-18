@@ -3,20 +3,60 @@
 {% block content %}
 
 <div class="container-fluid">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">PRESENTACIÓN DEL PROYECTO</h5>
-        <p class="mb-0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce cursus nisi non scelerisque dictum. Ut mattis bibendum urna, molestie scelerisque nibh mollis id. Cras ac nisi mauris. Vivamus iaculis pellentesque magna nec pellentesque. Vivamus tincidunt nec diam id scelerisque. Aliquam congue libero nec mi laoreet dignissim. Sed rhoncus venenatis turpis, id dictum augue ultricies elementum. Quisque mattis commodo laoreet. In condimentum erat ac tempus suscipit.
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">PRESENTACIÓN DEL PROYECTO</h5>
 
-          Pellentesque vitae lectus tristique, dictum orci vitae, suscipit lacus. Sed faucibus, ex nec facilisis pulvinar, nisl velit suscipit sem, id feugiat arcu enim nec ipsum. Integer porta ex ipsum. Ut dolor sapien, congue sit amet purus in, commodo eleifend metus. In hac habitasse platea dictumst. Etiam non augue laoreet purus sollicitudin vulputate eu at magna. Quisque eu magna libero.
+      <style>
+        /* Estilos CSS para los párrafos */
+        p {
+          margin-bottom: 50px; /* Ajusta la cantidad de espacio deseada */
+        }
+      </style>
+
+      <div style="display: flex;">
           
-          Suspendisse hendrerit ligula a massa consectetur, sed viverra nulla lacinia. Duis ornare lacus at velit rutrum, et porttitor est finibus. Integer porttitor risus eu felis mattis, vel pulvinar mi faucibus. Morbi condimentum nibh et justo tristique bibendum. In sodales, lectus porttitor sagittis ultrices, tellus velit pretium metus, eu tempor dolor nulla vitae est. Morbi et finibus leo. Mauris iaculis libero non interdum pellentesque. Mauris vel euismod risus. Nunc non tempus eros.
-          
-          Donec vestibulum, tortor porttitor porttitor molestie, dui urna maximus turpis, malesuada lobortis mi erat eu lacus. Sed viverra sodales neque, et placerat nulla pulvinar sed. Fusce rutrum justo mi, in venenatis eros aliquam sit amet. Nullam lacinia ex a efficitur convallis. Vivamus suscipit enim a ultrices blandit. Donec laoreet sed eros consectetur fermentum. Aenean ac porta nibh, quis porta dui. Nunc nec facilisis velit, non blandit ipsum. Curabitur rutrum sollicitudin diam, in elementum ante vehicula vel.
-          
-          Donec interdum faucibus erat, nec semper est blandit a. Aliquam sodales dignissim eros id lacinia. Integer vitae arcu libero. Cras vitae velit nec lorem elementum lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et purus et libero pretium aliquam. Proin aliquam quam elit, ac fringilla tellus luctus ac. Vestibulum quis turpis purus. Nullam non iaculis dolor. Aliquam lacinia metus nulla, ac lacinia justo tristique eu. Quisque a maximus libero.</p>
+        <div style="flex: 1;">
+          <p class="mb-0"> 
+            Bienvenidos a la página web dedicada al proyecto realizado sobre predicción de resultados en la primera división de LaLiga española. Aquí encontrarás información detallada sobre el proceso de análisis y predicción de partidos de fútbol utilizando técnicas de Machine Learning.
+          </p>
+
+          <br>
+
+          <p class="mb-0">
+            A lo largo de este proyecto, se ha explorado una amplia gama de datos históricos de LaLiga, aplicando análisis estadísticos y modelos predictivos para obtener una visión más profunda y precisa de los resultados de los partidos. Mediante el uso de técnicas avanzadas de Machine Learning, se ha buscado encontrar patrones y tendencias ocultas en los datos, con el objetivo de predecir con mayor precisión los resultados futuros.
+          </p>
+
+          <br>
+
+          <p class="mb-0">
+            En esta página web, se pueden conocer los detalles del proceso de obtención de datos, explorar las visualizaciones interactivas generadas con Power BI y descubrir los resultados obtenidos a través de los modelos de Machine Learning. Además, también se puede conocer más sobre el equipo detrás de este proyecto y su pasión por el mundo del fútbol y la ciencia de datos.
+          </p>
+
+          <br>
+
+          <p class="mb-0">
+            ¡Te invitamos a explorar y descubrir los hallazgos y conclusiones de este proyecto! Esperamos que esta página web sea una fuente informativa y entretenida para todos los aficionados al fútbol y a la ciencia de datos. ¡Disfruta de tu visita y no dudes en contactarnos si tienes alguna pregunta o comentario!
+          </p>
+
+          <p class="mb-0">
+            ¡Te invitamos a explorar y descubrir los hallazgos y conclusiones de este proyecto! Esperamos que esta página web sea una fuente informativa y entretenida para todos los aficionados al fútbol y a la ciencia de datos. ¡Disfruta de tu visita y no dudes en contactarnos si tienes alguna pregunta o comentario!
+          </p>
+
+        </div>
+
+        <div style="margin-left: 50px;">
+          <img src="{{ url_for('static', filename='images/logos/laliga-logo.png') }}" style="width: 200px;">
+        </div>
+
       </div>
+      <div style="display: flex; justify-content: center;">
+        <img src="{{ url_for('static', filename='images/img/business_machine_learning.jpg') }}" style="width: 500px;">
+      </div>
+      
+
     </div>
+  </div>
 </div>
 
 {% endblock %}
