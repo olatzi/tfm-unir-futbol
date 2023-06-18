@@ -3,55 +3,70 @@
 {% block content %}
 
 <div class="container-fluid">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">OBTENCIÓN DEL DATASET</h5>
-        <div style="display: flex;">
-          
-          <div style="flex: 1;">
-            <p class="mb-0">El primer paso de este proyecto ha sido la obtención del conjunto de datos necesario para llevar a cabo el análisis y la predicción de resultados en la primera división de LaLiga española. </p>
-            <br> 
-            <p class="mb-0">Para ello, se ha recurrido a fuentes confiables y especializadas en datos de fútbol: </p>
-          </div>
 
-          <div style="margin-left: 50px;">
-            <img src="{{ url_for('static', filename='images/img/dataset.png') }}" style="width: 80px;">
-          </div>
-
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">OBTENCIÓN DEL DATASET</h5>
+      <div class="row">
+        <div class="col-md-8">
+          <p class="mb-0">El primer paso de este proyecto ha sido la obtención del conjunto de datos necesario para llevar a cabo el análisis y la predicción de resultados en la primera división de LaLiga española.</p>
+          <br>
+          <p class="mb-0">Para ello, se ha recurrido a fuentes confiables y especializadas en datos de fútbol:</p>
         </div>
-        
-      
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/dataset.png') }}" style="width: 80px;" class="img-fluid">
+        </div>
       </div>
     </div>
+  </div>
 
-
-
-    <div class="card">
-      <div class="card-header">
-        <h5 class="card-title fw-semibold mt-2">Fuente de los datos</h5>
-      </div>
-        
-      <div class="card-body">
-         
-        <div style="display: flex;">
-            
-          <div style="flex: 1;">
-            <p class="card-text mb-0"> 
-              Los datos utilizados fueron obtenidos de la página web Football-Data (football-data.co.uk), reconocida por proporcionar resultados históricos y cuotas de apuestas para diversas ligas de fútbol. En particular, se seleccionaron los datos correspondientes a la primera división de LaLiga masculina de fútbol de España.
-            </p>
-  
-          </div>
-  
-          <div style="margin-left: 50px;">
-            <img src="{{ url_for('static', filename='images/img/logo2.jpg') }}" style="width: 300px;">
-          </div>
-  
-
-        
-  
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Fuente de los datos</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-0">Los datos utilizados fueron obtenidos de la página web Football-Data (football-data.co.uk), reconocida por proporcionar resultados históricos y cuotas de apuestas para diversas ligas de fútbol. En particular, se seleccionaron los datos correspondientes a la primera división de LaLiga masculina de fútbol de España.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/logo2.jpg') }}" style="width: 300px;" class="img-fluid">
+        </div>
       </div>
     </div>
+  </div>
 
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Contenido de los datos</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-0">El conjunto de datos recopilados abarca un período desde la temporada 2011/2012 hasta la temporada 2021/2022. Los datos se han almacenado en formato CSV (valores separados por comas), lo que facilita su manipulación y análisis en diversas herramientas y lenguajes de programación. Cada archivo de datos corresponde a una temporada específica y contiene información detallada sobre los partidos jugados, incluyendo resultados, goles marcados, goles encajados, tarjetas, entre otros.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/CSV.png') }}" style="width: 75px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Estructura y variables</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-0">Cada registro en el conjunto de datos representa un partido individual. El conjunto de datos final (que se construirá en la etapa siguiente) consta de 4.530 partidos y está caracterizado por 140 variables. Estas variables abarcan diferentes aspectos del partido, como la fecha, los equipos involucrados, las estadísticas de los equipos, las cuotas de apuestas, entre otros datos relevantes para el análisis y la predicción.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/football.png') }}"  style="width: 90px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
 
 </div>
 

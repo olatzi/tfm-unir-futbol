@@ -3,12 +3,39 @@
 {% block content %}
 
 <div class="container-fluid">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">Sample Page</h5>
-        <p class="mb-0">This is a sample page </p>
-      </div>
+
+
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">ANÁLISIS EXPLORATORIO DE DATOS (EDA)</h5>
     </div>
+    <div class="card-body">
+        
+        <div style="display: flex;">
+            <div style="flex: 1;">
+                <p class="mb-0">El siguiente paso en el desarrollo de este proyecto ha sido el análisis exploratorio de datos (Exploratory Data Analysis, EDA). El objetivo de esta etapa es comprender mejor la estructura y características de los datos obtenidos de la primera división de LaLiga española.</p>
+                <br>
+                <p class="mb-0">Este análisis se ha realizado utilizando el lenguaje de programación Python, aprovechando las bibliotecas y herramientas disponibles que facilitan la manipulación, visualización y análisis de datos.</p>
+                <br>
+                <p class="mb-0">Cabe destacar que cada archivo descargado de Football-Data correspondiente a una temporada específica contiene información de 380 partidos de la primera división de LaLiga española. Estos archivos se han examinado detalladamente para comprender su estructura y contenido.</p>
+                <br>
+                <p class="mb-0">Durante el proceso de análisis, se ha prestado especial atención a la estructura de los archivos y se ha observado cómo están organizados y qué variables están presentes en cada uno de ellos. Este paso es esencial para garantizar que los datos de todas las temporadas sean consistentes y puedan ser combinados de manera adecuada.</p>
+                <br>
+                <p class="mb-0">Además, se han aplicado técnicas de manipulación de datos para combinar los archivos de las diferentes temporadas en un único conjunto de datos coherente. Esto ha permitido tener una visión global de los partidos de la primera división de LaLiga española desde la temporada 2011/2012 hasta la temporada 2021/2022 y realizar un análisis más completo y exhaustivo.</p>
+                <br>
+                <p class="mb-0">Durante la combinación de los archivos de cada temporada, se ha agregado una nueva variable denominada "Season" que indica a qué temporada pertenece cada partido. Esta adición de información ha sido fundamental para identificar y distinguir los registros correspondientes a cada temporada específica dentro del conjunto de datos consolidado.</p>
+                <br>
+                <p class="mb-0">El conjunto de datos final utilizado en este proyecto contiene información de 4.530 partidos de la primera división de LaLiga española. Estos partidos están caracterizados por un total de 140 variables, que se observan en la Figura 5.</p>
+            
+              </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
 </div>
 
 {% endblock %}
