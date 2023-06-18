@@ -5,10 +5,54 @@
 <div class="container-fluid">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">Sample Page</h5>
-        <p class="mb-0">This is a sample page </p>
+        <h5 class="card-title fw-semibold mb-4">OBTENCIÓN DEL DATASET</h5>
+        <div style="display: flex;">
+          
+          <div style="flex: 1;">
+            <p class="mb-0">El primer paso de este proyecto ha sido la obtención del conjunto de datos necesario para llevar a cabo el análisis y la predicción de resultados en la primera división de LaLiga española. </p>
+            <br> 
+            <p class="mb-0">Para ello, se ha recurrido a fuentes confiables y especializadas en datos de fútbol: </p>
+          </div>
+
+          <div style="margin-left: 50px;">
+            <img src="{{ url_for('static', filename='images/img/dataset.png') }}" style="width: 80px;">
+          </div>
+
+        </div>
+        
+      
       </div>
     </div>
+
+
+
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title fw-semibold mt-2">Fuente de los datos</h5>
+      </div>
+        
+      <div class="card-body">
+         
+        <div style="display: flex;">
+            
+          <div style="flex: 1;">
+            <p class="card-text mb-0"> 
+              Los datos utilizados fueron obtenidos de la página web Football-Data (football-data.co.uk), reconocida por proporcionar resultados históricos y cuotas de apuestas para diversas ligas de fútbol. En particular, se seleccionaron los datos correspondientes a la primera división de LaLiga masculina de fútbol de España.
+            </p>
+  
+          </div>
+  
+          <div style="margin-left: 50px;">
+            <img src="{{ url_for('static', filename='images/img/logo2.jpg') }}" style="width: 300px;">
+          </div>
+  
+
+        
+  
+      </div>
+    </div>
+
+
 </div>
 
 {% endblock %}
