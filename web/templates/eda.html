@@ -16,6 +16,10 @@
             <div style="flex: 1;">
                 <p class="mb-0">El siguiente paso en el desarrollo de este proyecto ha sido el análisis exploratorio de datos (Exploratory Data Analysis, EDA). El objetivo de esta etapa es comprender mejor la estructura y características de los datos obtenidos de la primera división de LaLiga española.</p>
                 <br>
+                <div style="text-align: center;">
+                  <img src="{{ url_for('static', filename='images/img/eda.png') }}" style="width: 300px;">
+                </div>
+                <br>
                 <p class="mb-0">Este análisis se ha realizado utilizando el lenguaje de programación Python, aprovechando las bibliotecas y herramientas disponibles que facilitan la manipulación, visualización y análisis de datos.</p>
                 <br>
                 <p class="mb-0">Cabe destacar que cada archivo descargado de Football-Data correspondiente a una temporada específica contiene información de 380 partidos de la primera división de LaLiga española. Estos archivos se han examinado detalladamente para comprender su estructura y contenido.</p>
@@ -26,8 +30,24 @@
                 <br>
                 <p class="mb-0">Durante la combinación de los archivos de cada temporada, se ha agregado una nueva variable denominada "Season" que indica a qué temporada pertenece cada partido. Esta adición de información ha sido fundamental para identificar y distinguir los registros correspondientes a cada temporada específica dentro del conjunto de datos consolidado.</p>
                 <br>
-                <p class="mb-0">El conjunto de datos final utilizado en este proyecto contiene información de 4.530 partidos de la primera división de LaLiga española. Estos partidos están caracterizados por un total de 140 variables, que se observan en la Figura 5.</p>
-            
+                <p class="mb-0">El conjunto de datos final utilizado en este proyecto contiene información de 4.530 partidos de la primera división de LaLiga española. Estos partidos están caracterizados por un total de 140 variables:</p>
+                <div style="text-align: center;">
+                  <img src="{{ url_for('static', filename='images/img/variables_original.png') }}" style="width: 750px;">
+                </div>
+                <br>
+                <p class="mb-0">Dentro de este conjunto de variables, existen muchas que presentan información de apuestas deportivas. Estas variables se eliminan de la base de datos ya que no se van a tener en cuenta para predecir los resultados futbolísticos.</p>
+                <br>
+                <p class="mb-0">La variable explicativa, es decir, la variable dependiente que se busca predecir va a ser “FTR”, la cual está codificada por 3 categorías:
+                  <ul style="padding-left: 20px;">
+                    <li>· ‘H’ (Home Win)</li>
+                    <li>· ‘D’ (Draw)</li>
+                    <li>· ‘A’ (Away Win)</li>
+                  </ul>  
+                en función de si el equipo que juega en casa gana, empata o pierde respectivamente. A continuación, se muestra una tabla y un gráfico de barras con la muestra que pertenece a cada categoría:</p>
+                <div style="text-align: center;">
+                  <img src="{{ url_for('static', filename='images/img/distribucion_var_obj.png') }}" style="width: 650px;">
+                </div>
+                <p class="mb-0">Como se puede observar en la anterior imagen, el dataset <strong>no está balanceado</strong>, esto se tendrá en cuenta en los distintos algoritmos de Machine Learning utilizados más adelante para predecir el resultado futbolístico.</p>
               </div>
         </div>
     </div>
