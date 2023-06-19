@@ -23,7 +23,7 @@ def dataset():
 
 @app.route("/visualizacion")
 def visualizacion():
-    return render_template("visualizacion.html")
+    return render_template("visualization.html")
 
 @app.route("/eda")
 def eda():
@@ -35,11 +35,11 @@ def machineLearning():
 
 @app.route("/resultados")
 def resultados():
-    return render_template("resultados.html")
+    return render_template("results.html")
 
 @app.route("/sobre-nosotros")
 def sobre_nosotros():
-    return render_template("sobre-nosotros.html")
+    return render_template("about-us.html")
 
 
 
