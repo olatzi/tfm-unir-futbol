@@ -3,7 +3,7 @@ import json
 import os
 
 # Third party libraries
-from flask import Flask, render_template, redirect, request, url_for
+from flask import Flask, render_template, redirect, url_for
 import requests
 
 
@@ -31,7 +31,7 @@ def eda():
 
 @app.route("/machineLearning")
 def machineLearning():
-    return render_template("machineLearning.html")
+    return render_template("machine-learning.html")
 
 @app.route("/resultados")
 def resultados():

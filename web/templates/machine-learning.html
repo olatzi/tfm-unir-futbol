@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container-fluid">
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">ALGORITMOS DE MACHINE LEARNING</h5>
+      <p class="mb-4">¡Descubre nuestro análisis con Machine Learning en LaLiga española! Hemos utilizado varios algoritmos, como la regresión logística, el random forest, las redes neuronales, KNN y K-means, para predecir los resultados de los partidos.</p>
+
+      <p class="mb-4"> Nuestro equipo ha evaluado el rendimiento de estos algoritmos utilizando diversas métricas de evaluación. Mediante este análisis, hemos obtenido información valiosa sobre el desempeño de cada algoritmo y su capacidad para predecir los resultados con precisión.</p>
+        
+      <p class="mb-4">Te invitamos a explorar los resultados en nuestro dashboard interactivo. Podrás visualizar la comparativa de los resultados predichos frente a los resultados reales, así como las métricas de evaluación de cada algoritmo. Además, podrás conocer las características más importantes utilizadas por estos algoritmos en el proceso de predicción.</p>
+        
+      <p class="mb-4">¡Sumérgete en nuestro análisis y descubre cómo los algoritmos de Machine Learning pueden brindar información invaluable sobre los resultados de LaLiga española! </p>
+    </div>
+  </div>
+
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Regresión logística</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-4">La regresión logística es un método estadístico utilizado para modelar y predecir la relación entre una variable dependiente categórica y una o más variables independientes continuas o categóricas. A diferencia de la regresión lineal, que se utiliza para predecir valores numéricos continuos, la regresión logística se enfoca en problemas de clasificación binaria o multiclase, donde la variable dependiente toma valores discretos.</p>
+          <p class="card-text mb-4">Concretamente la regresión logística multiclase es una extensión de la regresión logística binaria que se utiliza para problemas de clasificación con más de dos clases. Este enfoque proporciona una forma efectiva de asignar probabilidades a cada clase en función de las variables independientes como se puede observar en la figura. El modelo estima un conjunto de coeficientes para cada clase y realiza una combinación lineal de las variables independientes ponderadas por estos coeficientes. Además, se debe cumplir que las clases son mutuamente excluyentes y no hay superposición entre ellas ya que, si existiese superposición, se deben considerar otros enfoques de clasificación distintos a este.</p>
+        </div>
+        <div class="col-md-4 mt-8">
+          <img src="{{ url_for('static', filename='images/img/Picture1.png') }}" style="width: 300px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Random Forest</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-4">El algoritmo Random Forest (Breiman, 2001) es una técnica de aprendizaje supervisado que genera múltiples árboles de decisión sobre un conjunto de datos de entrenamiento: los resultados obtenidos se combinan a fin de obtener un modelo único más robusto en comparación con los resultados de cada árbol por separado.</p>
+          <p class="card-text mb-4">El proceso de construcción de un Random Forest se divide en dos etapas principales: entrenamiento y predicción. Durante la etapa de entrenamiento, se construyen múltiples árboles de decisión utilizando diferentes muestras aleatorias del conjunto de entrenamiento. En cada nodo del árbol, se selecciona una submuestra aleatoria de características para evaluar la mejor división en función de algún criterio, como la ganancia de información o la reducción del error cuadrático medio. Este proceso se repite recursivamente hasta que se alcance un criterio de parada, como un tamaño mínimo de nodo o una profundidad máxima.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/Picture2.png') }}" style="width: 300px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Redes neuronales</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-4">Las redes neuronales, también conocidas como redes neuronales artificiales o deep learning, son un enfoque de aprendizaje automático inspirado en el funcionamiento del cerebro humano. Estas redes están compuestas por múltiples capas de neuronas interconectadas, lo que les permite capturar representaciones más complejas y jerárquicas de los datos.</p>
+          <p class="card-text mb-4">Como se puede observar en la figura, una red neuronal consta de una capa de entrada, una o más capas ocultas y una capa de salida. Cada neurona en cada capa está conectada a todas las neuronas de la capa siguiente mediante conexiones ponderadas. Estas conexiones, también conocidas como pesos, determinan la fuerza y dirección de la influencia de cada neurona en las predicciones realizadas por la red. Además, cada neurona en cada capa puede aplicar una función de activación no lineal, como la función sigmoide o la función ReLU, para introducir no linealidades en el modelo.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/Picture3.png') }}" style="width: 300px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">KNN</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-4">El algoritmo KNN (k-nearest neighbors) es un método de aprendizaje automático supervisado utilizado para clasificación y regresión que tiene objetivo principal clasificar un nuevo punto de datos o predecir un valor continúo basándose en la información proporcionada por los puntos de datos vecinos más cercanos en un espacio de características.</p>
+          <p class="card-text mb-4">La idea fundamental detrás del algoritmo KNN es que los puntos de datos similares tienden a agruparse en el espacio. Por lo tanto, si conocemos las etiquetas de los puntos de datos vecinos más cercanos a un nuevo punto, podemos inferir su etiqueta o valor basándonos en la similitud con estos vecinos. </p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/Picture4.jpg') }}" style="width: 300px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">K-means</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p class="card-text mb-0">El algoritmo K-means es un método de aprendizaje automático no supervisado utilizado para la agrupación (clustering) de datos. Su objetivo principal es particionar un conjunto de datos en k grupos o clusters, donde cada punto de datos pertenece al clúster más cercano a su centroide. </p>
+        </div>
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='images/img/Picture5.png') }}" style="width: 300px;" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Resumen resultados</h5>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        
+          <p class="card-text mb-4">Para evaluar el rendimiento de estos algoritmos, hemos utilizado varias métricas clave.
+
+            En nuestra tabla de resumen, encontrarás métricas como la precisión, la exhaustividad, la puntuación F1, la pérdida logarítmica y el error de clasificación. Estas métricas nos brindan una visión completa del desempeño de cada algoritmo y su capacidad para predecir los resultados con precisión.</p>
+        
+        <div class="d-flex justify-content-center mb-4">
+          <img src="{{ url_for('static', filename='images/img/tabla_resumen.png') }}" style="width: 900px;" class="img-fluid">
+        </div>
+      </div>
+      <p class="card-text mb-4 mt-8">Nuestro objetivo es proporcionarte información clara y concisa sobre la calidad de las predicciones obtenidas. Estas métricas nos permiten evaluar la eficacia de cada algoritmo y comparar su rendimiento.</p>
+      <p class="card-text mb-4">¡Explora nuestra tabla de resumen y descubre cómo estos algoritmos de Machine Learning han sido capaces de analizar y predecir los resultados en LaLiga española de manera efectiva!</p>
+    </div>
+  </div>
+
+</div>
+{% endblock %}

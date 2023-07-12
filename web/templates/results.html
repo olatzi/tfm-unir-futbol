@@ -5,10 +5,99 @@
 <div class="container-fluid">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">Sample Page</h5>
-        <p class="mb-0">This is a sample page </p>
+        <h5 class="card-title fw-semibold mb-4">Resultados</h5>
+        <p class="mb-0">Resultados del mejor algoritmo </p>
       </div>
     </div>
+
+
+    <!-- CARD -->
+  <div class="card mt-4">
+    <div class="card-body">
+      <h5 class="card-title fw-semibold mb-4">Resultados Random Forest</h5>
+      <p class="mb-0">En este dashboard puedes la clasificación predicha.</p>
+    </div>
+    <iframe title="dashboard-LaLiga-Resultados" width="1135" height="655" src="https://app.powerbi.com/reportEmbed?reportId=316d6000-e129-42f4-9113-8af346e11c6c&autoAuth=true&ctid=899789dc-202f-44b4-8472-a6d40f9eb440" frameborder="0" allowFullScreen="true"></iframe>
+  </div>
+
+  <!-- CARD -->
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Explicabilidad</h5>
+    </div>
+    <div class="card-body">
+      <h2>Características importantes</h2>
+
+      <table>
+        <tr>
+          <th>feature</th>
+          <th>importance</th>
+        </tr>
+        <tr>
+          <td>AST</td>
+          <td>0,146716</td>
+        </tr>
+        <tr>
+          <td>HST</td>
+          <td>0,132004</td>
+        </tr>
+        <tr>
+          <td>HC</td>
+          <td>0,074314</td>
+        </tr>
+        <tr>
+          <td>HOME</td>
+          <td>0,072576</td>
+        </tr>
+        <tr>
+          <td>AWAY</td>
+          <td>0,071042</td>
+        </tr>
+        <tr>
+          <td>HST</td>
+          <td>0,70433</td>
+        </tr>
+        <tr>
+          <td>HF</td>
+          <td>0,067508</td>
+        </tr>
+        <tr>
+          <td>AF</td>
+          <td>0,065072</td>
+        </tr>
+        <tr>
+          <td>AST</td>
+          <td>0,0644621</td>
+        </tr>
+        <tr>
+          <td>Accuracy</td>
+          <td>0,059729</td>
+        </tr>
+        <tr>
+          <td>HY</td>
+          <td>0,051483</td>
+        </tr>
+        <tr>
+          <td>AY</td>
+          <td>0,050168</td>
+        </tr>
+        <tr>
+          <td>TEMPORADA</td>
+          <td>0,049012</td>
+        </tr>
+        <tr>
+          <td>HR</td>
+          <td>0,014622</td>
+        </tr>
+        <tr>
+          <td>AR</td>
+          <td>0,0107</td>
+        </tr>
+      </table>
+
+    </div>
+  </div>
+
 </div>
 
 {% endblock %}
