@@ -3,13 +3,38 @@
 {% block content %}
 
 <div class="container-fluid">
-    <div class="card">
+    
+  <div class="card">
       <div class="card-body">
-        <h5 class="card-title fw-semibold mb-4">Resultados</h5>
+        <h1 class="card-title fw-semibold mb-4">RESULTADOS</h1>
         <p class="mb-4">En esta sección, presentamos los resultados obtenidos utilizando el algoritmo de Random Forest, que ha demostrado ser el más efectivo para nuestro proyecto. A continuación, encontrarás un dashboard interactivo que muestra la clasificación predicha de los equipos para cada temporada analizada. Esta visualización te permitirá explorar y analizar la posición estimada de cada equipo en cada temporada. </p>
         <p class="mb-1">Explora los resultados y las explicaciones del modelo para obtener una visión más completa de nuestro análisis y predicciones.</p>
       </div>
     </div>
+
+    <!-- CARD -->
+  <div class="card">
+    <div class="card-header">
+      <h5 class="card-title fw-semibold mt-2">Matriz de Confusión del Random Forest</h5>
+    </div>
+    <div class="card-body">
+
+      <div class="row">
+        
+        
+      
+        <div class="d-flex justify-content-center mb-4">
+          <img src="{{ url_for('static', filename='images/img/PictureMATRIZ_RF.png') }}" style="width: 600px;" class="img-fluid">
+        </div>
+
+      </div>
+
+      
+
+    </div>
+  </div>
+
+
 
 
     <!-- CARD -->
@@ -51,6 +76,7 @@
 
     </div>
   </div>
+
 
 </div>
 
